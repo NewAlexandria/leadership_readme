@@ -1,10 +1,10 @@
 # Team Files and Shares
 
 * You want to think of drive files as a complement to wikis and other docs
-* Setup your cloud drive to be integrated with your desktop and mobile.  Make it be the place you create new documents.
 * Create online / cloud files first, unless there is a specific need.
-* Locate your team share drive, on desktop.
 * Create offline (MS Office) files in your team’s drive.
+* Setup your cloud drive to be integrated with your desktop and mobile.  Make it be the place you create new documents.
+* Locate your team share drive, on desktop.
 * If needed, create a private folder ('my cloud') for your working drafts. Move them to a team drive instead of sharing from your private cloud.
 
 ### Best Practice
