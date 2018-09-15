@@ -1,15 +1,46 @@
 # Team Files and Shares
 
+* You want to think of drive files as a complement to wikis and other docs
+* Setup your cloud drive to be integrated with your desktop and mobile.  Make it be the place you create new documents.
+
+
 ### Google Team Drives
 
-Team Drive access permissions are at the drive level.  That means taht you typucaly get two kinds of shares:
+#### Syncing
+Google enterprise now uses Google File Stream.  You must first uninstall any existing Google desktop backup and sync utility.  __This is critical__.
+
+Then, [install Google File Stream](https://support.google.com/a/answer/7491144). You can configure it so sync all files and drives, or only some.
+
+#### Best Practice
+This is more than just pedantic process.  It gives us the highest valuation of a future audit / diligence.
+
+* Create online / cloud files first, unless there is a specific need.
+* Locate your team share drive, on desktop.
+* Create offline (MS Office) files in your team’s drive.
+* If needed, create a private folder ('my cloud') for your working drafts. Move them to a team drive instead of sharing from your private cloud.
+
+> Don’t hesitate in deciding where to create new files in the team share. __Organization can come later, if it inhibits your workflow.__  Ask for help or feedback.
+
+
+#### Team Access
+
+Team Drive access permissions are at the drive level.  That means that you typically get 3 kinds of shares:
 
 1. Edit access for the whole team, all others Comment only
 2. Company share, with Edit access for all.
 3. Private team share, with limited access (usually legal stuff)
 
+##### - sharing team drive files -
 
-Best Practice for the highest valuation of a future audit
+Team Drives have a philosophy, that makes sense once you know it.
+
+* Folders in a team drive cannot be shared.  This is to prevent accidental leaks of data.  Only files can be shared, individually.
+* Team drives need to be configured to allow any xshares outside the org.  If not, then it’s locked.
+* If you want to share with an outside vendor (like Pickaxe), then choose what files to share with them. They can manage a folder on their end.  
+* If instead, you want make a team drive for that collaboration, then you will copy and move files to that 'collaboration drive'. You can do this by download+upload in bulk.
+* This is all easiest to do when starting a new vendor relationship, and acting on each file as neeed arises.
+
+
 
  (besides me), you can remove my access and then safely add all of your files there, without exposing any of them to me.  File access is done in one place, so you have confidence that no one will accidentally expose files. 
 
