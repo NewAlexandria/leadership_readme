@@ -2,6 +2,20 @@
 
 * You want to think of drive files as a complement to wikis and other docs
 * Setup your cloud drive to be integrated with your desktop and mobile.  Make it be the place you create new documents.
+* Create online / cloud files first, unless there is a specific need.
+* Locate your team share drive, on desktop.
+* Create offline (MS Office) files in your team’s drive.
+* If needed, create a private folder ('my cloud') for your working drafts. Move them to a team drive instead of sharing from your private cloud.
+
+### Best Practice
+This is more than just pedantic process.  It gives us the highest valuation of a future audit / diligence.
+
+The important thing is that we use the team drives for important core files, and arguably any file.  Without that, the team loses files when someone that leaves the company.  Again, we should all think toward future audits and dur diligence.
+
+This is all an effort to get us as close as possible to enterprise-grade systems, without the overhead of them at enterprise scale.
+
+> Don’t hesitate in deciding where to create new files in the team share. __Organization can come later, if it inhibits your workflow.__  Ask for help or feedback.
+
 
 
 ## Google Team Drives
@@ -10,17 +24,6 @@
 Google enterprise now uses Google File Stream.  You must first uninstall any existing Google desktop backup and sync utility.  __This is critical__.
 
 Then, [install Google File Stream](https://support.google.com/a/answer/7491144). You can configure it so sync all files and drives, or only some.
-
-### Best Practice
-This is more than just pedantic process.  It gives us the highest valuation of a future audit / diligence.
-
-* Create online / cloud files first, unless there is a specific need.
-* Locate your team share drive, on desktop.
-* Create offline (MS Office) files in your team’s drive.
-* If needed, create a private folder ('my cloud') for your working drafts. Move them to a team drive instead of sharing from your private cloud.
-
-> Don’t hesitate in deciding where to create new files in the team share. __Organization can come later, if it inhibits your workflow.__  Ask for help or feedback.
-
 
 ### Team Access
 
@@ -48,8 +51,10 @@ Sales may be an exception to this, but ideally legal stuff like raw revenue, and
 
 ### Confidential Files 
 
-If you have some kind of legal files, and want to make them available to those that cannot see the  HR team drive, then we can come up with a consistent convention for all of the teams.  Perhaps an all-company team share.
+If you have some kind of legal files, and want to make them available to those that are not part of the confidential team drive, there are good patterns.
 
-The important thing is that we use the team drives for important core files.  Without that, we may lose all files created by anyone that leaves the company.  It cause another layer of risk, with leadership attrition.  Ideally this company is a jackpot, and we all retire from here, but (I argue) we need to lean toward policy for certain operational matters like this.   This is all an effort to get us as close as possible to enterprise-grade systems, without the overhead of them at enterprise scale.
+Generally these would be individual shares, such as in the case of hiring documents, compensation agreements, etc.  
+
+Bulk shares would occur in cases like all healthcare information being centralized. This would be done via bulk download and upload to a common place, to create a specific version or 'release' of that information.
 
 
