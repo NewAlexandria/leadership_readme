@@ -1,0 +1,9 @@
+{
+  "root": "./book",
+  "title": "Reflections on Practices",
+  "description": "This is a collection of writings on various practices that have been used in software and product development systems. Where possible, I will indicate ths content in which the practice was applied.",
+  "plugins": [
+    "lightbox",
+    "plantuml-cloud"
+  ]
+}
