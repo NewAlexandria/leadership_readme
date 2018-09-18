@@ -40,8 +40,8 @@ Team Drives have a philosophy, that makes sense once you know it.
 * Folders in a team drive cannot be shared.  This is to prevent accidental leaks of data.  Only files can be shared, individually.
 * Team drives need to be configured to allow any shares outside the org.  If not, then it’s locked.
 * If you want to share with an outside vendor (like Pickaxe), then choose what files to share with them. They can manage a folder on their end.  
-* If instead, you want make a team drive for that collaboration, then you will copy and move files to that 'collaboration drive'. You can do this by download+upload in bulk.
-* This is all easiest to do when starting a new vendor relationship, and acting on each file as neeed arises.
+* If instead, you want make a team drive for that collaboration, then you will copy and move files to that 'collaboration drive'. _This is akin to making a version._ You can do this by download+upload in bulk.
+* This is all easiest to do when starting a new vendor relationship, and acting on each file as need arises.
 
 #### Common Usages
 
