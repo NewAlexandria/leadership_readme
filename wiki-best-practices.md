@@ -1,5 +1,9 @@
 # Wiki Patterns	
 
+* use a wiki page when the info will be long lived
+* when the information needs to be findable wothin context to related info (eg for uour department or team)
+  * disk or cloud docs have no inherent navigation, like breadcrumbs, and so are often hard to keep track of. 
+
 ### Finding the Home
 
 
