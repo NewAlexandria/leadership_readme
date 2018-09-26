@@ -6,10 +6,17 @@
 
 ### Finding the Home
 
+there is an overall company home, which you should have received an email about when you joined. Keep it handy, as it is generally the root of all other information in the wiki. 
+
+### Pages for your department, and team
+
+Just like the company having a home, your team in your department will have a single page that is the basis of all related information. It will also include links to important tools, practices, and related resources.  
+
+If you  otoce anything that is important to your work, but it’s not mentioned there, you should feel free to add it to the page anytime. You can confirm where it goes, but proactivity trumps losing track of an important thought. 
 
 ### Make templates
 
-If many of the same pages will be made, make a template.  Templates usually capture best-practices around a topic, so it's good to get people to relate with those structures. 
+If many of the same pages will be made, make a template.  Templates usually capture best-practices around a topic, so it’s good to get people to relate with those structures. 
 
 ### Edit the Page, don't Comment
 
