@@ -26,9 +26,12 @@ Templates usually capture best-practices around a topic, so it’s good to get p
 
 Free free (anytime / future) to make direct additions to the page.  I know there can be a tendency to think that someone else is the author or maintainer of a doc – and it feels polite to not change someone else’s work.  What scales best, though, is when we all edit docs directly, and develop house-rules in the few occasions that an issue occurs.
 
+* Edit when you feel pretty sure that the information is correct for the context. 
+* Comment when sometbing requires buy-in.  When discussion or debate confirms that everyone agrees with something that could impact them. This goes for leads and non-leads. 
+
 ### Follow the main pages for your teams
 
-The wiki will typically have sections for the whole company, each 'department', and each team. You can Watch, or subscribe, to these pages and get notified when they are edited.  Far from being noise, these updates are often significant, and link you to new 'top level' things related to your group. 
+The wiki will typically have sections for the whole company, each ‘department’, and each team. You can Watch, or subscribe, to these pages and get notified when they are edited.  Far from being noise, these updates are often significant, and link you to new 'top level' things related to your group. 
 
 ### Create Email Rules for Notifications
 
