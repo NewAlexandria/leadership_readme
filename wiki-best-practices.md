@@ -27,7 +27,12 @@ Templates usually capture best-practices around a topic, so it’s good to get p
 Free free (anytime / future) to make direct additions to the page.  I know there can be a tendency to think that someone else is the author or maintainer of a doc – and it feels polite to not change someone else’s work.  What scales best, though, is when we all edit docs directly, and develop house-rules in the few occasions that an issue occurs.
 
 * Edit when you feel pretty sure that the information is correct for the context. 
-* Comment when sometbing requires buy-in.  When discussion or debate confirms that everyone agrees with something that could impact them. This goes for leads and non-leads. 
+* Comment when something requires buy-in.  When discussion or debate confirms that everyone agrees with something that could impact them. This goes for leads and non-leads. 
+
+## Replace many of your emails
+
+* If the conversation is about something that perhaps should go into wiki when you are done talking about it, consider starting it on a wiki page. 
+
 
 ### Follow the main pages for your teams
 
