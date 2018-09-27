@@ -18,7 +18,9 @@ If you notice anything that is important to your work, but it’s not mentioned 
 
 ### Make templates
 
-If many of the same pages will be made, make a template.  Templates usually capture best-practices around a topic, so it’s good to get people to relate with those structures. 
+If many of the same pages will be made, make a template.  Think about RFCs, client overviews, competitve analyses, product planning charters, etc. 
+
+Templates usually capture best-practices around a topic, so it’s good to get people to relate with those structures. 
 
 ### When to edit the Page, When to Comment
 
