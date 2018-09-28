@@ -32,6 +32,9 @@ Free free (anytime / future) to make direct additions to the page.  I know there
 ## Replace many of your emails
 
 * If the conversation is about something that perhaps should go into wiki when you are done talking about it, consider starting it on a wiki page. 
+* Comments and updates to the wiki page will send an email notification. Your workflow is the same, but creates a meaningful business artifact. 
+* Wiki pages are enduring. New hires can be included in discussions without have to retrace knowledge-transfer inconsistently.  
+* Executive and administrative assistants take on more of the role of knowledge and practice _curators._
 
 
 ### Follow the main pages for your teams
