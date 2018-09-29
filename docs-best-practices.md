@@ -7,7 +7,7 @@
 * Locate your team share drive, on desktop.
 * If needed, create a private folder ('my cloud') for your working drafts. Move them to a team drive instead of sharing from your private cloud.
 
-### Best Practice
+## Best Practice
 This is more than just pedantic process.  It gives us the highest valuation of a future audit / diligence.
 
 The important thing is that we use the team drives for important core files, and arguably any file.  Without that, the team loses files when someone that leaves the company.  Again, we should all think toward future audits and dur diligence.
@@ -16,7 +16,10 @@ This is all an effort to get us as close as possible to enterprise-grade systems
 
 > Don’t hesitate in deciding where to create new files in the team share. __Organization can come later, if it inhibits your workflow.__  Ask for help or feedback.
 
+### Naming
 
+* Use folders that match the name of your department, team, or project / epic. 
+* Avoid duplicating files and giving the name suffixes like “_09-21” or other dates.  Cloud files maintaina. history of edits that you can go back to any time.
 
 ## Google Team Drives
 
