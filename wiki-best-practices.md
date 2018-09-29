@@ -1,10 +1,14 @@
 # Wiki Patterns	
 
-* If you can edit a word doc, uou can edit a wiki page. all the formatting is the same. 
+How to wiki
+
+* If you can edit a word doc, you can edit a wiki page. all the formatting is the same. 
 * Wikis give you new formatting to create blocks of content, and show links to other wiki pages (docs) automatically.
 * Use a wiki page when the info will be long lived.
-* When the information needs to be findable within context to related info (eg for uour department or team).
+* When the information needs to be findable within context to related info (eg for your department or team).
   * disk or cloud docs have no inherent navigation, like breadcrumbs, and so are often hard to keep track of.
+
+## Core Pages
 
 ### Finding the Home
 
@@ -18,7 +22,7 @@ If you notice anything that is important to your work, but it’s not mentioned 
 
 ### Make templates
 
-If many of the same pages will be made, make a template.  Think about RFCs, client overviews, competitve analyses, product planning charters, etc. 
+If many of the same pages will be made, make a template.  Think about RFCs, client overviews, competitive analyses, product planning charters, etc. 
 
 Templates usually capture best-practices around a topic, so it’s good to get people to relate with those structures. 
 
@@ -39,9 +43,16 @@ Free free (anytime / future) to make direct additions to the page.  I know there
 
 ### Follow the main pages for your teams
 
-The wiki will typically have sections for the whole company, each ‘department’, and each team. You can Watch, or subscribe, to these pages and get notified when they are edited.  Far from being noise, these updates are often significant, and link you to new 'top level' things related to your group. 
+The wiki will typically have sections for the whole company, each ‘department,' and each team. You can Watch, or subscribe, to these pages and get notified when they are edited.  Far from being noise, these updates are often significant, and link you to new 'top level' things related to your group. 
 
-### Create Email Rules for Notifications
+### Create email rules for Notifications
 
 Avoid notification overload - use folders.  Create an "Updates" folder and create a child within it, "Wiki" or "Team Docs".  When you get email notifications about wiki updates, right-click the email and setup a new rule to organize them into that folder.  You may need help from someone that does IT support. 
 
+### Create slack channels for Notifications
+
+Notifications can go anywhere you focus on the rhythm of the team.  If that's in Slack / etc, then have wiki notifications go there. Use a new channel that's named for the topic of the wiki page, like an RFC, a team's bot channel, etc. 
+
+### Team follows
+
+A wiki admin can add watchers to a page, so a team leader can config these for the team.  Easy peazy. 
