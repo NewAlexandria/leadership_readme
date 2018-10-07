@@ -33,6 +33,11 @@ Free free (anytime / future) to make direct additions to the page.  I know there
 * Edit when you feel pretty sure that the information is correct for the context. 
 * Comment when something requires buy-in.  When discussion or debate confirms that everyone agrees with something that could impact them. This goes for leads and non-leads. 
 
+### Special Elements
+
+In Confluence, there are many blocks that can be added for searched content, code formatting, drive files, and many more.  You can get an autocomplete list by typing `{` anywhere in edit mode.   Double-click its title bar to re-edit one that you've already added.
+
+
 ## Replace many of your emails
 
 * If the conversation is about something that perhaps should go into wiki when you are done talking about it, consider starting it on a wiki page. 
@@ -56,3 +61,4 @@ Notifications can go anywhere you focus on the rhythm of the team.  If that's in
 ### Team follows
 
 A wiki admin can add watchers to a page, so a team leader can config these for the team.  Easy peazy. 
+
