@@ -26,10 +26,14 @@ Consider a possible template
 * OKRs
 * Reporting
 * Jira / backlogs
-* major wiki points, e.g. retrospectives, other common page types, etc.
+* major wiki points
+  * retrospectives,
+  * SOPs, templates, and policies
+  * other common page types
 * Patents / IP
 * Forums / Q&A / unanswered
 * comms, internal & external
+
 
 If you notice anything that is important to your work, but it’s not mentioned on your team's pages, you should feel free to add it to an existing page or a new page anytime. You can confirm where it goes, but proactively adding information trumps losing track of an important thought.  Take note of whether a page is a historic record (static) vs. a more-active living document.
 

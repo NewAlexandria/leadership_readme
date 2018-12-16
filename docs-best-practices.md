@@ -10,11 +10,22 @@
 ## Best Practice
 This is more than just pedantic process.  It gives us the highest valuation of a future audit / diligence.
 
-The important thing is that we use the team drives for important core files, and arguably any file.  Without that, the team loses files when someone that leaves the company.  Again, we should all think toward future audits and dur diligence.
+The important thing is that we use the team drives for important core files, and arguably any file.  Without that, the team loses files when someone that leaves the company.  Again, we should all think toward future audits and due diligence.
 
 This is all an effort to get us as close as possible to enterprise-grade systems, without the overhead of them at enterprise scale.
 
 > Don’t hesitate in deciding where to create new files in the team share. __Organization can come later, if it inhibits your workflow.__  Ask for help or feedback.
+
+#### Format
+
+Some use the acronym ALCOA, or ALCOA+ to guide the standard of writing for docs:
+
+* Attributable
+* Legible
+* Contemporaneous
+* Original
+* Accurate
+* with 'plus' ideals of being Consistent and Enduring. 
 
 ### Naming
 
