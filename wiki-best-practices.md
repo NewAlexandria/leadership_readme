@@ -18,7 +18,20 @@ There is an overall company home, which you should have received an email about 
 
 Just like the company having a home, your team in your department will have a single page that is the basis of all related information. It will also include links to important tools, practices, and related resources.  
 
-If you notice anything that is important to your work, but it’s not mentioned there, you should feel free to add it to the page anytime. You can confirm where it goes, but proactively adding it trumps losing track of an important thought. 
+Consider a possible template
+
+* team
+* charter
+* resources owned, repos
+* OKRs
+* Reporting
+* Jira / backlogs
+* major wiki points, e.g. retrospectives, other common page types, etc.
+* Patents / IP
+* Forums / Q&A / unanswered
+* comms, internal & external
+
+If you notice anything that is important to your work, but it’s not mentioned on your team's pages, you should feel free to add it to an existing page or a new page anytime. You can confirm where it goes, but proactively adding information trumps losing track of an important thought.  Take note of whether a page is a historic record (static) vs. a more-active living document.
 
 ### Make templates
 
