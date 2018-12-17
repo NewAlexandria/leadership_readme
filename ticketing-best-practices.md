@@ -20,3 +20,9 @@ Tasks are any change that is not user-facing. We leave-out changes to performanc
 
 ### Bugs
 Bugs make a change to anything that is not as originally specified.  This does not include changes that were not specified ideally or correctly during planning.  The purpose of a bug ticket it to notate that there was a regression or incorrect release - but it is not meant to be a penalty to individuals, as often the team collectively owns a relationship to quality. 
+
+
+## Boards
+
+As you scale, consider that you may benefit from having separate boards for each kind of work happening.  With that, different workflows / columns can help ensure that things are clear to all that work (and on) with the team.  I've seen it increase velocity in perhaps every scenario.
+
