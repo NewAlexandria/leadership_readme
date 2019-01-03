@@ -71,4 +71,3 @@ Generally these would be individual shares, such as in the case of hiring docume
 
 Bulk shares would occur in cases like all healthcare information being centralized. This would be done via bulk download and upload to a common place, to create a specific version or 'release' of that information.
 
-
