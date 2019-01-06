@@ -22,5 +22,5 @@ Thoughts on working together, and supporting organizations
 
 ## Contributing
 
-* [xxx](CODE_OF_CONDUCT.md
-* [xxx](CONTRIBUTING.md
+* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [Contributing](CONTRIBUTING.md)
