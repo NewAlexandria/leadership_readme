@@ -5,7 +5,7 @@
 |                | phase 1                                                       | phase 2                                                        | phase 3                                                                                   | phase 4                                                       |
 |----------------|---------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | main goal      | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing.  | manual / exploratory testing. | manual / exploratory testing.                             | manual / exploratory testing. | manual / exploratory testing. |
-| secondary goal | Master plan development.                                      | Write BDD feature files,structure and develop common language. | Prioritize testing labels for Continuous Delivery.Refine BDD language; improve coherence. | Automation test creation.                                     |
+| secondary goal | Master plan development.                                      | Write BDD feature files, structure and develop common language. | Prioritize testing labels for Continuous Delivery.Refine BDD language; improve coherence. | Automation test creation.                                     |
 | schedule dates |                                                               |                                                                |                                                                                           |                                                               |
 
 Our BDD outline, today, is very rough. We have one spreadsheet with many many test cases (and many are effectively duplicate). Then we have some gherkin-style tests written, with ruby-cucumber step definitions behind them. When writing new automation tests, we want to follow the ruby step definitions we have today, so that our in-house engineers have an easier time updating them.
@@ -52,3 +52,10 @@ Refine.
 2. writing more automation tests & checks.
 a. Our existing feature files
 
+## Kinds of Automated Checks and Tests
+
+On of the most common anti-patterns occurs when separation-of-concerns does not happen. The following chart presents granular separation levels that help to isolate exactly one kind of thing being tested.
+
+This skeleton of automated test-types matrixes with the product feature 'master plan' and its phased roll-out from manual to automation.  Each element of this matrix can receive prioritization, which guides the planification of the overall roadmap.  
+
+![Levels of tests, from backend units, to platform E2E](assets/QA/Agile test scopes.jpg)
