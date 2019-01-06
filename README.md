@@ -9,3 +9,18 @@ Thoughts on working together, and supporting organizations
 * [Wiki](wiki-best-practices.md)
 * [Ticketing](ticketing-best-practices.md)
 
+### Agile Groups
+* [QA and Testing](qa-test-framework.md)
+* [Distributed Teams & Remote Work](remote-work.md)
+* [Notification](notification-practices.md)
+
+### Hiring
+* [Interviewing](interviewing.md)
+* [IP Agreements](ip-agreements.md)
+
+
+
+## Contributing
+
+* [xxx](CODE_OF_CONDUCT.md
+* [xxx](CONTRIBUTING.md
