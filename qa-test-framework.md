@@ -59,3 +59,36 @@ On of the most common anti-patterns occurs when separation-of-concerns does not 
 This skeleton of automated test-types matrixes with the product feature 'master plan' and its phased roll-out from manual to automation.  Each element of this matrix can receive prioritization, which guides the planification of the overall roadmap.  
 
 ![Levels of tests, from backend units, to platform E2E](assets/QA/Agile test scopes.jpg)
+
+## Tags, and Test Scopes
+
+I also think it will help people to elaborate on the kinds of tagging that can happen, and which are related to environments (& an eventual CD process).  This concept will help people understand the movement toward the array of development environments, and how they can be used.
+
+* `@development`
+* `@staging`
+* `@performance`
+* `@UAT`
+* `@smoketests`
+* `@production`
+
+These names are typical environments in a deployment chain. If we implement a CD (continuous deployment) pipeline, then we can leverage these tags to ensure that all members of the org can participate in the definition of readiness for production. To do that, consider the tests for each environment to be a subset of the tests for the next, such that `development > staging > UAT > production`.  
+
+### Performance Testing
+
+I have ommitted performance and smoketests from this chain because they are not often subsets.  Performance tests are often a specific slice of unit and integration tests, with fixture data that demonstrates the app + infrastructure's ability to handle load.  It is worth mentioning that some companies use a scaled roll-out deployment to handle load testing.  By making the production deploy in-use by more-and-more active users, then one can confirm if it handles load.  'Performance regressions' can halt the further roll-out until a hotfix is applied.
+
+### Smoketest
+
+This term still has varied meaning.  In some cases it means the set of services, endpoints, etc, which must respond in order to confirm that systems run adequately to begin testing the whole platform/app with other tests. 
+
+These tests often get placed in 'ping' services, for health and 'heartbeat' confirmations.  Some will run them before any environments' tests, where integration tests run in that scope.
+
+Some use the term 'smoketest' to mean a subset of tests that confirm minimal system availability, but without and specific definition on that.  This document uses the former meaning.
+
+### Others
+
+* `@business`
+* `@WIP`
+* `@Ticket-1234`
+* `@production-adserve`
+* `@production-accounts`
