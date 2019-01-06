@@ -89,6 +89,19 @@ Some use the term 'smoketest' to mean a subset of tests that confirm minimal sys
 
 * `@business`
 * `@WIP`
+* `@persona @checking-rate-hunter`
 * `@Ticket-1234`
 * `@production-adserve`
 * `@production-accounts`
+
+Many other patterns of test tagging are used.  Here we will discuss a few examples
+
+"Business" test mirror smoke-tests, but pertaining to parts of the app or system that are critical for the company's revenue.  In many cases, these tests having the highest criticality and get written first.
+
+"WIP" tests have an issue that prevents them from running.  Long-term projects to unify and dedupe, tests that were written as features but without accompanying automation, tests that fail erratically, etc.  These are automation tech debt.
+
+Persona tags can represent which tests have been built for specific users' interaction with the system.
+
+Tests that use a specific Ticket number can help identify which tickets have gone into supporting this feature test.  When multiple tickets are listed, this can indicate when there exist problems in the underlying code implementation, or when the test lacks sufficiently isolated from other layers of testing (see 'Kinds of Automation Checks', above'.  Product teams can also uses these tags to help maintain an orderly backlog of tickets, and associated bugs.
+
+Environment-hyphenated tickets can identify which features depend on specific subsystems, like login, revenue systems, account management, etc. This organization of tests helps to develop subsets for simplifying CD, or for live-rechecking of critical-but-occassional systems.
