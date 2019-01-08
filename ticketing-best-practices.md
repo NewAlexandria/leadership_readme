@@ -26,3 +26,11 @@ Bugs make a change to anything that is not as originally specified.  This does n
 
 As you scale, consider that you may benefit from having separate boards for each kind of work happening.  With that, different workflows / columns can help ensure that things are clear to all that work (and on) with the team.  I've seen it increase velocity in perhaps every scenario.
 
+
+## Estimation
+
+### Some Queries
+
+```
+"Story Points" > 1.0 AND "Story Points" < 2 OR "Story Points" > 2.0 AND "Story Points" < 3 OR "Story Points" > 3.0 AND "Story Points" < 5 OR "Story Points" > 5.0 AND "Story Points" < 8 OR "Story Points" > 8.0 AND "Story Points" < 13 OR "Story Points" > 13.0 AND "Story Points" < 21 ORDER BY lastViewed DESC
+```
