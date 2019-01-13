@@ -105,3 +105,15 @@ Persona tags can represent which tests have been built for specific users' inter
 Tests that use a specific Ticket number can help identify which tickets have gone into supporting this feature test.  When multiple tickets are listed, this can indicate when there exist problems in the underlying code implementation, or when the test lacks sufficiently isolated from other layers of testing (see 'Kinds of Automation Checks', above'.  Product teams can also uses these tags to help maintain an orderly backlog of tickets, and associated bugs.
 
 Environment-hyphenated tickets can identify which features depend on specific subsystems, like login, revenue systems, account management, etc. This organization of tests helps to develop subsets for simplifying CD, or for live-rechecking of critical-but-occassional systems.
+
+
+| | Quality Areas to Test | Where | Tags * | Tooling |
+|---|-------|----|----|----|
+| 1. | Unit tests, Algorithmic | service, app | @mocked | jasmine, rspec |
+| 2. | Unit tests, Behavioral | app | @mocked, @behavioral | jasmine, karma | 3. | Feature scenarios | app, service | @validation, @calculation, @uipermissions | cucumber, capybara, VCR |
+| 4. | App Workflow, role-based | app, service? | @business, @uipermissions | cucumber, capybara, VCR |
+| 5. | End-to-End, Login, role-based | E2E tool |  @login | cucumber |
+| 6. | End-to-End, Platform (PETE) | E2E tool |  @pete | cucumber |
+| 7. | End-to-End, role, Security | E2E tool | @security | cucumber |
+
+`*` base set of likely tags, conditional to the specific automated test. Not comprehensive.
