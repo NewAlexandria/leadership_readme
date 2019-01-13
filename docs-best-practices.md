@@ -32,6 +32,32 @@ Some use the acronym ALCOA, or ALCOA+ to guide the standard of writing for docs:
 * Use folders that match the name of your department, team, or project / epic. 
 * Avoid duplicating files and giving the name suffixes like “_09-21” or other dates.  Cloud files maintaina. history of edits that you can go back to any time.
 
+### Good habits
+
+#### Make New Things
+* create a doc
+* create a spreadsheet  
+* create a slide set  
+* create a collection or folder
+* create a diagram  
+
+#### Improve Things
+* update another's doc
+* update an old doc  
+* reorganize collections (get buy-in!)
+* add more style/formatting to a doc (readability)  
+* use header levels  
+* add a TOC  
+* add a screenshot/image to a how-to
+
+#### Strengthen Connections
+* cross-link docs
+* create links to external resources  
+* create a team share  
+* create selective share  
+* create a share with people not in your org/domain
+
+
 ## Google Team Drives
 
 ### Syncing
@@ -71,3 +97,4 @@ Generally these would be individual shares, such as in the case of hiring docume
 
 Bulk shares would occur in cases like all healthcare information being centralized. This would be done via bulk download and upload to a common place, to create a specific version or 'release' of that information.
 
+s
