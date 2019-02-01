@@ -58,7 +58,7 @@ On of the most common anti-patterns occurs when separation-of-concerns does not 
 
 This skeleton of automated test-types matrixes with the product feature 'master plan' and its phased roll-out from manual to automation.  Each element of this matrix can receive prioritization, which guides the planification of the overall roadmap.  
 
-![Levels of tests, from backend units, to platform E2E](assets/QA/Agile test scopes.jpg)
+![Levels of tests, from backend units, to platform E2E](assets/QA/Agile-test-scopes.jpg)
 
 ## Tags, and Test Scopes
 
