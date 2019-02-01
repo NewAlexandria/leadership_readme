@@ -8,7 +8,7 @@ This is the more common topic of notifications.
 
 ## When to Use a Given Tool
 
-![](assets/enterprise time-base comm tooling.jpg)
+![](assets/enterprise-time-base-comm-tooling.jpg)
 
 ## Email as Notification Aggregator
 ![](assets/setting-your-own-notification-preferences.jpg)
