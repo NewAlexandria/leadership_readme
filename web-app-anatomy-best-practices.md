@@ -80,6 +80,3 @@
 * https://frontendmasters.com/books/front-end-handbook/2018/practice/skills.html
 * https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/
 * https://medium.com/airbnb-engineering/whats-next-for-mobile-at-airbnb-5e71618576ab
-* [Two decades of CMSs](https://www.linkedin.com/pulse/two-decades-web-content-management-technology-tony-byrne/)
-
-
