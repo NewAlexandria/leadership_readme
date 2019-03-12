@@ -75,7 +75,7 @@ This argues that having different cards requires significantly different set of 
 
 This can lead to data entry errors, and completeness or consistency issues.  Using dedicated fields for important card criteria enables use native validations of the ticketing system, and native reporting — e.g. JQL filter query notifications and dashboards.
 
-Likewise, Product 
+Likewise, Product teams may find use in cards for user research, A/B experiments, mocks or similar, and types of QA.  Strategy teams may have cards for cohort analysis, segmentation models, compliance criteria, etc.  Client Services teams may use may types within the onboarding stream, and have types for broadening usage, gathering success criteria, etc. 
 
 ### Keeping things Assigned
 
