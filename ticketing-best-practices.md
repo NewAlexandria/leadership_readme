@@ -71,7 +71,11 @@ The most common differentiation is between **Bugs**, and non-bugs (**Tasks**).  
 
 > The reason to differentiate types of work resides in the validation criteria, and thereby the specification criteria and context. 
 
+This argues that having different cards requires significantly different set of criteria to be evaluated about the work.  In the case of a bug, a number of reproduction criteria are required, as well as context of the environment.  All of this may reside in common fields, but doing so forces one to _templatize_ a free text area, like the description.  
 
+This can lead to data entry errors, and completeness or consistency issues.  Using dedicated fields for important card criteria enables use native validations of the ticketing system, and native reporting — e.g. JQL filter query notifications and dashboards.
+
+Likewise, Product 
 
 ### Keeping things Assigned
 
