@@ -53,17 +53,24 @@ Though this is discouraged, it happens sometimes.  We should think about doing t
 1. When work is started on something before there was time to groom it as a team. This is the most common case.
 1. Adding story points retroactively, which is common when getting into the habit of story pointing (as a team/company), and you miss some.
 
-> Add '.01' to the story points, to indicate that it was done by a single person.  E.G. {{2.01}}
+> Add `.01` to the story points, to indicate that it was done by a single person.  E.G. `2.01`
 
 #### Adding .01 serves two purposes
 
 1. It reminds others on the team why a card has story points, if they weren't involved
-1. When totaling velocity, these will add up and the velocity will look like {{214.17}}, which tells you that 17 cards were estimated by only a single person.  This is an error factor in using historical data for projections
+1. When totaling velocity, these will add up and the velocity will look like `214.17`, which tells you that `17` cards were estimated by only a single person.  This is an error factor in using historical data for projections
 
 ### Story Points and the Backlog
 
 
 ### Variations between kinds of work
+
+Card types are an important differentiation to develop on a team. It is common that a team develops its own card types, in accordance with the kind of work that occurs.  It's often best to let these types emerge, rather than forcing them on a team. Until team members see the value of using types, their under-appreciation for the solution may become source of distraction.
+
+The most common differentiation is between **Bugs**, and non-bugs (**Tasks**).  This goes for engineering teams, and looking at other teams we will quickly see other low-hanging norms.
+
+> The reason to differentiate types of work resides in the validation criteria, and thereby the specification criteria and context. 
+
 
 
 ### Keeping things Assigned
