@@ -79,4 +79,17 @@ Likewise, Product teams may find use in cards for user research, A/B experiments
 
 ### Keeping things Assigned
 
-Unassigned cards are often lost. This impacts everyone culturally, and it throws off velocity.  Ideal practice, for QA state, is that the card remains attached to the parent, and a subtask is created for the person that will QA it.
+Unassigned cards are often lost. This impacts everyone culturally, and it throws off velocity.  
+
+### The Subtask Trap
+
+Ideal practice for a state like QA, where someone else may work on it for a moment, is that the card remains assigned to the developer, and a subtask is created for the person that will QA it.  Alternatively, using types of cards in each teams' queue, a Product team's QA card may be linked to the development card. 
+
+1. This is also more ideal for point estimates with each team, and velocity correctness.  
+2. This avoids the pattern of a development card having `X` subtasks created each time, for all of the related pieces of work and validation done by other members of the agile team. 
+
+When 'groups' of subtasks are created, it tends to imply that the card should have a roll-up total of story points from all the subtasks.  This leads to inflation that has no utility: story points can be summed in other places. 
+
+It is probably best to use subtasks only when no measure is made of the work being done by those assigned the tasks.  Some patterns includes when business units are small and moving fast with a small team, or when the subtasks are a form of to-do list... which for some reason may be better than formatting a bullet-list in the card's body.  
+
+> Be cautious not to add more to-do after starting work on the card!
