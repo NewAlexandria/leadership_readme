@@ -34,3 +34,38 @@ As you scale, consider that you may benefit from having separate boards for each
 ```
 "Story Points" > 1.0 AND "Story Points" < 2 OR "Story Points" > 2.0 AND "Story Points" < 3 OR "Story Points" > 3.0 AND "Story Points" < 5 OR "Story Points" > 5.0 AND "Story Points" < 8 OR "Story Points" > 8.0 AND "Story Points" < 13 OR "Story Points" > 13.0 AND "Story Points" < 21 ORDER BY lastViewed DESC
 ```
+
+### Story Points as a Team
+
+Generally, new cards are story pointed by the agile team.  That is to say
+
+* a grooming session involves all people relevant to understanding the build and testing of a feature or task
+  * this avoids missing criteria that may require more work up-front.
+  * this avoids a bunch of new bugs and additions right before the release of the project.
+* grooming is done on a cycle like a sprint, any other interval, or as-needed
+* grooming looks to give story points to any number of cards, until enough can be worked on between now and the next time that grooming will be done
+* groomed cards can be move to the top of backlog, or whatever metaphor is used for 'ready to work by anyone one the team'
+
+### Story Points by one Person
+
+Though this is discouraged, it happens sometimes.  We should think about doing this only when:
+
+1. When work is started on something before there was time to groom it as a team. This is the most common case.
+1. Adding story points retroactively, which is common when getting into the habit of story pointing (as a team/company), and you miss some.
+
+> Add '.01' to the story points, to indicate that it was done by a single person.  E.G. {{2.01}}
+
+#### Adding .01 serves two purposes
+
+1. It reminds others on the team why a card has story points, if they weren't involved
+1. When totaling velocity, these will add up and the velocity will look like {{214.17}}, which tells you that 17 cards were estimated by only a single person.  This is an error factor in using historical data for projections
+
+### Story Points and the Backlog
+
+
+### Variations between kinds of work
+
+
+### Keeping things Assigned
+
+Unassigned cards are often lost. This impacts everyone culturally, and it throws off velocity.  Ideal practice, for QA state, is that the card remains attached to the parent, and a subtask is created for the person that will QA it.
