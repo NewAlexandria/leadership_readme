@@ -93,3 +93,4 @@ When 'groups' of subtasks are created, it tends to imply that the card should ha
 It is probably best to use subtasks only when no measure is made of the work being done by those assigned the tasks.  Some patterns includes when business units are small and moving fast with a small team, or when the subtasks are a form of to-do list... which for some reason may be better than formatting a bullet-list in the card's body.  
 
 > Be cautious not to add more to-do after starting work on the card!
+
