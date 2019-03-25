@@ -60,6 +60,7 @@ Any Charter has requirements unique to each type (or stage) of Charter. These re
 
 Sometimes Charter requirements will be brief, or expansive, based on the nature of the work in proposal and development.  This natural variation gives a clue to the relative size and complexity of a new Charter.  As well, the intuitive to create new sections of requirements, or completely abandon some, indicates when an idea maybe sufficiently new (and maybe risky) to the business.  This can also indicate shortcuts in the Charter planning process that can manifest as delivery or live support risks.  Every stakeholder benefit the process with mindfulness to these variations, and by discussing them.
 
+![](assets/agile-stages-product-dev.png)
 
 
 ## 🧭 Biz Charters
@@ -222,7 +223,9 @@ Updates to Even School and other materials used to orient new employees.
 
 # Expanded view of stages of Planning, Delivery, and Operationalization
 
-All of the above stands as a simplified version of more-detailed phases of work that go on within an RFC stage.  These phases can overlap.  The current consideration of these looks like this:
+All of the above stands as a simplified version of more-detailed phases of work that go on within an Charter stage.  These phases can overlap.  The current consideration of these looks like this:
+
+![](assets/agile-stages-cross-business.png)
 
 *     A dash '-' is minimal involvement, such as gut-checks about scope changes, etc.
 *     Release and Rollout is sometime called Launch
@@ -230,10 +233,65 @@ All of the above stands as a simplified version of more-detailed phases of work 
 *     Live Ops can involve new. response. and messaging templates, whole-team quality, revenue operations ('revops'), and FAQs.    These often get recorded into 'runbooks' that give guidance when situations occur.
 
 
+## Implementation
+
+Update the Planning epic in Jira to implement the workflow by doing the following:
+
+*     update the Planning State field to include the new states
+*     add any tasks for Charters that are not currently in the Planning project
+*     update tasks to have the correct state and assignee
+*     add a custom Charter text field to the Planning project, and populate with the appropriate links
+
+The Planning boards should be linked in a common place.  Everyone should take responsibility for making sure that the work they own (feature / Charter / epic) stays up to date, along with ensuring that checkpoints are scheduled.
+
+*     All PLAN board in jira
+*     a board, e.g. Client Side Tracking
+*     search all issues with JQL
+
+
+> Jira - See [Step-by-step guides](#Step-by-step-guides) board setup for epics and charters
+
+#### Charter/epic planning board card
+![](assets/charter-plan-card.png)
+
+#### Charter / epic card fields
+![](assets/charter-epic-card-fields.png)
+
+
+## Checkpoints
+
+Every Charter should have the following checkpoints:
+
+###     Requirements Review
+The stakeholders must agree on the requirements once they are gathered. If they do, product and engineering should agree about how to proceed with writing the Charter and schedule incremental check ins. If they cannot agree, the requirements must be reworked.
+
+### Incremental Charter Check In
+
+The product and technical designs should be informed by each other and should be iterative, so check ins among the people working on producing the Charter are really important. They're also a good way to keep momentum.
+
+### Final Review
+
+Once the Charter is complete, all stakeholders must agree on the scope of work. Ideally stakeholders should be involved in prior checkpoints so there aren't any huge surprises at this point.
+
+Stakeholders vary depending on the type of Charter. The stakeholders for a product Charter would include a product manager, the lead engineer and a business sponsor. For an eng Charter, the stakeholders might be a group of engineers.
+
+For eng Charters, the tasks handled by a product manager would be either handled by the lead engineer (e.g., gathering requirements) or skipped (e.g., producing a product design).
 
 
 ![](assets/planning-highway.jpg)
 
+
+# Open Questions
+
+1. How can the contents of the Charter be more flexible to all operations?  Product and technical design, mocks and designs, maybe story mapping and estimates? 
+1. How does the Partner Services, BizDev, and Marketing teams see the 'prod and live ops' portion of the overall flow? Invariably, this 'stage' is where we see:
+  * client services discussions,
+  * expanded scope of biz,
+  * campaigns
+  * tech-ops and saleseng, and
+  * BI ad-hoc reporting along with
+  * related eng. support.
+        
 
 # Step-by-step guides
 
