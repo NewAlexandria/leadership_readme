@@ -103,6 +103,36 @@ Related drive and docs
 We have seen an emerging need for a Product Charter in the wiki.  This planning doc collects all of the product release pieces. 
 
 
+### 📒 Requirements
+
+1. Motivation
+1. Issues
+1. Goals
+1. Owner
+1. Business Sponsor
+1. Epic link
+1. Retrospective	
+
+
+*     Motivation
+  *         Issues
+  *         Goals
+  *         Background
+  *         Requirements
+*     Requirement Header 1
+  *         1: Requirement
+*     Requirement Header 2
+  *         2: Requirement
+*     Requirement Header 3
+  *         3: Requirement
+*         Emails
+*         Monitoring & Dashboard
+*         Marketing
+*         Rollout/Rollback Plan
+*         Out of Scope
+*         Open Questions
+
+
 
 ## 🧭 Tech Charters
 ### Workflow
@@ -190,7 +220,7 @@ Updates to Even School and other materials used to orient new employees.
 
 
 
-Expanded view of stages of Planning, Delivery, and Operationalization
+# Expanded view of stages of Planning, Delivery, and Operationalization
 
 All of the above stands as a simplified version of more-detailed phases of work that go on within an RFC stage.  These phases can overlap.  The current consideration of these looks like this:
 
