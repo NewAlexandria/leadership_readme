@@ -18,7 +18,7 @@ Above all,
     1. This is, and always will be, a collegial environment. Tech will never stop mutating. Keep learning. 
 
 
-> Be Brave, Be Smart, and Give a Shit.
+> Be Brave, Be Smart, and Give a Shit
 
 
 # References
