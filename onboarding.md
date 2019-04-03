@@ -24,12 +24,11 @@ The process is generally broken up into pieces of the company's operational stru
 
 ### Departmental
 
-* The company's files are located in a set of team drives.  Ask your team about which one is theirs.  We are just finishing the consolidation of company & team files that had been stored in personal drives. If you find or are shared any, ask someone about migrating to the team share.  If you need to use the company logo in a slide set or similar, please use only these official logos.
-
-
-These drives are also your company backup of files. any working files should be stored there, not locally.  This ensures business continuity in case your computer is lost, and other scenarios.
-
-You will need to install Google File Stream on your computer, so that you have easy offline access to these files.
+* The company's files are located in a set of team drives.  Ask your team about which one is theirs.  
+* Some teams will be more or less down the roadmap of consolidating their company & team files - that had been otherwise stored in personal spaces, laptops, etc. If you find or are shared any 'cut off' like that, ask someone about migrating to the team share.  
+* These drives are also your means for backup of files. Any working files should be stored there, not locally.  This ensures business continuity in case your computer is lost, we all have to work OOO, etc.
+  * You will need to install the tool that does this local filesystem sync, like Google File Stream, on your computer.  This ensures you have easy offline access to these files as they are updated by the rest of the team.
+* If you need to use the company logo in a slide set or similar, please use only the official logos, slide templates, etc, that the marketing and PR teams provide.
 
 
 ### Team
@@ -38,8 +37,9 @@ You will need to install Google File Stream on your computer, so that you have e
 
 ![team-specific workflow diagram](assets/onboarding/example-jira-workflow.png)
 
-
-You will need a secure chat / comms too, such as a keybase.io account, for secure exchange of passwords, any PII, and other information that can constitute a data breach. If there is only one chat system at the company, ensure that it has sufficient security for transmission of high-risk information.
+* You will need a secure chat / comms too, based on whether your team handles 'high risk' information.  This can be a tool like keybase.io account, of the company's main chat if it has been secured for sharing such information.  
+  * Typically a secure chat is for secure exchange of passwords, any PII, and other information that can constitute a data breach. 
+  * If there is only one chat system at the company, ensure that it has sufficient security for transmission of high-risk information.
 
 ### Functional Area
 
