@@ -40,19 +40,14 @@ You will need a secure chat / comms too, such as a keybase.io account, for secur
 
 ### Functional Area
 
-
-
-
-
-
-
 It is very important that you read these three best-practice pages:
 
-    for drive docs
-    wiki usage.  
-    When using the tools and software on your respective team and dept, keep in mind this diagram about where to write and store information. 
+*    for drive docs
+*    wiki usage.  
+*    When using the tools and software on your respective team and dept, keep in mind this diagram about where to write and store information. 
 
-We will review the content at these three pages around 2 weeks after your start.
+Ideally, there we will review the content on these three pages, around 2 weeks after someone's start.
+
 Remember also to setup the PTO calendar, for any full or partial days you need to be OOO. Please also add your custom avatar to each of your accounts, to help others quickly identify your edits.
 There are many other apps and other things - so if you have ideas to be added to this list (ping me) or the wiki pages (update at will), then thanks for your feedback.
 
