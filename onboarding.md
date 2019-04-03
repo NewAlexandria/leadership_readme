@@ -13,11 +13,14 @@ The process is generally broken up into pieces of the company's operational stru
 ### Corporate
 
 * Our company-wide wiki home is the best switchboard to most things, including each of the depts. wiki pages.  The wiki homes are the place to get 'official' information, such as common brand materials from Marketing, specs and execution plans in the Engineering team's wiki home, sending requests to #eng-support, the new idea pitch board, or the master planning board for active projects..  If you have questions about getting onboard, this page is a great place to post them.
+
 * Glossary
 
    > Many people have felt that they benefit from reading through the glossary, and asking for more details as needed.   You will receive an invitation to the Even School onboarding, but you can glace at some of the information in advance, if you like.
 
-* d
+* Remember to setup the PTO calendar, for any full or partial days you need to be OOO, WFH, etc.  
+* Please also add your custom avatar to each of your accounts, to help others quickly identify your edits.  Faces are recognized quicker than names, and it strengthens the memory of what they like about you.
+
 
 ### Departmental
 
@@ -48,7 +51,8 @@ It is very important that you read these three best-practice pages:
 
 Ideally, there we will review the content on these three pages, around 2 weeks after someone's start.
 
-Remember also to setup the PTO calendar, for any full or partial days you need to be OOO. Please also add your custom avatar to each of your accounts, to help others quickly identify your edits.
-There are many other apps and other things - so if you have ideas to be added to this list (ping me) or the wiki pages (update at will), then thanks for your feedback.
+### Errata and Invitation
 
-Never hesitate to ping me with any questions on accounts, tooling, and configuration, or grab anyone else around you.
+There are many other apps and other things - so if you have ideas to be added to this list (ping your boss or another leader) or the wiki pages (update at will), then thanks for your feedback.
+
+Never hesitate to reach out with any questions on accounts, tooling, and configuration, or grab anyone else around you.   _Alacrity_
