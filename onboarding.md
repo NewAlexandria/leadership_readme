@@ -21,25 +21,31 @@ The process is generally broken up into pieces of the company's operational stru
 
 ### Departmental
 
+* The company's files are located in a set of team drives.  Ask your team about which one is theirs.  We are just finishing the consolidation of company & team files that had been stored in personal drives. If you find or are shared any, ask someone about migrating to the team share.  If you need to use the company logo in a slide set or similar, please use only these official logos.
+
+
+These drives are also your company backup of files. any working files should be stored there, not locally.  This ensures business continuity in case your computer is lost, and other scenarios.
+
+You will need to install Google File Stream on your computer, so that you have easy offline access to these files.
+
+
 ### Team
 
 * Compile some of the most commonly-used links needed for the team they will join.
 
 ![team-specific workflow diagram](assets/onboarding/example-jira-workflow.png)
 
+
+You will need a secure chat / comms too, such as a keybase.io account, for secure exchange of passwords, any PII, and other information that can constitute a data breach. If there is only one chat system at the company, ensure that it has sufficient security for transmission of high-risk information.
+
 ### Functional Area
 
 
 
-The company's files are located in a set of team drives.  Ask your team about which one is theirs.  We are just finishing the consolidation of company & team files that had been stored in personal drives. If you find or are shared any, ask someone about migrating to the team share.  If you need to use the company logo in a slide set or similar, please use only these official logos.
 
-These drives are also your company backup of files. any working files should be stored there, not locally.  This ensures business continuity in case your computer is lost, and other scenarios.
-You will need to install Google File Stream on your computer,
 
-so that you have easy offline access to these files.
-You will need a keybase.io account for secure password exchange, and any PII
 
-you talk about/exchange. Then request to join the evenfinancial team.
+
 It is very important that you read these three best-practice pages:
 
     for drive docs
