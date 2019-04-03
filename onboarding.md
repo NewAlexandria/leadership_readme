@@ -28,6 +28,15 @@ The process is generally broken up into pieces of the company's operational stru
 * Some teams will be more or less down the roadmap of consolidating their company & team files - that had been otherwise stored in personal spaces, laptops, etc. If you find or are shared any 'cut off' like that, ask someone about migrating to the team share.  
 * These drives are also your means for backup of files. Any working files should be stored there, not locally.  This ensures business continuity in case your computer is lost, we all have to work OOO, etc.
   * You will need to install the tool that does this local filesystem sync, like Google File Stream, on your computer.  This ensures you have easy offline access to these files as they are updated by the rest of the team.
+  * I typically underscore that it is very important that to read these three best-practice pages:
+     * for drive docs.
+     * wiki usage.  
+     * Using the right tool. 
+
+         > When using the tools and software on your respective team and dept, keep in mind this diagram about where to write and store information. 
+
+         > Ideally, there we will review the content on these three pages, around 2 weeks after someone's start.
+
 * If you need to use the company logo in a slide set or similar, please use only the official logos, slide templates, etc, that the marketing and PR teams provide.
 
 
@@ -43,13 +52,7 @@ The process is generally broken up into pieces of the company's operational stru
 
 ### Functional Area
 
-It is very important that you read these three best-practice pages:
-
-*    for drive docs
-*    wiki usage.  
-*    When using the tools and software on your respective team and dept, keep in mind this diagram about where to write and store information. 
-
-Ideally, there we will review the content on these three pages, around 2 weeks after someone's start.
+* Team-specific tools, work environment, and debugging / research.
 
 ### Errata and Invitation
 
