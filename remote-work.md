@@ -28,4 +28,27 @@ While the heading of this section is remote work, the reality is that it pertain
 | When | Tempo-schedule, or ad-hoc as needed.                                |  After a project, or on a tempo during the course of a roadmap. | Anytime necessary.                                                       |
 |  Why | Identify progress, roadblocks, and learning/adaptation touchpoints. | Identify learnings that improve macro performance.              |  Improve the contribution to active team or corporate goals, or culture. |
 
+### Influencing
+There exists a proposed scale of influencing, within civil and professional environments:
 
+#### Most Effective
+
+* Rational Persuasion
+* Inspirational Appeals
+* Consultation
+* Collaboration
+
+#### Moderately Effective
+
+* Apprising
+* Ingratiating
+* Personal Appeals
+* Exchange
+
+#### Least Effective
+
+* Legitimating
+* Coalition
+* Pressure
+
+*Collaboration* can often be thought of as the most sustainable, trainable, and practicable form of influence for maintaining organizational alignment. 
