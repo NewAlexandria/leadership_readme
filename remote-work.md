@@ -81,6 +81,21 @@ If in-person attendance of meeting 'auditors' seems important, try to follow the
 * Do not type loudly on other work, which disrupts everyone with the awareness you are not paying attention.  Even if this means you must type slower, that is the cost of the courtesy, and support of the team.
 * Sit at the edges of the room.  Avoid taking a central seat, which will implicitly make you a central member of the meeting.  Aim to be a fly on the wall.
 
-#### Have a role; assignment
+#### Have a Role
+For those that are not auditing, it will help to understand their role in the meeting.  If anyone is unsure, look to what assignment they will get as a result of the meeting.
+
+In an ideal world, each person attending a meeting could have their expected role sketched out in the meeting's agenda.  This generally wouldn't happen for several reasons, but it's a [gedanken](https://en.wikipedia.org/wiki/Thought_experiment) to help refine the efficiency of meetings. 
+
 #### Agenda
+Use the calendar invite strategically, as a 'micro-document,' to set the meeting for success.  
+
+1. Almost without exception, use the calendar invite to bullet-point-outline the scope of the meeting.  **This is very important to setting the context and expectations**.  
+2. When possible, add *links* to shared docs, for anyone who needs to read more for familiarization with the topics that the meeting needs to discuss. 
+
+Always leave 5 minutes at the end of a meeting, for closure.  Make assignments and other followup tasks.  Set dates, whether specific or rough.  Set a timer, and don't skip this.  Accountability works best when we have involvement in the tasks we need to do.
+
+⏲ And if it's a large office building, leave an additional 5 min so everyone can get to the next meeting on time. 
+
 #### Retro
+
+It's important, from time to time, to reflect on whether a meeting still needs to be held.  The best time to do this is _at the start of a meeting series_.  Set a future target date, for when the scope of the meeting may change, and need to be reviewed by all involved. 
