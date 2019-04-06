@@ -17,4 +17,15 @@ While the heading of this section is remote work, the reality is that it pertain
 
 ### Accountability
 
-* Avoid talking about an idea, but not actions to be taken by people.
+* Avoid talking about an idea, and not confirming actions to be taken by specific people.
+* Do not agree upon an action, while omitting a delivery date. (or even a touch-point for review)
+
+### Conversation Types
+
+|      | Check-in                                                            | Debrief                                                         | Refocus                                                                  |
+|------|---------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------|
+| What | Review progress toward short term goals.                            | Examines performance over time, toward goals.  OKR summaries.   |  Helps an individual understand team goals, and alignment.               |
+| When | Tempo-schedule, or ad-hoc as needed.                                |  After a project, or on a tempo during the course of a roadmap. | Anytime necessary.                                                       |
+|  Why | Identify progress, roadblocks, and learning/adaptation touchpoints. | Identify learnings that improve macro performance.              |  Improve the contribution to active team or corporate goals, or culture. |
+
+
