@@ -14,3 +14,7 @@ While the heading of this section is remote work, the reality is that it pertain
 
 * Don't just talk about ideas.  Talk about specific actions, and who will act.
 * Agree on both an action, and a target delivery date.  Or, groom the card for story-point estimation
+
+### Accountability
+
+* Avoid talking about an idea, but not actions to be taken by people.
