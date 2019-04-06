@@ -59,6 +59,10 @@ Multitasking emerges naturally with optimization, and growth of the company.  Wh
 
 > 💡 The tl;dr here is that if many people are not paying attention in a meeting, make the meeting more concise, change its membership, and consider canceling it in favor async status updates.
 
+#### Participation
+
+Participation heals all wounds.  If it won't happen naturally, then there's something to fix with the meeting.  If you're leading the meeting, and it's not getting fixed, invite someone who can help to join the next one.
+
 #### Note taking
 Laptops and other devices are a natural part of taking notes, for many people.  The use for notes needs to be reinforced.  People still need to avoid 'banging' on keyboards, and disrupting the flow of presentation and conversation.
 
@@ -77,7 +81,6 @@ If in-person attendance of meeting 'auditors' seems important, try to follow the
 * Do not type loudly on other work, which disrupts everyone with the awareness you are not paying attention.  Even if this means you must type slower, that is the cost of the courtesy, and support of the team.
 * Sit at the edges of the room.  Avoid taking a central seat, which will implicitly make you a central member of the meeting.  Aim to be a fly on the wall.
 
-#### Participation
 #### Have a role; assignment
 #### Agenda
 #### Retro
