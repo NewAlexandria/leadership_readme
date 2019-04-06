@@ -46,9 +46,14 @@ The process is generally broken up into pieces of the company's operational stru
 
 ![team-specific workflow diagram](assets/onboarding/example-jira-workflow.png)
 
-* You will need a secure chat / comms too, based on whether your team handles 'high risk' information.  This can be a tool like keybase.io account, of the company's main chat if it has been secured for sharing such information.  
+### Chat 
+
+There are many cognitive studies on chat systems, and so on. One of the most common tangible anti-patterns of chat is the communication of passwords, and other shared secrets. 
+
+* You will need a secure chat / comms too, based on whether your team handles 'high risk' information.  This can be a tool like keybase.io account, or the company's main chat if it has been secured for sharing such information.  
   * Typically a secure chat is for secure exchange of passwords, any PII, and other information that can constitute a data breach. 
   * If there is only one chat system at the company, ensure that it has sufficient security for transmission of high-risk information.
+  * Send secret info via DMs is not enough.  A compromised account will cause a breach.
 
 ### Functional Area
 
