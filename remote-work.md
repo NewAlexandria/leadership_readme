@@ -123,3 +123,14 @@ Always leave 5 minutes at the end of a meeting, for closure.  Make assignments a
 ### Retro
 
 It's important, from time to time, to reflect on whether a meeting still needs to be held.  The best time to do this is _at the start of a meeting series_.  Set a future target date, for when the scope of the meeting may change, and need to be reviewed by all involved. 
+
+## Meeting People in Your Company
+
+Smalltalk can be merciless.  Within your corporation, it becomes easier to turn your questions to the environment and the corporate 'state of the nation.'
+
+* What is your role?
+* How will we interact?
+* What are you expectations of me / my team?
+* What are something I/we can help with?
+* What is working well on the team / Recent accomplishments?
+* Anything I can tell you?
