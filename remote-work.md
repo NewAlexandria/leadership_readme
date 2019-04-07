@@ -1,6 +1,8 @@
-# Remote Work
+# Distributed Teams
 
-While the heading of this section is remote work, the reality is that it pertains to all work.  The modern workplace operates remotely for all people.  Most businesses operate with support teams and individuals, whether they are full-time or part-time.  This _distributed team_ environment requires social and technical evolution. 
+> a.k.a. 'remote work'
+
+While the heading of this section could be 'remote work,' the reality is that it pertains to all work.  The modern workplace operates remotely for all people.  Most businesses operate with support teams and individuals, whether they are full-time or part-time.  This _distributed team_ environment requires social and technical evolution. 
 
 * teams are inherent distributed. No one should hold the pronoun 'remote', as this makes them a second-class citizen in the company culture. This leads to them be left out of discussions, decisions, and other parts of the business. 
 * The most effective forms of influence 
@@ -9,6 +11,25 @@ While the heading of this section is remote work, the reality is that it pertain
   * consultation
   * collaboration
 
+## Connecting
+
+Whether in person, or particularly when working as a distributed organization, with distributed leadership, it is important to *practice* communications.  
+
+1. #### Active Listening
+
+    It's simple: pay attention.  *Model *what you're hearing, not just listen for instructions. 
+
+2. #### Focus on Behaviour
+
+    In the absence of _body language_, it is critical to focus on the behaviours (decisions and actions) of people. Similarly, no one will interpret your body language. 
+    
+3. #### Balanced Response
+
+    We all have a tone of signals to interpret. The easiest way to avoid misunderstanding is to have a balanced response.  If the basis of a communication is criticism, make sure to point out the strengths that also exist.  If the basis is praise, be sure to offer support for growth, too.
+
+4. #### Cameras On
+
+    Audio is a thin channel.  Maintaining your face on-camera during a call will create trust and bonding. *You will also learn about your facial expressions, which for some people will be an eye-opening lesson.*  There will be some occasions where you cannot have the camera on — in preparation for these times, set your profile's avatar to your face.  This will trigger peoples' memory about who they're speaking with, and still work to reinforce the bonding.  Set the same avatar everywhere, to further reinforce that memory. 
 
 ## Meetings
 
@@ -53,6 +74,7 @@ There exists a proposed scale of influencing, within civil and professional envi
 
 *Collaboration* can often be thought of as the most sustainable, trainable, and practicable form of influence for maintaining organizational alignment. 
 
+----
 ### Multitasking
 
 Multitasking emerges naturally with optimization, and growth of the company.  While it is not ideal, there are a few key mechanisms to understand, talk about, and have clear for all.
@@ -86,7 +108,9 @@ For those that are not auditing, it will help to understand their role in the me
 
 In an ideal world, each person attending a meeting could have their expected role sketched out in the meeting's agenda.  This generally wouldn't happen for several reasons, but it's a [gedanken](https://en.wikipedia.org/wiki/Thought_experiment) to help refine the efficiency of meetings. 
 
-#### Agenda
+----
+
+### Agenda
 Use the calendar invite strategically, as a 'micro-document,' to set the meeting for success.  
 
 1. Almost without exception, use the calendar invite to bullet-point-outline the scope of the meeting.  **This is very important to setting the context and expectations**.  
@@ -96,6 +120,6 @@ Always leave 5 minutes at the end of a meeting, for closure.  Make assignments a
 
 ⏲ And if it's a large office building, leave an additional 5 min so everyone can get to the next meeting on time. 
 
-#### Retro
+### Retro
 
 It's important, from time to time, to reflect on whether a meeting still needs to be held.  The best time to do this is _at the start of a meeting series_.  Set a future target date, for when the scope of the meeting may change, and need to be reviewed by all involved. 
