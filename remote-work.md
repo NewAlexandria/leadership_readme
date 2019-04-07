@@ -134,3 +134,21 @@ Smalltalk can be merciless.  Within your corporation, it becomes easier to turn 
 * What are something I/we can help with?
 * What is working well on the team / Recent accomplishments?
 * Anything I can tell you?
+
+## Knowledge Flows in the Company
+
+### Top Down
+
+* CKO
+* Analyst Days
+* Executive Interviews
+* Mission / Vision / Strategy
+
+
+### Bottom Up
+
+* Focus groups
+* High-Performer analysis
+* Input to VPs
+* VP & Director 360s
+* External Research
