@@ -12,3 +12,5 @@
 * mission
 * roadmap
 * legacy
+* tooling
+* docs
