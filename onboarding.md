@@ -8,7 +8,7 @@ There are a few core things to getting rolling correctly in a company – for an
 The process is generally broken up into pieces of the company's operational structure.  It helps to see this on your own, in case no one presents it this way.
 
 
-![A tree of corporate structure, and you orientation](assets/onboarding/NHO doc heirarchy.jpg)
+![A tree of corporate structure, and you orientation](assets/onboarding/NHO-doc-heirarchy.jpg)
 
 ### Corporate
 
