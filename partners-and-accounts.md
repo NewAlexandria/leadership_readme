@@ -3,7 +3,7 @@
 Interacting with partners involves a mix of 
 1. capturing all critical data and 
 1. making adjustments to our partnership(s) that make the most sense for them
-1. not overcomplexifying thgeir scope of work in a way that harms the relationship 
+1. not overcomplexifying their scope of work in a way that harms the relationship 
 
 ## Phone conversations
 Learning the best judgement skills, to apply (only) what is applicable to your conversation, can be an art.  
