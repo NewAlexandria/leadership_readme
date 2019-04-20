@@ -27,6 +27,8 @@ Some use the acronym ALCOA, or ALCOA+ to guide the standard of writing for docs:
 * Accurate
 * with 'plus' ideals of being Consistent and Enduring. 
 
+![visual of the ALCOA meaning](assets/docs/good-docs-acronym-ALCOA.jpg)
+
 ### Naming
 
 * Use folders that match the name of your department, team, or project / epic. 
