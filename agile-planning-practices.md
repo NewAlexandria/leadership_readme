@@ -147,7 +147,7 @@ Track potential and complete Charters using tasks that implement a workflow that
   * Requirements iterations with Product
   * Storymap
   * Writing details
-1. **Build Backlog** - With a storymap in place, an estimation can get approved by biz-prod-eng stakeholders, and prioritized by ROI that mixes the needs of all stakeholders.  Once approved, the Charter is prepared for implementations. The tasks remains assigned to the lead engineer while the associated epic is staffed and scheduled. A full backlog will get built by an agile team that breaks-down the storymap.  Provided no new discovery was made that changes the estimates, boards are built in Jira.  The epic kicks off, and the task changes state to In Progress.
+1. **Build Backlog** - With a storymap in place, an estimation can get approved by biz-prod-eng stakeholders, and prioritized by [ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp) that mixes the needs of all stakeholders.  Once approved, the Charter is prepared for implementations. The tasks remains assigned to the lead engineer while the associated epic is staffed and scheduled. A full backlog will get built by an agile team that breaks-down the storymap.  Provided no new discovery was made that changes the estimates, boards are built in Jira.  The epic kicks off, and the task changes state to In Progress.
 1. **In Progress** - when the corresponding epic is complete, the task is marked complete.  The team will do a retrospective to learn from the Charter and share that knowledge with other teams.
 
 ### 📒 Requirements
@@ -190,6 +190,7 @@ Several on-liner sentences that speak about the things that users will do while 
 ### Workflow
 
 This is still TBD, as many variations occur in Launching. Sometimes, no meaningful launch plan will appear, because stakeholder review, and natural discussion, have solved the needs for launch.  Other times, elaborate launch planification documents are needed to ensure the success of Even and its partners.
+
 ### 📒 Requirements
 
 * Partner Services / AM docs
@@ -262,7 +263,7 @@ The Planning boards should be linked in a common place.  Everyone should take re
 
 Every Charter should have the following checkpoints:
 
-###     Requirements Review
+### Requirements Review
 The stakeholders must agree on the requirements once they are gathered. If they do, product and engineering should agree about how to proceed with writing the Charter and schedule incremental check ins. If they cannot agree, the requirements must be reworked.
 
 ### Incremental Charter Check In
