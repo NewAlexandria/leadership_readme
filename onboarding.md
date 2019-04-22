@@ -8,7 +8,7 @@ There are a few core things to getting rolling correctly in a company – for an
 The process is generally broken up into pieces of the company's operational structure.  It helps to see this on your own, in case no one presents it this way.
 
 
-![A tree of corporate structure, and you orientation](assets/onboarding/NHO-doc-heirarchy.jpg)
+![A tree of corporate structure, and you orientation](assets/onboarding/NHO-doc-hierarchy.jpg)
 
 ### Corporate
 
@@ -21,6 +21,7 @@ The process is generally broken up into pieces of the company's operational stru
 * Remember to setup the PTO calendar, for any full or partial days you need to be OOO, WFH, etc.  
 * Please also add your custom avatar to each of your accounts, to help others quickly identify your edits.  Faces are recognized quicker than names, and it strengthens the memory of what they like about you.
 
+🔗 [More details on Corp-level onboarding](onboarding/NHO-corp.md).
 
 ### Departmental
 
@@ -39,6 +40,7 @@ The process is generally broken up into pieces of the company's operational stru
 
 * If you need to use the company logo in a slide set or similar, please use only the official logos, slide templates, etc, that the marketing and PR teams provide.
 
+🔗 [More details on Departmental onboarding](onboarding/NHO-dept.md).
 
 ### Team
 
@@ -46,7 +48,7 @@ The process is generally broken up into pieces of the company's operational stru
 
 ![team-specific workflow diagram](assets/onboarding/example-jira-workflow.png)
 
-### Chat 
+#### Chat 
 
 There are many cognitive studies on chat systems, and so on. One of the most common tangible anti-patterns of chat is the communication of passwords, and other shared secrets. 
 
@@ -55,9 +57,13 @@ There are many cognitive studies on chat systems, and so on. One of the most com
   * If there is only one chat system at the company, ensure that it has sufficient security for transmission of high-risk information.
   * Send secret info via DMs is not enough.  A compromised account will cause a breach.
 
+🔗 [More details on onboarding into a team](onboarding/NHO-team.md).
+
 ### Functional Area
 
 * Team-specific tools, work environment, and debugging / research.
+
+🔗 [More details on onboarding into a company's guilds](onboarding/NHO-practice-group.md).
 
 ### Errata and Invitation
 
