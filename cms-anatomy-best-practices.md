@@ -54,6 +54,8 @@
 * Price
 * Clients
 
+![Commercial CMS spectrum of complexity](assets/cms/CMS-complexity-spectrum.png)
+
 # References
 * [Two decades of CMSs](https://www.linkedin.com/pulse/two-decades-web-content-management-technology-tony-byrne/)
 * https://docs.google.com/spreadsheets/d/1Tf7m7_y245-YZ9RAQZ-Pg6jkokqR32KnFx3jHIb_0es/edit#gid=925676804
