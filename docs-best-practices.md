@@ -59,6 +59,11 @@ Some use the acronym ALCOA, or ALCOA+ to guide the standard of writing for docs:
 * create selective share  
 * create a share with people not in your org/domain
 
+### Consider Your Audience
+
+Regardless of where you are adding a piece of writing, and regardless of its size, there is an audience.  
+
+![Writing audience guides](assets/Writing-Sytle-Guide.jpg)
 
 ## Google Team Drives
 
@@ -98,5 +103,4 @@ If you have some kind of legal files, and want to make them available to those t
 Generally these would be individual shares, such as in the case of hiring documents, compensation agreements, etc.  
 
 Bulk shares would occur in cases like all healthcare information being centralized. This would be done via bulk download and upload to a common place, to create a specific version or 'release' of that information.
-
-s
+	
