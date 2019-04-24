@@ -18,7 +18,9 @@ Thoughts on working together, and supporting organizations
 * [Interviewing](interviewing.md)
 * [IP Agreements](ip-agreements.md)
 
+## The Roadmap
 
+![](assets/Agile-Underground.jpg)
 
 ## Contributing
 
