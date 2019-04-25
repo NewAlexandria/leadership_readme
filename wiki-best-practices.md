@@ -37,6 +37,10 @@ Consider a possible template
 
 If you notice anything that is important to your work, but it’s not mentioned on your team's pages, you should feel free to add it to an existing page or a new page anytime. You can confirm where it goes, but proactively adding information trumps losing track of an important thought.  Take note of whether a page is a historic record (static) vs. a more-active living document.
 
+### Language for Page Types
+
+![](assets/docs/Writing-Sytle-Guide.jpg)
+
 ### Make templates
 
 If many of the same pages will be made, make a template.  Think about RFCs, client overviews, competitive analyses, product planning charters, etc. 
@@ -50,10 +54,29 @@ Free free (anytime / future) to make direct additions to the page.  I know there
 * Edit when you feel pretty sure that the information is correct for the context. 
 * Comment when something requires buy-in.  When discussion or debate confirms that everyone agrees with something that could impact them. This goes for leads and non-leads. 
 
+#### Inline, or Footer
+
+Most wiki pages support either inline comments, or footer ('free') comments.  *Durability* of the comment commonly drives which to use.
+
+> Inline comments often deal with a question, or imperative, that may result in changing the highlighted->commented text.
+
+Many wikis allow the inline comment display to be accompanied by a "`Resolve`" button.  Many comments can be left inline, in a series, like an email thread or text chat.  Resolving a comment implies that the discussion resulted in a completed action, and often Resolving hides the comments in the page's history.
+
+If the text that 'anchors' the comment is removed in an edit, usually the comment automatically is hidden.
+
+![Inline commenting is key](assets/docs/wiki-inline-comments.png)
+
+Footer comments annotate the whole page with an idea.  Often these comments allow a threaded discussion.  In most cases, the comments do not automatically hide, or have a `Resolve` concept.  As such, footer comments often have long durability. 
+
 ### Special Elements
 
 In Confluence, there are many blocks that can be added for searched content, code formatting, drive files, and many more.  You can get an autocomplete list by typing `{` anywhere in edit mode.   Double-click its title bar to re-edit one that you've already added.
 
+## Common Edits in Hypermedia 
+
+Use `monospace` font for indicating a symbolic concept.  Think of a 'symbol' as any *noun* or *thing*, particularly those having durability across a broad scope in the system.
+
+![](assets/docs/wiki-monospace-text.png)
 
 ## Replace many of your emails
 
