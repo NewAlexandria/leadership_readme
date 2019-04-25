@@ -63,7 +63,7 @@ Some use the acronym ALCOA, or ALCOA+ to guide the standard of writing for docs:
 
 Regardless of where you are adding a piece of writing, and regardless of its size, there is an audience.  
 
-![Writing audience guides](assets/Writing-Sytle-Guide.jpg)
+![Writing audience guides](assets/docs/Writing-Sytle-Guide.jpg)
 
 ## Google Team Drives
 
