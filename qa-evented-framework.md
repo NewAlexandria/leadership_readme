@@ -1,6 +1,6 @@
 # Testing of Relational systems to Event systems
 
-We need to make sure that each service can do things on its own, while also we need to understand if they work together in concert.  Replaying an event stream can validate both.  Replays would be done be
+We need to make sure that each service can do things on its own, while also we need to understand if they work together in concert.  Replaying an event stream can validate both.
 
 ## Service Health Permutations
 
