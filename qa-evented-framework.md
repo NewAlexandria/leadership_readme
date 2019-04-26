@@ -13,6 +13,12 @@ In the context of an event-driven set of services, there are some new strategies
 * Stability when other services are down
 * Recoverability from downtime,  segmentation, and multiplicity. 
 
+## Service Dependencies
+
+These tests would work within the scope of each service, e.g. Customer, User, Roles, Contract, and Approvals.  For multi-service ‘workflows’, there it seems there is some degree of order needed: Customer & User first, then Roles & Contracts, and finally Approvals.  This is based on the assumption that they stack in this way – but in principle this would work in regardless of the appropriate order.  
+
+This order could be defined as a dependency tree, in the test harness config or in a more generalized config as for terraform or kubernetes.
+
 ## Test Types, or Layers
 
 The above link calls out the kind of test-isolation layers that we should look for in this situation.  The app-level integration tests (usually focused on interfaces), can be generalized here to any application’s or service’s interface with another.  In this way, we can preserve the ideas of 
@@ -23,10 +29,6 @@ The above link calls out the kind of test-isolation layers that we should look f
     - Operational integration tests
     - Multi-step integration tests
     - Multi-service integration tests
-
-## Service Dependencies
-
-These tests would work within the scope of each service, e.g. Customer, User, Roles, Contract, and Approvals.  For multi-service ‘workflows’, there it seems there is some degree of order needed: Customer & User first, then Roles & Contracts, and finally Approvals.  This is based on the assumption that they stack in this way – but in principle this would work in regardless of the appropriate order.  This order could be defined as a dependency tree, in the test harness config or in a more generalized config as for terraform or kubernetes.
 
 ## Seeding event data
 
@@ -43,7 +45,7 @@ The primary way to accomplish this is with the services / applications themselve
 Such initialization need not be limited to bootstrapping, but can also be applied to 
 
 * cache-warming, 
-* data for test mocks or 'fabracations', and 
+* data for test mocks or 'fabrications', and 
 * 'live event simulation' for compliance. 
 
 ### Seed Generation
