@@ -7,7 +7,7 @@ For now, this is quick list of operational practices and skills that relate to d
 * ETL
 * Integrations
 * Resourcing / hardware
-* DBA
+* DBA (data store admin)
 
 ## Business Analyst
 * Data Dictionaries
@@ -21,6 +21,5 @@ For now, this is quick list of operational practices and skills that relate to d
 * Ad-hoc models
 * Validation
 * Forecasting
-* ML / AI, special case
-* Research
-
+* ML / AI, special cases
+* Exploratory Research
