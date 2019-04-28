@@ -1,11 +1,12 @@
 # Wiki Patterns	
 
-How to wiki
+*How to wiki*
 
-* If you can edit a word doc, you can edit a wiki page. all the formatting is the same. 
-* Wikis give you new formatting to create blocks of content, and show links to other wiki pages (docs) automatically.
-* Use a wiki page when the info will be long lived.
-* When the information needs to be findable within context to related info (eg for your department or team).
+* If you can edit a word doc, you can edit a wiki page. All the formatting is the same. 
+* Wikis give you new formatting to create *blocks of content*, embed widgets, and show links to other wiki pages (docs) automatically.
+* Use a wiki page when 
+  * the info will be *long lived.*
+  * When the information needs to be findable *within context to related info* (e.g. for your department or team).
   * disk or cloud docs have no inherent navigation, like breadcrumbs, and so are often hard to keep track of.
 
 ## Core Pages
@@ -18,21 +19,23 @@ There is an overall company home, which you should have received an email about 
 
 Just like the company having a home, your team in your department will have a single page that is the basis of all related information. It will also include links to important tools, practices, and related resources.  
 
-Consider a possible template
+#### Consider a possible template:
 
-* team
-* charter
-* resources owned, repos
+* Team
+* Charter
+* Resources owned, repos
 * OKRs
 * Reporting
 * Jira / backlogs
-* major wiki points
-  * retrospectives,
+* Major wiki points
+  * Retrospectives,
   * SOPs, templates, and policies
   * other common page types
 * Patents / IP
 * Forums / Q&A / unanswered
-* comms, internal & external
+* Comms channels, internal & external 
+  * including social
+  * Conferences and presentations
 
 
 If you notice anything that is important to your work, but it’s not mentioned on your team's pages, you should feel free to add it to an existing page or a new page anytime. You can confirm where it goes, but proactively adding information trumps losing track of an important thought.  Take note of whether a page is a historic record (static) vs. a more-active living document.
@@ -83,7 +86,7 @@ Use `monospace` font for indicating a symbolic concept.  Think of a 'symbol' as 
 * If the conversation is about something that perhaps should go into wiki when you are done talking about it, consider starting it on a wiki page. 
 * Comments and updates to the wiki page will send an email notification. Your workflow is the same, but creates a meaningful business artifact. 
 * Wiki pages are enduring. New hires can be included in discussions without have to retrace knowledge-transfer inconsistently.  
-* Executive and administrative assistants take on more of the role of knowledge and practice _curators._
+* Executives and administrative assistants take on more of the role of knowledge and practice _curators_, in order to serve the leadership role of the future.
 
 
 ### Follow the main pages for your teams
