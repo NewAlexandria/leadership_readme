@@ -11,7 +11,7 @@ In the context of an event-driven set of services, there are some new strategies
 * Services’ stand-alone functionality
 * Correct interaction with related services
 * Stability when other services are down
-* Recoverability from downtime,  segmentation, and multiplicity. 
+* Recoverability from downtime, segmentation (latency), and multiplicity. 
 
 ## Service Dependencies
 
@@ -32,37 +32,38 @@ The above link calls out the kind of test-isolation layers that we should look f
 
 ## Seeding event data
 
-The typical sources for testing data are 
+The typical sources for testing data are
 
-* backups, 
-* exogenous imports, and 
-* seed data.  
+* backups,
+* exogenous imports, and
+* seed data.
 
 These can be read from relational databases, flat files, graph stores, etc.  In all cases, the importance lies with correctly translating source data into network events.
 
-The primary way to accomplish this is with the services / applications themselves.  Specific business logic is generally located within a specific service.  Such [micro] service design patterns include an initialization function that translates stored data into event activity.  
+The primary way to accomplish this is with the services / applications themselves.  Specific business logic is generally located within a specific service.  Such [micro] service design patterns include an initialization function that translates stored data into event activity.
 
-Such initialization need not be limited to bootstrapping, but can also be applied to 
+Such initialization need not be limited to bootstrapping, but can also be applied to
 
-* cache-warming, 
-* data for test mocks or 'fabrications', and 
-* 'live event simulation' for compliance. 
+* cache-warming,
+* data for test mocks or 'fabrications', and
+* 'live event simulation' for compliance.
 
 ### Seed Generation
+
+Sourced (non-seed) data needs to be ‘fuzzed’ or changed to anonymize values that could represent PII, trade secrets, IP, or otherwise. Sourcing such data from a sanitized dictionary is more correct than scrambling or permuting the data in-place data, since sufficient analysis may reveal clues useful in a security/hack operation.  
 
 An ideal strategy is to generate seed data from sources, using statistical modeling.  Such methods include 
 
 * bounds identification, 
-* freshet distribution, 
+* fréchet distribution, 
 * holographic reduced representation, 
 * fast-fourier transform, 
 * irrelevant variable removal, 
 * spectrum-based variance localization
 * and others
 
-These and others form a general class of heuristic analysis that can be used to produce data kernels for seed data.  Besides derived data, it is important to add ‘oracle’ data, such as canary data that was known to cause issues of specific risk. 
+These and others form a general class of heuristic analysis that can be used to produce data kernels for seed data.  Besides derived data, it is important to add ‘oracle’ data, such as canary data that was known to cause issues of specific risk.  Product-specified tests are another form of oracle data, and are so common that they are often overlooked as such.
 
-Sourced (non-seed) data needs to be ‘fuzzed’ or changed to anonymize values that could represent PII, trade secrets, IP, or otherwise. Sourcing such data from a sanitized dictionary is more correct than scrambling or permuting the data in-place data, since sufficient analysis may reveal clues useful in a security/hack operation.  
 
 ### I18n
 Even then, ideally the created data follows certain situational norms, such as person-names localized to the jurisdiction / society of the users, heuristically-correct data bounds, etc.  
