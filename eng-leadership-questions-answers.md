@@ -28,7 +28,7 @@ With some qualifiers, yes, 10yr experience.  This comes from being the first and
 
 1 formally as that title, though the past 4 years have served that role, or higher. Having started 4 companies and led a capital raise once, I have as many as 8 yr total experience with practices attention related to the VP of Engineering role.
 
-### Startup experience ?
+### Startup Experience?
 
 I've started 4 companies, and led a raised capital.  I've been an advisor to several startups and stable small-businesses in a paid capacity. I've scaled companies from the 10s to the 60s, and past 150.  I've taken a pivotal role in engineering organizations over 200 headcount.
 
@@ -38,18 +38,21 @@ I've started 4 companies, and led a raised capital.  I've been an advisor to sev
 
 ### Any examples of consumer facing mobile/web applications (ideally in the fintech space) that you’ve built that you are most proud of? 
 
+📙 [Many of these are outlined in my StackOverflow timeline](https://stackoverflow.com/story/newalexandria)
 
+#### Consumer Financial Products
 MyBankTracker and Investopedia are both publishers in the space of consumer financial products.  With each of these I built and lead the creation of a high performance / high traffic content assembly system that had top SEO and SEM characteristics.  
 
 In both cases, as well as Even, I designed and led the creation of a widget system for financial Product display.  Display formats included free tables, calculators, questionnaires, recommenders full page content highlight cards, and a range of IAB formats.   All of these were designed to work with a personalization engine that drew data from our content pages, as well as from data metrics pulled from across the range of our partner network.  
 
-All of these systems redefine the way that we did our business intelligence process, on account of being able to perform more targeted multivariate optimization on both sides of our two-sided marketplace.   I was a strong ally to business planning and modeling teams, on the counter by extensive experience with business ontologies, and related industrial data standards and steering committees.  
+All of these systems redefine the way that we did our business intelligence process, on account of being able to perform more targeted multivariate optimization on both sides of our two-sided marketplace.   I was a strong ally to business planning and modeling teams, on the counter by extensive experience with business ontologies, and related industrial data standards and steering committees.
+
+#### Loans
 
 I led several impactful changes to a loan origination system (reverse syndication). This included data warehousing and big data engineering (reporting times from 16-28hrs, to 30-70minutes);  a remarketing and reengagement messaging framework that worked with application state and regulatory compliance;  and back office operational tooling that doubled our throughput.  
  
 
 ### Can you speak to any key metrics to measure their success?
-
 
 Many were embedded above. The SEO and SEM measures enabled us to push many of our pages into the first 1-2 pages of search results.  I learned more elaborate strategies for this at Investopedia.  
 
@@ -57,12 +60,13 @@ With their personalization and recommendation systems, the key metrics were size
 
 ### Do you have experience building customer-facing applications where fast iteration and growth needs to be balanced with precision and regulation?
 
-
 Most of the above systems had that constraint.  Individual pages or widgets would be redeveloped with new tech that provided better data. Deployment would enable production ‘isolation’ and reliability. New data dashboard pages would be beta tested before migration.  External tools would be leveraged before building and supporting something in house. 
 
 New product / features would be chartered and agile-planned at the business level before leaping to an engineering build.  This created lean loops that minimized Engineering time until relevant. 
 
+
 ### Overall, What projects or initiatives are you most proud of spearheading or leading?
 
+The personalization (p13n) engine. The way that p13n was used for SEM, as well as network data management & modeling.
 
-The personalization (p13n) engine. The way that p13n was used for SEM, as well as network data management & modeling.   Another one was a ‘market business cloud’, which I developed and evolved at Bloomberg, and Medidata, and Even.  This is a PaaS product that enabled partners to write and deploy code (apps, and analysics) into our N-sided marketplace.  In each company, this lead to IP-development discussions with the C-suite and patent counsel. 
+Another one was a ‘market business cloud’, which I developed and evolved at Bloomberg, and Medidata, and Even.  This is a PaaS product that enabled partners to write and deploy code (apps, and analysics) into our N-sided marketplace.  In each company, this lead to IP-development discussions with the C-suite and patent counsel.
