@@ -1,5 +1,14 @@
 # Coaching and Training
 
+## Scaling Teams
+
+At small companies the main pain is hiring experienced-enough people that ‘jr’ devs can be hired later, and join a strong set of workflows and relationships.  
+
+With larger teams and mature companies, the pains are usually onboarding knowledge-transfer (‘all the things’) and balancing who does specialization vs generalist eng. problem solving.  With distributed teams,  all meetings and checking’s need to be slightly more regular more consistent than entirely local offices,  as well as the instigation of shared cultural experiences among the team.
+
+The choice to code-eval during interview is another major cultural pattern.  Consistent interviews, trusting fairness, and strengthening viewpoint diversity also need to be solved.
+
+All of these things cannot be wholly owned by engineering leadership unless  something major is omitted, like more hands-on architectural involvement, or process workflow and coordination, either within engineering or cross-company.  
 
 ## The PIP
 
