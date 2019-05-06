@@ -1,5 +1,7 @@
 # Common Q&A
 
+I believe in servant-leadership, and have ascribed to this since early in my career.
+
 ## Startup
 
 ### Do you have experience in a Start Up Culture?
