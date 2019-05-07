@@ -50,6 +50,24 @@ If many of the same pages will be made, make a template.  Think about RFCs, clie
 
 Templates usually capture best-practices around a topic, so it’s good to get people to relate with those structures. 
 
+#### Tech Docs
+
+Remember to include
+
+* Who uses this product/feature?
+
+* What does it do?
+
+* How does it fit in with other products and features that are made by the company?
+
+* What types of information will this product or feature need? Conceptual overviews, Task-based instructions, command or API references?
+
+* Does any other parts of the product require technical information to be authored, such as user interfaces, command interfaces, etc?
+
+* What formats would be useful for the information? Are there standards in place at this company already that can be followed? 
+
+    You might have to contact an entirely different person in the company about this part - another technical writer, or user interface designer would be a good start.
+
 ### When to edit the Page, When to Comment
 
 Free free (anytime / future) to make direct additions to the page.  I know there can be a tendency to think that someone else is the author or maintainer of a doc – and it feels polite to not change someone else’s work.  What scales best, though, is when we all edit docs directly, and develop house-rules in the few occasions that an issue occurs.
