@@ -63,31 +63,7 @@ I have built internal tools and workflows, for sales, marketing, and strategy te
 I have lead strategy and platform product definition in B2B2C environments, and the modernization of numerous legacy internal CMS, CRM, and compliance toolchains.  This includes experience defining projects, collecting requirements, writing detailed functional and test specifications, coordinating efforts to scope, schedule and deploy new features sets, thinking beyond the bounds of the scenario at hand, and creating and environment where everyone can share these same ideas.
 
 
-## Domain Knowledge:
-
-### How would you handle a rapid increase in website traffic?
-
-The strategies to prepare for scaling are beyond the scope of this answer box.  Avoid getting into tooling and env costs, often around typesafe languages, and leaning into smart, cache-able, systems designs — this is one reliable way to scale up with low cost and be able to plan for the optimal high-volume-business design for the engineering team.  Many (not all) workarounds are fixes based on this template.
-
-### How many years of experience do you have with highly trafficked websites?
-
-My first truly high-traffic site was in 2000-2002 (ecomm), but I didn't work on another until 2010.  Most have been high-traffic since then, and several in publishing where ever 10-20ms significantly adds up. I've dealt with large-data-volume businesses since 2000.
-
-### Any examples of consumer facing mobile/web applications (ideally in the fintech space) that you’ve built that you are most proud of? 
-
-📙 [Many of these are outlined in my StackOverflow timeline](https://stackoverflow.com/story/newalexandria)
-
-#### Consumer Financial Products
-MyBankTracker and Investopedia are both publishers in the space of consumer financial products.  With each of these I built and lead the creation of a high performance / high traffic content assembly system that had top SEO and SEM characteristics.  
-
-In both cases, as well as Even, I designed and led the creation of a widget system for financial Product display.  Display formats included free tables, calculators, questionnaires, recommenders full page content highlight cards, and a range of IAB formats.   All of these were designed to work with a personalization engine that drew data from our content pages, as well as from data metrics pulled from across the range of our partner network.  
-
-All of these systems redefine the way that we did our business intelligence process, on account of being able to perform more targeted multivariate optimization on both sides of our two-sided marketplace.   I was a strong ally to business planning and modeling teams, on the counter by extensive experience with business ontologies, and related industrial data standards and steering committees.
-
-#### Loans
-
-I led several impactful changes to a loan origination system (reverse syndication). This included data warehousing and big data engineering (reporting times from 16-28hrs, to 30-70minutes);  a remarketing and reengagement messaging framework that worked with application state and regulatory compliance;  and back office operational tooling that doubled our throughput.  
- 
+## Domain Knowledge
 
 ### Can you speak to any key metrics to measure their success?
 
@@ -109,3 +85,41 @@ The personalization (p13n) engine. The way that p13n was used for SEM, as well a
 Another one was a ‘market business cloud’, which I developed and evolved at Bloomberg, and Medidata, and Even.  This is a PaaS product that enabled partners to write and deploy code (apps, and analysics) into our N-sided marketplace.  In each company, this lead to IP-development discussions with the C-suite and patent counsel.
 
 
+## Domain Knowledge: Traffic
+
+### How would you handle a rapid increase in website traffic?
+
+The strategies to prepare for scaling are beyond the scope of this answer box.  Avoid getting into tooling and env costs, often around typesafe languages, and leaning into smart, cache-able, systems designs — this is one reliable way to scale up with low cost and be able to plan for the optimal high-volume-business design for the engineering team.  Many (not all) workarounds are fixes based on this template.
+
+### How many years of experience do you have with highly trafficked websites?
+
+My first truly high-traffic site was in 2000-2002 (ecomm), but I didn't work on another until 2010.  Most have been high-traffic since then, and several in publishing where ever 10-20ms significantly adds up. I've dealt with large-data-volume businesses since 2000.
+
+
+## Domain Knowledge: Finance
+
+### Any examples of consumer facing mobile/web applications (ideally in the fintech space) that you’ve built that you are most proud of? 
+
+📙 [Many of these are outlined in my StackOverflow timeline](https://stackoverflow.com/story/newalexandria)
+
+#### Consumer Financial Products
+MyBankTracker and Investopedia are both publishers in the space of consumer financial products.  With each of these I built and lead the creation of a high performance / high traffic content assembly system that had top SEO and SEM characteristics.  
+
+In both cases, as well as Even, I designed and led the creation of a widget system for financial Product display.  Display formats included free tables, calculators, questionnaires, recommenders full page content highlight cards, and a range of IAB formats.   All of these were designed to work with a personalization engine that drew data from our content pages, as well as from data metrics pulled from across the range of our partner network.  
+
+All of these systems redefine the way that we did our business intelligence process, on account of being able to perform more targeted multivariate optimization on both sides of our two-sided marketplace.   I was a strong ally to business planning and modeling teams, on the counter by extensive experience with business ontologies, and related industrial data standards and steering committees.
+
+#### Loans
+
+I led several impactful changes to a loan origination system (reverse syndication). This included data warehousing and big data engineering (reporting times from 16-28hrs, to 30-70minutes);  a remarketing and reengagement messaging framework that worked with application state and regulatory compliance;  and back office operational tooling that doubled our throughput.  
+
+
+## Domain Knowledge: Data Products
+
+### Experience with data driven tech?
+
+I think any of my experience since 2015 was principally data-driven.  MyBankTracker, Investopedia/Dotdash, Even Financial.  All of these companies had data-driven business models.  Online publications is principally driven by our SEM and SEO measures. The editorial calendar, and thus our engineering cycles, revolved around it, and led to numerous nuanced updates that had large business impact.  Beyond publishing, data drives decisions about widget featured to add, which enable a higher-resolution development of our user personal modeling (for traffice segmentation).  While at Bloomberg, bug and feature requests were prioritized by data (frequency + value), without only rare prioritization of requests for high-status clients.  At Percipio, we had a more extreme single-minded focus on using data to drive decisions about how A/B tests affected revenue — to the point that tests were rarely used because revenue changes after-deployment were the simplest way to test the efficacy of incremental feature changes.
+
+### Data as product/service experience?
+
+In the cases above where we segmented traffic, these models would for data-products that we sold to out partners.  At MyBankTracker we also had a sizable web crawling/scraping programme, which was repackaged as a data / API subscription service.  For MyBankTracker, Investopedia/Dotdash, Even Financial, our traffic was organized by the personalization engine, into API calls to our demand-side partners (financial institutions).  This was an API data product that was the backbone of revenue.  At Medidata, one of the 5 product tiers was a data products that collected longitudinal and operational data from across the clinical trial, and this data was the direct product for use in the clients' analytics and planning programmes. At MyBankTracker we were developing a data product for revenue estimation of financial media websites.  
