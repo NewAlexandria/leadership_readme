@@ -45,7 +45,7 @@ Be Brave, Be Smart, and Give a Shit
 
 ## Career Paths
 
-I still sit with the lawrgely-yypical career ladder.  Management and executive titles go with people and leadership skills.  Principle, Architect, and similar titles remain in the code — specifically: *measuring* and *teaching*.  SREs are in both main branches. 
+I still sit with the largely-typical career ladder.  Management and executive titles go with people and leadership skills.  Principle, Architect, and similar titles remain in the code — specifically: *measuring* and *teaching*.  SREs are in both main branches. 
 
 I still see lots of architect roles being performed like a (TPM) technical project manager.  Doing so skews expectations and the market.  It's not a 'tinker neat things' position.
 
