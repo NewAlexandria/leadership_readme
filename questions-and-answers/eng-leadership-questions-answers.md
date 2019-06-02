@@ -28,7 +28,7 @@ I've started 4 companies, and led a raised capital.  I've been an advisor to sev
 
 ### How do you scale organizations?
 
-I think the core of this is to form a deep understanding of individuals, work with their strengths, assess needs, timelines to close gaps.  I am very mindful in how I apply these to successfully to develop diverse high-performing teams.  I have cultivated lifelong-learning environments, that maintain a collegiate energy for people in all career stages. 
+I think the core of this is to form a deep understanding of individuals, really listen to them, work with their strengths, assess needs, timelines to close gaps.  I am very mindful in how I apply these to successfully to develop diverse high-performing teams.  I have cultivated lifelong-learning environments, that maintain a collegiate energy for people in all career stages. 
 
 At Medidata Solutions, I lead a cornerstone reinvention of the app patterns and agile practices for products within our vertical.  This was made a template for other teams in the US and UK.  From that, I became a lead role for 2 guilds (cross-team practice groups), participation in a third, and a central roll in the development and roll-out of the new corporate intranet for all 1300 staff.  
 
