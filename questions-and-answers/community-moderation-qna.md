@@ -29,3 +29,8 @@
 *   Give people as much agency as you can. The people closest to the issues tend to be the ones that are best suited to make the best decisions.
 *   Require accountability as a tool for success. When you think of accountability, you might think of blame, and that means you’re probably a victim of  bad management. Positive accountability means you’ve created a space where trust, support and agency run freely and people understand what’s their role is, and what success looks like. This means teaching people to learn to embrace mistakes as an opportunity for growth and improvement.
 *   Autonomy is critical to a sense of ownership. Folks need high-level direction in order to thrive, but even more essential is the space to interpret goals and distill them out into a strategy that they can act on in their own very unique circumstances. Some people need more help than others, but not getting in someone’s way while serving as a guard rail and a mentor can be really, really, really hard.
+
+
+## References
+
+* [StackOverflow MetaZoo episode on rating/grading questions](https://meta.stackexchange.com/questions/328475/unicorn-meta-zoo-3-how-do-we-grade-questions?cb=1)
