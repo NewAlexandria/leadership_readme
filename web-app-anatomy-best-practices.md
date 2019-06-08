@@ -71,7 +71,31 @@
 * Exceptions handling
 
 
-
+# Design Patterns
+
+The topic of design patterns is moreover the semantics of the language of systems.  While 'architecture' may take the form of the measurement, by the history of these measures the signifiers of 'design patterns' appear.  
+
+Some of these:
+
+* [SOLID](https://en.wikipedia.org/wiki/SOLID)
+  * Single responsibility
+  * Open–closed
+  * Liskov substitution
+  * Interface segregation
+  * Dependency inversion
+* Patterns
+  * Controller
+    * Creator
+    * Indirection
+    * Information expert
+    * High cohesion
+    * Low coupling
+    * Polymorphism
+    * Protected variations
+    * Pure fabrication
+
+Without a more elaborate dictionary of patterns, we can already consider how the total set of all patterns is the configurations of different resource types defined by the 'metal' of the OS.
+
 # References
 * https://frontendmasters.com/books/front-end-handbook/2018/practice/skills.html
 * https://medium.com/discovery-engineering/component-level-isomorphic-webpack-code-splitting-b98922382cc1
