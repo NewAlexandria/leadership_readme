@@ -13,3 +13,7 @@
 1. commenting: https://commentbox.io/?ref=stackshare
 1. API Theme? https://github.com/GitbookIO/theme-api
 1. Refs: https://github.com/posquit0/awesome-engineering-team-principles
+
+# Publishing
+
+* [Leanpub](https://leanpub.com/create/book)
