@@ -11,6 +11,22 @@ While the heading of this section could be 'remote work,' the reality is that it
   * consultation
   * collaboration
 
+
+## Forming teams
+
+### Guilds, Tribes, and Functional areas
+
+### Line of Business teams
+
+### Project teams
+
+1. forming a collective identity, 
+1. moving toward
+1. collective action, and engaging in reflexive dialog
+
+### Extreme Development
+
+
 ## Connecting
 
 Whether in person, or particularly when working as a distributed organization, with distributed leadership, it is important to *practice* communications.  
