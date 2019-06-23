@@ -20,22 +20,23 @@ A break-down of the specific patterns occurring aroused disagreement about the s
 
 I knew that any solution would need as much input as possible, and the socialization of that knowledge.  The socialization would not-only ensure we had a rich perspective, but also help those that were defending any options we may not pick to feel aligned with a go-forward plan.  I realized this would take support from outside perspectives as well.  I considered how I would want perspective, in the same way.  It was also clear that different peoples' communications styles would require different meeting formats and hearing styles, and that due to normal time constraints, some of these discussions would need to to occur as a part of existing meetings.
 
+### work to disconfirm the assumptions
+
 I got feedback from people during meetings, and in 1:1 sessions.  I asked people in confidence, seeking 'tough choice' opinions of the situation, as well as in group settings where I supported each rationale and mediated dialogue.  I researched meetups and professional consultants in the community.  I discovered that many teams that epitomized 'scala vanguards' did not use it for the admin-style portal webapp that we were seeing as a route to Series B funding.  Instead they used non-typesafe languages for the flexibility of rapid changes and re-release, which was an option in a service-type that was more tolerant to program faults.  As well, long-standing non-typesafe language communities had build robust libraries and frameworks for delivering similar projects, and with similar rapid evolution of the delivery. 
 
 I saw the option for delivering the target product using javascript, as the language was flexible and had a broad set of libraries, while also we could implement typescript at any time.  Though most scala-committed teams seemed to chose ruby for this application, it was clear that our engineering culture would not be comfortable with a non-typesafe language.  I further validated this by building a POC app concept in ruby and rails, and launching it, in a couple days.  Despite the speed and flexibility of delivery, the demo met with many cultural rejections because of typesafety, and would clearly not be a supported option.  Even with javascript, it was clear that I would need to give support for a small team to form based on those that were supportive in 1:1 or group contexts, to accomplish the target deliverable.   This route seemed possible, particularly when considering the limited influence that I could have there in the operations of other teams — and Series B depended on it. 
 
-### work to disconfirm the assumptions
+### Alternatives and Options
 
-validation by meetups; internal solicit.   convey imperative / impact / value, and ask for improvements.  team level.  1:1. leads. managers.   Feedback: behavioral. process. tooling. left-field.
+None of the alternatives had a foot ‘gut check’.  We could let the team BAU (business as usual), and trust that the advocacy about how we had been doing things would cross a threshold soon and emerge new velocity and new confidence for all.  No one could speak for what those conditions of emergence might be.  Another option was to hire more staff.  The budget was not in place to do this, and even if we had it, there is an onboarding time before meaningful contribution. The onboarding time would be moreso, accounting for that route’s need to build and use custom libraries against a moving target.  Another option offered was building the same library pattern I had found in meetups.  Though innovation involves risks, we could have accomplished it by swapping in more time of our most-senior engineers. This would risk our ability to debug many other live support and delivery issues. We could also try to outsource it, but similar budget limits existed as with hiring. As well, an outsourced project would have complexity to integrate and handoff. That strategy would also carry a risk if a partner audited our operations for that form of risk.
 
-alt: let team BAU, hire-up, riskier arch., build/contract a lib.  [the alternatives you considered and evaluated, and
+### Rationale
 
-decision: dyn. small smart team.  cuts: product variance-ing,    [why you chose the alternative you did relative to others considered
+I opted to form a small team that would use the non-scala strategy. Doing so would give us a typesafe option, and would give us a wide range of lIbraries to rapidly prototype and bootstrap. These development liberties would allow us to pivot around uncertainties coming from the new teams, new strategy, and client dynamics.  By tapping people with an inherent motivation to do more than the team’s current culture allowed, I leverage their pent-up energy to help them grow and the company succeed. While the route I chose still met with several forms of resistance, I had enough autonomy in my role to enable me to form the beginning of this project team.  In the coming weeks usable production MVP demos were launched. 
 
-deal arrival, comparison pricing Qa, speed, win.  [strong business judgment and good instincts
+While that operation and teamwork was gelling, several security compliance requests were growing larger and more involved. I put a portion of attention into systematizing this work so that it would be own-able by less executive staff. I also had a depth appreciation for risk and compliance, and knew that the optics of how we performed would be significant.
 
-series B via prioritization.  privately, is a min $200MM
+### Results
 
-
-
+These decisions and gut instincts were validated when ~1 month later the client was confident to sign a contract with us. Executive leadership had been able to sell the speed we could build a prototype, which won the comparisons to opportunity cost. The security work had de-risked working with us.  All of this  this effort does not need to be the lynchpin for a B raise in excess of $200MM, it has been the first to ensure that would could validate the next large expansion in the value we provide. 
 
