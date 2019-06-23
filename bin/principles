@@ -1,0 +1,1 @@
+echo "Customer Obsession\n Ownership\n Invent and Simplify Are Right, A Lot\n Learn and Be Curious\n Hire and Develop the Best\n Insist on the Highest Standards\n Think Big\n Bias for Action\n Frugality\n Earn Trust\n Dive Deep\n Have Backbone; Disagree and Commit\n Deliver Results" | figlet -f slant | lolcat -t -F 0.5 -a -d 4
