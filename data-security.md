@@ -1,5 +1,8 @@
 # Data Security
 
+
+## Local Encryption, and Sharing
+
 I commonly decide to use Keybase Teams because of the  need for a BYOK solution to securely sharing critical data, which could be expired, and was [TOFU-safe](https://keybase.io/blog/chat-apps-softer-than-tofu).
 
 1. BYOK ensured that we could rotate keys, and be in control of those keys rather than delegating them to a service to hold the masters. 
