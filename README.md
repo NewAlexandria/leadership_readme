@@ -35,6 +35,8 @@ Thoughts on working together, and supporting organizations
 
 ## The Roadmap
 
+Not everything on here should ever be practiced at the same time.  Each route represents a course toward quality.  
+
 ![](assets/Agile-Underground.jpg)
 
 ## Contributing
