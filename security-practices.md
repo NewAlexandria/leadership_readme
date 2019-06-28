@@ -1,6 +1,26 @@
 # Information Security
 
+## Top-level Practices
 
+* policy maintenance and alignment
+* hardware operation
+* practices training
+* configuration and access controls
+* audits fulfillment
+* vendor audits
+* ongoing monitoring
+* incident management
+* site(s) security
+
+### Issues:
+
+1. Burden of practicing
+1. Burden of regularity
+1. Personal practice consistency
+1. Facilities practice coordination
+1. Partner/Vendor audit relations
+1. Executive approval and Delivery
+1. Cross-team planning and ownership
 
 ## Practice Guidance
 
