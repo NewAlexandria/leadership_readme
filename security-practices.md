@@ -22,6 +22,62 @@
 1. Executive approval and Delivery
 1. Cross-team planning and ownership
 
+
+## Docs & Records
+
+### hardware operation
+
+* hardware assignment inventory
+* Antivirus profiles
+
+### practices training
+
+* encrypted chat / shared secrets.
+* new-hire email(s)
+* new hire confirmation(s)
+* security slide deck
+
+### configuration and access controls
+
+* dashboard of work in PM tool (Jira)
+* Entitlements and Services sheet.
+* Even's master list of infosec processes
+  * Cadence: ongoing logging; rate of human checking; ad-hoc
+  * Schedule show last times checks were made
+  * 3rd Party audited (Y/N)
+* Our AWS-specific audit
+* Even Financial Security Posture
+
+### audits fulfillment
+
+* Partner/client-facing doc, listing our infosec process & posture
+* Security folder in Drive: sec audit deliverables
+* Partners and Clients that audited us, and mapping to our master infosec process
+
+### vendor audits
+
+* Our auditing of vendors
+
+### ongoing monitoring
+
+* Pen testing
+  * yearly
+  * with releases
+* Entitlements Monitoring sheet.
+* Tempo of audit logs
+* Alerting triggers
+
+### incident management
+
+* Team Runbooks
+  * Convenient docs to hand-off to non-eng non-sec teams, for client and partner comms.
+  * Streamline new or custom requests that need Eng Sec involvement.
+  * Data breach response, and SLA (maybe the same as our Incidence Response)
+  * adding new infosec practices.
+
+### sites security
+
+
 ## Practice Guidance
 
 ### Policy maintenance and alignment
