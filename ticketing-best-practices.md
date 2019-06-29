@@ -32,10 +32,11 @@ I have found it highly value to implement an 'ideas inbox' as a board.
 
 This serves a few value purposes
 
-* People can feel satisfaction knowing they have contributed to a board-visibility ideas queue
-* Meritocracies can be explored for all kinds of contributions — not just origination.  Some people's contributions are editorial, and other kinds of support (which shows up in logs)
+* People can feel satisfaction knowing they have contributed to a board-visibility ideas queue.
+* Meritocracies can be explored for all kinds of contributions — not just origination.  Some people's contributions are editorial, and other kinds of support (which shows up in logs).
 * Fairness can be exercised, if there is a need to make sure that new ideas are not being given visibility.
 * Organization can be introduced, beating static lists and other manual-curation methods.
+* Culture of 'raise your hand' or 'see something, say something'.  Encourage people to speak-up, have ideas, communicate, prioritize, and learn.
 
 ![Ideas board](assets/ticket-board-ideas.png)
 
