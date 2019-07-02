@@ -1,6 +1,8 @@
-# leadership_readme
+# Agile Practices Roadmap
 
-Thoughts on working together, and supporting organizations.  These sections are currently all WIP.  Please reach out with thoughts.
+Thoughts on working together, and supporting organizations.  Here is a growing collection of things that have come up regularly.  It is far from complete, even for what comes up regularly — but it's nice to write sometimes. 
+
+As sections are currently all WIP, please reach out with thoughts.
 
 
 ## Practices
