@@ -1,6 +1,6 @@
 # leadership_readme
 
-Thoughts on working together, and supporting organizations
+Thoughts on working together, and supporting organizations.  These sections are currently all WIP.  Please reach out with thoughts.
 
 
 ## Practices
