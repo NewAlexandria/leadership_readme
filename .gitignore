@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# LaTex tool files
+resumes/*.out
+resumes/*.aux
+resumes/*.pdf
+resumes/*.gz
