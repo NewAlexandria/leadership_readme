@@ -16,7 +16,6 @@ As sections are currently all WIP, please reach out with thoughts.
 ### Agile Groups
 * [QA and Testing](qa-test-framework.md)
 * [QA for Event & Distributed Systems](qa-evented-framework.md)
-* [Distributed Teams & Remote Work](remote-work.md)
 * [Notification](notification-practices.md)
 * [An Agile-practice framework (SAFE-like)](agile-planning-practices.md)
 
@@ -34,6 +33,7 @@ As sections are currently all WIP, please reach out with thoughts.
 * [Onboarding and Ohana](onboarding.md)
 * [Coach Near and Far](coaching-training.md)
 * [The Structure of Data Science functions](data-science.md)
+* [Distributed Teams & Remote Work](remote-work.md)
 
 ## The Roadmap
 
