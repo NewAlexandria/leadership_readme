@@ -13,6 +13,15 @@ I like to aim for a lightweight workflow for master planning documents (Charters
 * complete visibility into all planning and design work
 * consistent process and cadence moving from gathering requirements to completed Charter
 
+### Principles
+
+Most of these will have already been implemented.  For more, [see the section on teams and meetings](/remote-work.html#meetings)
+
+* Broadly source input
+* Build consensus and education around approaches
+* Execute with focus and accountability
+* Measure what worked and what didn’t to iteratively improve
+
 ### Non Goal:
 
 * define the actual process of writing a Charter

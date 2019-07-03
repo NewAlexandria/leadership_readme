@@ -35,3 +35,4 @@ There are a few foci for the group-think around leadership initiatives.  They ca
 * In progress Review
 * Post Mortem Review
 
+Remember [what should be done live, and what should be done asynchronously](/remote-work.html#meeting-efficiency).

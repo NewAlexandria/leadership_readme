@@ -47,6 +47,24 @@ Whether in person, or particularly when working as a distributed organization, w
 
     Audio is a thin channel.  Maintaining your face on-camera during a call will create trust and bonding. *You will also learn about your facial expressions, which for some people will be an eye-opening lesson.*  There will be some occasions where you cannot have the camera on — in preparation for these times, set your profile's avatar to your face.  This will trigger peoples' memory about who they're speaking with, and still work to reinforce the bonding.  Set the same avatar everywhere, to further reinforce that memory. 
 
+
+## Meeting Efficiency
+
+Some things happen better in live conversations (F2F or video), and some things happen better asynchronously.  Know which, and try to pivot meetings that are pulling in the wrong things. 
+
+### live
+* Reviews
+* Assignment
+* Prioritization
+* Approvals
+
+### async
+* Creating
+* Vetting
+* Execution
+* Measurement
+
+
 ## Meetings
 
 * Don't just talk about ideas.  Talk about specific actions, and who will act.

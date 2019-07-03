@@ -6,3 +6,6 @@ I admit that what is 'chilling' to one demographic may not be to another, and we
 
 * corporate values posters
 * corporate values posters in the bathroom
+* feeling like one is being abused for the bottom line
+* good HR
+* “Let’s circle back” punctuating every sentence
