@@ -20,6 +20,8 @@ Having a leadership board is as important as a team's scrum board, Product's 'id
  * Let people see, think, learn.  Let things gel.  
  * Measure one thing at a time. 
 
+### An Initiative
+
 These can follow the "PRFAQ" format, of pitching the change and 'new world', followed by Q&A items.  Some good items to address:
 
 * why
@@ -27,6 +29,17 @@ These can follow the "PRFAQ" format, of pitching the change and 'new world', fol
 * how
 * cost
 * outcome
+
+When there are strongly differing opinions on Why or How, it may be appropriate to plan and vett both/all approaches.
+
+### Outcomes and Cost
+
+* target impact, 
+* how we will measure impact, 
+* resources needed to execute, and 
+* risks, when present
+
+## Review Meetings
 
 There are a few foci for the group-think around leadership initiatives.  They can happen as the agenda for one regular meeting, or any other break-out that works for everyone. (it's just a decision of team culture & psychology)
 
