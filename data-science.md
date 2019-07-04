@@ -2,21 +2,22 @@
 
 For now, this is quick list of operational practices and skills that relate to data team and data science. 
 
-## Data Ops / Engineering
+## Team Structures
+### Data Ops / Engineering
 * Pipelines
 * ETL
 * Integrations
 * Resourcing / hardware
 * DBA (data store admin)
 
-## Business Analyst
+### Business Analyst
 * Data Dictionaries
 * Semantics / Schema
 * Reporting, Live
 * Reporting, Ad-hoc
 * Visualization
 
-## Data Science
+### Data Science
 * Model Development
 * Ad-hoc models
 * Validation
@@ -38,7 +39,8 @@ For now, this is quick list of operational practices and skills that relate to d
 * Mask
 * Transform
 * NLP
-* Enrich
+* Trend
+* Enrich (e.g. tag)
 * Assess Quality
 * Assess Provenance
 * Route
@@ -61,9 +63,11 @@ Sometimes you will see any of these service or pipeline concepts organized into 
 * Logging
 * Entitlements
 * Data Quality
+* Data Warehouse
 * Content Graph
 * Contract
 * Business Architecture
 * Organization
 * Semantic Gap Analysis
 * Semantic Link Association Prediction (SLAP)
+* Visualization
