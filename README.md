@@ -12,6 +12,7 @@ As sections are currently all WIP, please reach out with thoughts.
 * [Ticketing](ticketing-best-practices.md)
 * [Anatomy of Web Apps](web-app-anatomy-best-practices.md)
 * [Anaotmy of CMS Apps](cms-anatomy-best-practices.md)
+* [Data, Services and Pipelines](data-science.md)
 
 ### Agile Groups
 * [QA and Testing](qa-test-framework.md)
