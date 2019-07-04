@@ -46,3 +46,24 @@ For now, this is quick list of operational practices and skills that relate to d
 * Join
 * Sink
 
+### Layers
+
+Sometimes you will see any of these service or pipeline concepts organized into Physical, Logical, Integration, and Application layers.
+
+## Data Services
+
+* Linked Data
+* Model Store
+* Semantic Search
+* µService Catalog
+* Transactional
+* Audit
+* Logging
+* Entitlements
+* Data Quality
+* Content Graph
+* Contract
+* Business Architecture
+* Organization
+* Semantic Gap Analysis
+* Semantic Link Association Prediction (SLAP)
