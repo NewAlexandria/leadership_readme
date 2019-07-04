@@ -23,3 +23,26 @@ For now, this is quick list of operational practices and skills that relate to d
 * Forecasting
 * ML / AI, special cases
 * Exploratory Research
+
+## Data Flow Stages
+
+* Source
+* Identify
+* OCR
+* Triplify
+* Validate
+* Count
+* Validate Uniqueness
+* Dedup
+* Mint
+* Mask
+* Transform
+* NLP
+* Enrich
+* Assess Quality
+* Assess Provenance
+* Route
+* Split
+* Join
+* Sink
+
