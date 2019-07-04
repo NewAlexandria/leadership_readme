@@ -61,8 +61,10 @@ Sometimes you will see any of these service or pipeline concepts organized into 
 * Transactional
 * Audit
 * Logging
+* Streaming
 * Entitlements
 * Data Quality
+* Data Integrity (e.g. blockchain)
 * Data Warehouse
 * Content Graph
 * Contract
