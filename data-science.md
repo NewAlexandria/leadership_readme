@@ -73,3 +73,8 @@ Sometimes you will see any of these service or pipeline concepts organized into 
 * Semantic Gap Analysis
 * Semantic Link Association Prediction (SLAP)
 * Visualization
+
+
+## Workflows
+
+![ML pipeline flow example, and roles](assets/data/ML-pipeline-flow.png)

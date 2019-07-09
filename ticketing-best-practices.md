@@ -31,6 +31,7 @@ One pattern is to make the lowest priority the default.  This forces ticket crea
 
 Remember that the prioritization level of the backlog is often irrelevant once a ticket has been elected for the sprint, or approved to be 'accelerated' up the agile kanban backlog. Regardless, the 'fuego' and 'sub-fuego' steam of work should always lead to consideration of whether this is an 'andon cord' situation that trumps prior planification.
 
+
 ## Boards
 
 As you scale, consider that you may benefit from having separate boards for each kind of work happening.  With that, different workflows / columns can help ensure that things are clear to all that work (and on) with the team.  I've seen it increase velocity in perhaps every scenario.
