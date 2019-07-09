@@ -21,6 +21,15 @@ Tasks are any change that is not user-facing. We leave-out changes to performanc
 ### Bugs
 Bugs make a change to anything that is not as originally specified.  This does not include changes that were not specified ideally or correctly during planning.  The purpose of a bug ticket it to notate that there was a regression or incorrect release - but it is not meant to be a penalty to individuals, as often the team collectively owns a relationship to quality. 
 
+### Priority
+
+Priorities that emerge naturally are often best for a team.  When changing the kinds of priorities, be sure not to impact other teams using the same SaaS within the company.
+
+Often some form of 'this needs to be worked until solved, world-on-fire' priority will exist.  "Fuego", etc.  Be sure to allow the rarely, since the psychological pressure of them will still with teams long-after. Similarly, a 'sub-fuego' priority is often important to differentiate from other recently-prioritized work from Grooming sessions.
+
+One pattern is to make the lowest priority the default.  This forces ticket creators to consider the actual importance level of their request, and as needed to work with team leads. 
+
+Remember that the prioritization level of the backlog is often irrelevant once a ticket has been elected for the sprint, or approved to be 'accelerated' up the agile kanban backlog. Regardless, the 'fuego' and 'sub-fuego' steam of work should always lead to consideration of whether this is an 'andon cord' situation that trumps prior planification.
 
 ## Boards
 
@@ -73,8 +82,11 @@ Though this is discouraged, it happens sometimes.  We should think about doing t
 1. It reminds others on the team why a card has story points, if they weren't involved
 1. When totaling velocity, these will add up and the velocity will look like `214.17`, which tells you that `17` cards were estimated by only a single person.  This is an error factor in using historical data for projections
 
-### Story Points and the Backlog
+### Feature Projects vs. Backlog
 
+Occasionally the question arises whether story points have the same meaning for cards in a feature release project, vs. cards in an unstructured backlog.  In six years of being a core stakeholder in backlogs estimated with a fibonacci risk scale, I have never seen a variance.
+
+Teams should be discouraged from not-estimating cards, or conceiving of inconsistent story point meanings.
 
 ### Variations between kinds of work
 
