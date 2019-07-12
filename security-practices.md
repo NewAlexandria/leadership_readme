@@ -23,6 +23,15 @@
 1. Cross-team planning and ownership
 
 
+### Reportable Systems
+
+* applications, systems, databases, platforms, and other technology that receives, Stores, processes, handles, or has access to PII,
+* all locations where Supplier receives, Stores, processes, handles, or enables access to Fidelity Confidential Information in physical form,
+* all categories of physical computing and software assets
+* uniquely identify each individual that has access to PII, whether in electronic or physical form
+* grant access to PII only to authorized individuals based on the principle of least privileges
+* follow the Security Requirements when Storing, accessing, handling, and processing PII
+    
 ## Docs & Records
 
 ### hardware operation
@@ -76,6 +85,7 @@
   * adding new infosec practices.
 
 ### sites security
+
 
 
 ## Practice Guidance
