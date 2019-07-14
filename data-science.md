@@ -77,4 +77,10 @@ Sometimes you will see any of these service or pipeline concepts organized into 
 
 ## Workflows
 
+### Models in the Data Pipeline
+
+![ML pipeline flow example, and roles](assets/data/graph-ml-workflow.png)
+
+### Roles and Productionalizing Models
+
 ![ML pipeline flow example, and roles](assets/data/ML-pipeline-flow.png)
