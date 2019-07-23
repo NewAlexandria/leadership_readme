@@ -1,5 +1,12 @@
 # Anatomy of CMS stacks
 
+### On DAM and CMS variants
+
+The lists below will present an aggregate of content functions across all the adjunct terrain.  It may help to remember that DAM (data access management) and CMS (content management) systems can sometimes have a niche focus on specific subsets. 
+
+* DAMs often focus more on storage, versioning, retrieval, and metadata.  
+* CMSs often focus more on editing, workflow and approvals, publishing, and sub-document metadatas.
+
 ## Editorial Requirements
 * Content Revisions
 * Content Revision Diffs
@@ -36,6 +43,9 @@
 * Custom settings administration
 * Multi-Region (Localization)
 * Query Performance - TODO: specify metrics or alternative
+* API for integrations
+  * Metadata labeling services
+  * Reference to Master-records / source-of-truth
 
 ## 3rd Party Service Requirements
 * S3
