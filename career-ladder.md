@@ -6,6 +6,19 @@ In an ideal sense, and one that is humanly-impractical, there could be a method 
 
 Today, at least, that is not our culture.  Yet it is good to remember that Amazon and many other large firms have identified a value with interviewing and reviewing using carefully crafted scoring systems.  'Scout badges' may yet return.
 
+## Summary skills
+
+Deeply granular assessments are more ideal for differentiating areas of strength, and giving very targeted mentorship and support.  The same can also cause overload.   
+
+A simplified version of skills assessment usually covers these four areas:
+
+* tech quality
+* collaboration
+* execution
+* org quality
+
+Any organization in a company can reuse these by relating 'tech' quality to any use of tools to speed up workflow and delivery.  All code is essentially tools for automation.
+
 ## Pivotal Practices
 ### Architecture
 
