@@ -84,3 +84,23 @@ Sometimes you will see any of these service or pipeline concepts organized into 
 ### Roles and Productionalizing Models
 
 ![ML pipeline flow example, and roles](assets/data/ML-pipeline-flow.png)
+
+
+# CDPs and DMPs
+
+Though these kinds of services / platforms are outside the scope of data science, generally, any company that have a robust relationship to data will touch these topics.
+
+## Customer Data Platform
+
+Several core concepts to a CDP include
+
+* Single Source of Truth
+* Advertising
+* Personalization (p13n)
+* Integration
+* Tag / label management
+* Event transformation
+* Campaign integration and management
+* Persona formation
+* Customization of algorithms
+
