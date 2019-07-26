@@ -104,3 +104,13 @@ Several core concepts to a CDP include
 * Persona formation
 * Customization of algorithms
 
+## Data Management Platform
+
+DMPs are primarily for enrichment of data.  Commonly, your own data is referred to as '1st party' data, and the enriched data can be '2nd party' or '3rd party'.  2nd party data is the 1st party data of another company.  3rd party data has been aggregated from the network and other sources.  
+
+Sometimes, fusions and ML extrapolations can be considered part of a company's '1st party' data, but this should be validated and agreed upon by all partners.  The tolerance for certainty is a critical factor in downstream use, or design of experiments.
+
+* Static Segments
+* Adaptive Segments
+* Cohort and Lookalike
+* Interest Discovery
