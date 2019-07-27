@@ -1,4 +1,23 @@
+# Classifying Data across the Company
 
+The need to classify kinds of data throughout the company is driven by risk audits (security, compliance, etc) that we have been recently exposed to.
+
+Probably we are not yet at a risky scale, but it’s coming with Series B and other broad press.  While we currently have ad-hoc data classifications, any audit that requires more than attestation will want to see more than we currently have today.
+
+## Issues:
+
+* Determine data classes in-use today, and create a framework for thinking about them long-term.
+* Determine how we classify data, so that we can search and identify data 'classes' across all of our systems.
+* Data classification help with eDiscovery. For startups, that’s probably an optimistic value, since ‘Discovery’ is usually code for a law suit or other court-action.
+* Sometimes data classification can pertain to diligence in an M&A or other valuation. 
+
+## Goals
+
+Conceivably, this kind of process(es) is to catch if PII is leaking. In that case, we would want fast(er) alerting so that we could try to prevent or halt a breach, and do forensics
+
+We can probably say that there is a broader goal of understanding when data from one kind of activity appears in various scenarios - apps, teams, workflows, vendors, etc.   
+
+# Strategy
 ## Sourcing
 
 The most ideal solution would handle data from all of the major places that we have it:
