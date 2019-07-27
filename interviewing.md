@@ -43,6 +43,20 @@ Above all,
 Be Brave, Be Smart, and Give a Shit
 ```
 
+### Topics for Behavioral Questions
+
+* Moderation and Conflict management
+* Influence, Rapport, and Trust
+* Teamwork
+* Action-oriented / self-motivation
+* Adaptability
+* Creativity
+* Goal setting
+* Decisiveness
+* Time management / multitasking
+* High-Pressure Scenarios
+* Analytical Thinking
+
 ## Career Paths
 
 I still sit with the largely-typical career ladder.  Management and executive titles go with people and leadership skills.  Principle, Architect, and similar titles remain in the code — specifically: *measuring* and *teaching*.  SREs are in both main branches. 
