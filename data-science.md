@@ -74,6 +74,7 @@ Sometimes you will see any of these service or pipeline concepts organized into 
 * Semantic Link Association Prediction (SLAP)
 * Visualization
 
+📖 If you're looking for hands-on examples, I recommend [Andreas Kertz's cookbook for data pipeline processes](https://github.com/andkret/Cookbook/blob/master/Data%20Engineering%20Cookbook.pdf).
 
 ## Workflows
 
