@@ -57,6 +57,8 @@ Be Brave, Be Smart, and Give a Shit
 * High-Pressure Scenarios
 * Analytical Thinking
 
+These are not to be considered comprehensive, nor concise.  Assessing behavioral traits is not an exact science, nor is it easy to find agreement on 'norms' among a group.  They can often be modeled to the operational patterns in a business/team.  e.g. Sales teams may have more around the topic of rapport and communications. 
+
 ## Career Paths
 
 I still sit with the largely-typical career ladder.  Management and executive titles go with people and leadership skills.  Principle, Architect, and similar titles remain in the code — specifically: *measuring* and *teaching*.  SREs are in both main branches. 
