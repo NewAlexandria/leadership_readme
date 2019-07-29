@@ -30,3 +30,22 @@ This is a folder in a personal drive. You cannot do this with Team Drives. It’
 ### 💬 Chat
 
 Similarly, Hangouts and most chat systems can be open-invite.
+
+## Contractors and non-staff employees
+
+Be sure to keep track of similarities and differences between the setup of contractors, as compared with normal employees.
+
+* A G-suite/domain-account account should be confirmed before creating.  Remember that this gives them access to the wiki.
+* If they should not have access to the wiki, create a ticket for a 'tools admin' (e.g. Atlassian admin) to restrict what they can see.
+* Only add to domain shares (drives, Groups, etc) that have been specified by the person working with the contractor
+* Confirm if they know they will handle PII
+  * Send them the wiki info / training on Keybase (a content encryption tool).
+  * Discuss with the Head of Compliance
+* If issuing a laptop
+  * Setup the laptop in every normal way.  No exceptions
+  * Add their information to the inventory management and disk encryption databases, as normal.
+  * Remind those involved that this is a contractor machine
+* Convey expected duration of contractor engagement to all parties involved in setup/onboarding.
+* Confirm they have signed NDAs, seen policies
+* Confirm with hiring-manager which vendors/vendor-software they are expected to use
+  * Notify Security or Compliance lead
