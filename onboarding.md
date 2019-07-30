@@ -3,10 +3,21 @@
 *Star-board is the direct of the stars, and Port is the direction of the port.* 
 
 ## Everything is Virtual. Orient.
-There are a few core things to getting rolling correctly in a company – for anyone, you, and me.
+
+There are a few core things to get rolling correctly in a company – for anyone, you, and me.
 
 The process is generally broken up into pieces of the company's operational structure.  It helps to see this on your own, in case no one presents it this way.
 
+
+## Agile, and Harmony
+
+Across all of the practices and guidance you will learn when onboarding, 'agile' practice will appear as a common tenet.  Practice agility aims for a kind of efficiency.  Since 'efficiency' often gets muddled with multiple meanings, there is another word that perfects fits the aim of agile: "[Achdus](https://dafaleph.com/home/2015/12/1/achdus)".  Achdus is the principle of harmonious interconnetion between all involved things — people, processes, and systems.  
+
+The harmony of _achdus_ respects, *and leverages*, the complex interweaving of the differences inherent for those involved.  We could hardly better-state the aim of designing and evolving agile practices.  Agile practices ask of us to remain sensitive to the nature of things: those we work with, the situations that emerge, the nature of our environment, and the horizons we hold.  
+
+The sensitivity allows us to relax into norms and remain aware for uncommon things that need a measure of attention — as well as when time has shown that we need to adapt and change practices. 
+
+## Map
 
 ![A tree of corporate structure, and you orientation](assets/onboarding/NHO-doc-hierarchy.jpg)
 

@@ -25,13 +25,15 @@
 
 ### Reportable Systems
 
+The point of this section is to give a sense for what kind of things could be audited, and why. It is not a complete list of what is in an InfoSec policy.  Rather, It is meant to be a frame of reference, for practices excepted by policies and InfoSec processes.
+
 * applications, systems, databases, platforms, and other technology that receives, Stores, processes, handles, or has access to PII,
 * all locations where Supplier receives, Stores, processes, handles, or enables access to Fidelity Confidential Information in physical form,
 * all categories of physical computing and software assets
 * uniquely identify each individual that has access to PII, whether in electronic or physical form
 * grant access to PII only to authorized individuals based on the principle of least privileges
 * follow the Security Requirements when Storing, accessing, handling, and processing PII
-    
+
 ## Docs & Records
 
 ### hardware operation
