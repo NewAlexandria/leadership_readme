@@ -17,6 +17,7 @@ The intent of this diagram it to help you consider where to start a team convers
 
 This enterprise time-based communication cheatsheet should help you maintain and evolve the course of conversations *within the scope of where that dialogue will make the biggest difference*.
 
+[Common problems from incorrectly relying on email](https://getpocket.com/explore/item/the-only-five-email-folders-your-inbox-will-ever-need) get written about often.  Change it up!
 
 ## Email as Notification Aggregator
 ![](assets/setting-your-own-notification-preferences.jpg)
