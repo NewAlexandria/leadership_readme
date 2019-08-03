@@ -33,6 +33,9 @@
   * Regulatory
   * Background checks, IP, non-compete
 
+
+![](governance/DefenCD - ONBOARDING.jpg)
+
 ## Business Continuity Policy Alignment
 
 * Policy §s
@@ -50,6 +53,8 @@
 * Logs
 * SLAs
 
+![](governance/DefenCD - POLICY ALIGNMENT.jpg)
+
 ## Audit Readiness
 
 * Practice Guidance
@@ -65,6 +70,8 @@
   * Attestations
 * Logs
   * Proofs
+
+![](governance/DefenCD - audit readiness.jpg)
 
 ## Vendor Management
 
@@ -120,6 +127,8 @@
   * Knowledge Base
   * ACLs
 
+![](governance/DefenCD - Data CLASSIFICATION.jpg)
+
 ## Incident Response
 
 * Data Sourcing
@@ -150,6 +159,7 @@
   * Incident TImeline
 * Knowledge Base
 
+![](governance/DefenCD - INCIDENT RESPONSE.jpg)
 
 ## Business Impact Analysis
 
@@ -194,3 +204,4 @@
   * Counterparty Credit
 * Policy
 
+![](governance/DefenCD - BC-BIA.jpg)
