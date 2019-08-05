@@ -8,7 +8,7 @@
 * configuration and access controls
 * audits fulfillment
 * vendor audits
-* ongoing monitoring
+* ongoing monitoring 
 * incident management
 * site(s) security
 
@@ -71,12 +71,14 @@ The point of this section is to give a sense for what kind of things could be au
 
 ### ongoing monitoring
 
-* Pen testing
+Security monitoring should be treated as a form of QA.  It will live outside of the Product QA organization, or any line of business (LOB).
+
+* Pen testing.
   * yearly
   * with releases
 * Entitlements Monitoring sheet.
-* Tempo of audit logs
-* Alerting triggers
+* Tempo of audit logs across infosec topics.
+* Alerting triggers/
 
 ### incident management
 
@@ -86,9 +88,15 @@ The point of this section is to give a sense for what kind of things could be au
   * Data breach response, and SLA (maybe the same as our Incidence Response)
   * adding new infosec practices.
 
-### sites security
+### site security
 
-
+* entry and access
+* sensors and recording systems
+* smart building systems
+* flow control
+* training
+* spot checks
+* vendor services management
 
 ## Practice Guidance
 
