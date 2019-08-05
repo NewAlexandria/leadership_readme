@@ -20,6 +20,20 @@ CRM notes are not enough.  This is maintaining intelligence on who you work with
 The feedback loop with managers and execs, outside of delivery validation.
 
 ### Risk and Compliance
+
+#### Vendor risk model, quick
+
+- Even LOB that would stop * cost hr
+- Even LOB teams that would impact * salary hours
+
+#### Vendor risk model, extended
+- Even LOBs that would stop * cost hr
+- Even LOBs interrupt recovery impact hr
+- Even LOB teams that would impact * salary hours
+- Workflows utilizing * (velocity or frequency)
+- Number of vendor major-externalities
+
+
 ### Definition of Performance Expectations
 This is an ongoing exploration, as the market continues to move.
 
