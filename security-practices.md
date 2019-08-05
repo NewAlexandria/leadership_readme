@@ -1,8 +1,9 @@
-# Information Security
+# Security and Information Security
 
 ## Top-level Practices
 
 * policy maintenance and alignment
+* risk modeling and profiling
 * hardware operation
 * practices training
 * configuration and access controls
