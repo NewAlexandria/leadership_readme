@@ -9,3 +9,4 @@ I admit that what is 'chilling' to one demographic may not be to another, and we
 * feeling like one is being abused for the bottom line
 * good HR
 * “Let’s circle back” punctuating every sentence
+* Forced expectation of clapping with slides and similar. 'Clap culture'
