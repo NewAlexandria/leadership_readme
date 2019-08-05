@@ -96,6 +96,22 @@ Some of these:
 
 Without a more elaborate dictionary of patterns, we can already consider how the total set of all patterns is the configurations of different resource types defined by the 'metal' of the OS.
 
+## Mobile
+
+When do you decide to build native mobile vs. mobile web, and can a multi-platform framework be used? 
+
+Anything written here will get dated as frameworks evolved.  That said, native mobile is still better when the app needs
+
+* active location services
+* running in the background
+* highly-interactive UI
+* music functions
+* heavy use of the native OS API
+* complex communications with servers
+
+Mixes of these that can trigger issues could include where chat messaging happens in the app, but then you also expect the user receive notifications when the app is in the background.
+
+
 ## Typesafety
 
 It is important to remember that typesafety is only a 'special case' of design pattern.  You must decide when and how it is best applied in service of the real value to the team and to the business.
