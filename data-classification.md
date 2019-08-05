@@ -36,6 +36,17 @@ The most ideal solution would handle data from all of the major places that we h
 
 It's likely that this list can morph, based on business practices.
 
+### Classifications Rubric
+
+When thinking of classification, we must keep in mind the purposes that are served by developing one:
+
+1. classification / criticality
+1. security / data
+1. teams dependency
+1. LOB/revenue dependency
+1. cost review
+1. intervals
+
 ## Querying
 
 We need to define ways to identify the things in each class of data.
