@@ -131,6 +131,8 @@ The point of this section is to give a sense for what kind of things could be au
 * Types / definitions, or properties / labels
 * When to have practice symmetry vs. not.
 
+Changes can require team-time, or vendorized support, which can drag out without the team having available headroom.  Usually auditors set multi-month timelines for remediation, which do not block the launch of new business.
+
 ### ongoing monitoring
 
 * cross-team metrics
