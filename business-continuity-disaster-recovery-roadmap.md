@@ -91,6 +91,15 @@ Some common patterns, which should in-effect via one means or another:
 
 **From the outside perspective**, these audits are more commonplace with business partnerships where one group bears responsibility to act on another parties behalf.  Activities that are 'typed' by policy likely are part of common operational parlance, and are incorporated into SLAs.
 
+#### Backup DR integrity
+
+An example of 'validating outcomes' includes checks of the recoverability for backup data.
+
+1. Backups can be restored in normal use
+2. Backup are maintained with separate permissions that prevent their access by normal users / processes
+3. Backups of PII are restricted similarly to the PII DB
+4. Backups can be restored in a disaster recovery situation.
+
 
 ## Reference
 
