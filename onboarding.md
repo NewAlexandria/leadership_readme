@@ -81,3 +81,22 @@ There are many cognitive studies on chat systems, and so on. One of the most com
 There are many other apps and other things - so if you have ideas to be added to this list (ping your boss or another leader) or the wiki pages (update at will), then thanks for your feedback.
 
 Never hesitate to reach out with any questions on accounts, tooling, and configuration, or grab anyone else around you.   _Alacrity_
+
+## Onboarding Model
+
+SO, having said all that, here is a summary model:
+
+### Onboarding
+- main HR setup
+- Team setup
+- Custom setup
+
+### Onboarding types
+- Accounts, integrations/cals
+- Emails
+- Trainings
+- Hardware
+- Comms / intros
+
+### Offboarding
+- Inverse of the processs
