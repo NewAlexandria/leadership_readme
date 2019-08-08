@@ -46,3 +46,8 @@ Not everything on here should ever be practiced at the same time.  Each route re
 
 * [Code of Conduct](CODE_OF_CONDUCT.md)
 * [Contributing](CONTRIBUTING.md)
+
+
+Thanks!
+
+<a href="https://stackexchange.com/users/97237"><img src="https://stackexchange.com/users/flair/97237.png" width="208" height="58" alt="profile for New Alexandria on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for New Alexandria on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
