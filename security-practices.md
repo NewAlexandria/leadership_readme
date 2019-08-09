@@ -35,6 +35,7 @@ The point of this section is to give a sense for what kind of things could be au
 * grant access to PII only to authorized individuals based on the principle of least privileges
 * follow the Security Requirements when Storing, accessing, handling, and processing PII
 
+
 ## Docs & Records
 
 ### hardware operation
@@ -171,4 +172,17 @@ Changes can require team-time, or vendorized support, which can drag out without
 * elevator controls
 * chaperoning
 * badge control
+
+
+# Cyber Kill Chain
+
+The concept of a cyber kill chain involves the identification of E2E attack strategies.  Identification allows teams to devise comprehensive multi-layer strategies for operationalizing cybersecurity.
+
+1. Reconnaissance: harvest loose ends outside the secure system   
+2. Weaponization: engineering an exploit to an attack vector
+3. Delivery: launching the exploit
+4. Exploitation: mechanics of the exploit
+5. Installation: malware and other assets
+6. Command & Control: sending and receiving of instructions, information
+7. Objectives: performing the intended action, data harvest, etc.
 
