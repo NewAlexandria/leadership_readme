@@ -36,7 +36,12 @@ i) Integrate Fresh Address API as service
 ii) Create cache based on hashed email to avoid re-querying FA (Statuses Table in Email DB)
 iii) Patch contact in Ongage with FA status
  
-## Unsubscribing
+## Global Suppressions
+
+* Unsubscribes
+* Spam Reports
+* Bounce List
+
 
 Optismo is a centralized suppression list management solution to manage unsubscribes across emailers (internal and 3rd party) and improve distribution to vendors.
 ​Eng Tasks:
