@@ -1,22 +1,35 @@
-* Describe the current challenges specific to a community.
 
-* How much time do you expect you can commit to moderating the site? (A couple hours a month? Ten hours a week? Ten hours a day? Take a good guess) Also, do you anticipate any reason why that amount of time would significantly decrease in the future?
+### What is the role of Moderation?
 
-* Can you highlight some of your posts on Meta that have been received poorly, and describe what information you've gleaned as a result of those discussions/experiences. If you have no such poorly received questions, consider a case where your answer has a highly scored competing/contrary answer to your own.
+* I think that moderators set precedents, create consistency, and promote things that aid the growth of the community.
 
-* A diamond will be attached to everything you say and have said in the past, including questions, answers and comments and chatroom messages. Everything you will do will be seen under a different light. Do you feel like all the material you've posted on the site reflects that you would be a good moderator? Does becoming a moderator induces significant changes in what you do—and refrain from doing—on the site (outside the obvious addition of moderator duties)?
+* I think we could add more options with flagging a post, to indicate that a post seems to be asking for a common problem (e.g. legal advice, on a Law site, or is worded in a way that encourages getting it). Same for answers that fall into common tropes. We could also change the help pages to reflect these community flags.  
 
-* How would you deal with a user who produced a steady stream of valuable answers, but tends to generate a large number of arguments/flags from comments?
+* Ultimately, mods get to see more of these, and can identify these patterns before they affect too many people.
 
-* How would you handle a situation where another mod closed/deleted/etc a question that you feel shouldn't have been?
 
-* What are your thoughts about the homework policy?
+### Mod Visibility
+A diamond will be attached to everything you say and have said in the past, including questions, answers and comments and chatroom messages. Everything you will do will be seen under a different light. Do you feel like all the material you've posted on the site reflects that you would be a good moderator? Does becoming a moderator induces significant changes in what you do—and refrain from doing—on the site (outside the obvious addition of moderator duties)?
 
-* Do you have any Meta posts that you're particularly proud of, or that you feel best demonstrate your moderation style? (source) Alternatively, do you feel that you've contributed significantly towards some other aspect of site maintenance (e.g. reviews, flags, related/possible-duplicate comments)?
+* I always presume that I'm being viewed in this light; the diamond just makes it more likely that people will read that public history.
 
-* What, if anything, would you do with a user who posts a steady stream of answers that derail questions to talk about their own personal theories, while not technically breaking any civility rules?
 
-* Chat: How actively will you participate in chat (H Bar) moderation? Do you believe that it needs some more activity from Physics moderators?
+### How would you deal with a user who produced a steady stream of valuable answers, but tends to generate a large number of arguments/flags from comments?
+
+* I have tended to see this kind of person wants to contribute, and just needs help to stay golden. With talk in chat or another kind of DM, usually there's a good middle ground. It's important to identify if the arguing is part of their MO/agenda. If it cannot be corrected I do think there has to be a line. An intelligent and argumentative used can scare away others because of the charisma involved.
+
+### How would you handle a situation where another mod closed/deleted/etc a question that you feel shouldn't have been?
+
+* With mod differences, Meta questions can be a great way to clarify what the community feels is best. Ideally no mod has problems discussing things in open forum. Where the issue may be sensitive, chat or other DMs.
+
+
+### What is your moderation style? 
+
+Do you have any Meta posts that you're particularly proud of, or that you feel best demonstrate your moderation style? (source) Alternatively, do you feel that you've contributed significantly towards some other aspect of site maintenance (e.g. reviews, flags, related/possible-duplicate comments)?
+
+* I like to clean things up; mod status makes this easier. Same as with question #2, I like to post these changes as proposals in meta, to garner feedback. It's a volunteer job, so is best to all be in agreement befofe using the time.
+
+
 
 
 
