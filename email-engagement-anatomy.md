@@ -29,12 +29,14 @@ Influencer profiles are an important part of outreach, requiring training just l
 
 ## Address Validation
 
-Fresh address is an API which provides statuses for an email’s likelihood of deliverability. Given an email address, it will return statuses like ‘spam trap’, ‘disposable email’, ‘regular complainer’.
-Eng Tasks:
-a) Just before triggering the current TXL trigger query email status and report to Ongage.
-i) Integrate Fresh Address API as service
-ii) Create cache based on hashed email to avoid re-querying FA (Statuses Table in Email DB)
-iii) Patch contact in Ongage with FA status
+Fresh address is an API which provides statuses for an email’s likelihood of deliverability. Given an email address, systems should return statuses like `spam trap`, `disposable email`, `regular complainer`.
+
+##### ​Engineering / Integration
+
+* Just before triggering the current TXL trigger query email status and report to the Unsub/validation system
+  * Integrate, e.g., Fresh Address API as service
+  * Create cache based on hashed email to avoid re-querying FA (Statuses Table in Email DB)
+  * Patch contact in Unsub/Validation, with the status
  
 ## Global Suppressions
 
@@ -42,35 +44,39 @@ iii) Patch contact in Ongage with FA status
 * Spam Reports
 * Bounce List
 
+Aim to build a centralized suppression list management solution, to manage unsubscribes across emailers (internal and 3rd party) and improve distribution to vendors.
 
-Optismo is a centralized suppression list management solution to manage unsubscribes across emailers (internal and 3rd party) and improve distribution to vendors.
-​Eng Tasks:
-a) Subscribe to the Ongage Webhook and append to optizmo when an unsubscribe occurs
-b) Save unsubscribe event to email DB events
-c) Add status as ‘likely uninterested’ to Statuses
+##### ​Engineering / Integration
+​
+* Subscribe to an API/Webhook for the unsub system(s), and append to Supression system when a related event occurs
+* Save unsubscribe event to email DB events
+* Add status/label as ‘likely uninterested’, or a similar method for cautious low-risk re-engagement
  
 ## Reputation Monitoring
  
 Pipeline Updates For New Sending Domains
-Setup each to be usable by Ongage.
-a) Authentication
-i) DMARK
-ii) SPF
-iii) DKIM
-b) MX / Reply Setup
-c) Setup IP (s)
-d) Map Sendgrid setup to Ongage based on IP
+Setup each to be usable by the Unsub system
+
+* Authentication
+  * DMARK
+  * SPF
+  * DKIM
+* MX / Reply Setup
+* Setup IP (s)
+* Map the ESP setup to Unsubs based on IP
  
-Supply partner isolation (FE/PLAT Ticket / Mini Epic)
+### Supply partner isolation
+
 Create a pipeline to create and monitor isolated domains for partner sends.
-a) Script (TF template) creation of DNS entries, CF Distro, Lambda@Edge to only allow approved PPs, pointing to consumer service.
-b) Create monitoring dashboard for maintenance and view of existing domains
+
+1. Script (TF template) creation of DNS entries, CF Distro, Lambda@Edge to only allow approved PPs, pointing to consumer service.
+1. Create monitoring dashboard for maintenance and view of existing domains
 
 ## Inbox mechanics
 
 Time to inbox audit and improvement
 Get our TXL email in inbox first
-a) Audit campaign and make sure we send out the email ASAP
 
+* Audit campaign and make sure we send out the email ASAP
 * [length clipping](https://www.adestra.com/blog/avoid-gmail-clipping-emails/)
 
