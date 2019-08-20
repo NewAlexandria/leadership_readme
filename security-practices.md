@@ -1,19 +1,23 @@
-# Security and Information Security
+# Security and InfoSec
 
-## Top-level Practices
+## Topics for a Governance Framework
 
-* policy maintenance and alignment
-* risk modeling and profiling
-* hardware operation
-* practices training
-* configuration and access controls
-* audits fulfillment
-* vendor audits
-* ongoing monitoring 
-* incident management
-* site(s) security
+* Policy maintenance and alignment
+* Incident management
+* BIA / DR
+* **Risk modeling and profiling**
+* **Data Classifications**
+* **Ongoing monitoring**
+* Onboarding
+* Practices training
+* **Hardware operation**
+* **Configuration and access controls**
+* **Site(s) security**
+* Audits fulfillment
+* Vendor Management
 
-### Issues:
+
+### Meta-Model
 
 1. Burden of practicing
 1. Burden of regularity
@@ -24,7 +28,7 @@
 1. Cross-team planning and ownership
 
 
-### Reportable Systems
+## Reportable Systems
 
 The point of this section is to give a sense for what kind of things could be audited, and why. It is not a complete list of what is in an InfoSec policy.  Rather, It is meant to be a frame of reference, for practices excepted by policies and InfoSec processes.
 
