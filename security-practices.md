@@ -184,6 +184,14 @@ The complete list may not be necessary at the start of setting up an access & en
 1. Match SaaS team size to HR team size
 1. Number of Accounts to non-even
 
+Then, a log should record that the entitlements were audited
+
+* software / system
+* datetime
+* person checking
+* yes/no confirmation, or
+  * list of which audits performed, or
+  * name of audit-scheme-version performed
 
 # Cyber Kill Chain
 
