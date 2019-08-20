@@ -42,6 +42,25 @@ The point of this section is to give a sense for what kind of things could be au
 
 ## Docs & Records
 
+#### General Practices
+
+1. Audits
+    1. Automation / integration design
+2. Analysis for sec. topics / scope:
+    1. New Strat plan
+    2. Policies
+    3. vendor management (Sec-related)
+3. Onboarding
+    1. Hardware
+    2. Trainings
+    3. Exercises (BC/DR)
+4. Governance
+    1. Classifications
+    2. Infosec
+    3. x-team practices planning/review
+
+
+
 ### hardware operation
 
 * hardware assignment inventory
