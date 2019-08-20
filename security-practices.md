@@ -173,6 +173,17 @@ Changes can require team-time, or vendorized support, which can drag out without
 * chaperoning
 * badge control
 
+## Access entitlement audit
+
+The complete list may not be necessary at the start of setting up an access & entitlements audit program. This is a summary of possible dimensions to audit, especially in the case of a SaaS/app with an uncertain auditing history. (i.e. a reset)
+
+1. Admin activity log, if any
+1. Number of accounts
+1. Number of admins
+1. Team groups, if any
+1. Match SaaS team size to HR team size
+1. Number of Accounts to non-even
+
 
 # Cyber Kill Chain
 
