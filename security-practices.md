@@ -59,6 +59,14 @@ The point of this section is to give a sense for what kind of things could be au
     2. Infosec
     3. x-team practices planning/review
 
+##### Meta: Access scope
+
+* email
+* wiki
+* ticketing
+* drive/docs
+
+
 
 
 ### hardware operation
