@@ -61,12 +61,27 @@ The point of this section is to give a sense for what kind of things could be au
 
 ##### Meta: Access scope
 
+perm: 
+
 * email
 * wiki
+  * plans / specs
 * ticketing
 * drive/docs
+  * policies
+  * SOPs
+  * plans / specs
+* logging
+  * audits
+  * ops risk models
 
+task-specific:
 
+* entitlements records / configs
+* data classification configs
+* cloud(s) security configs
+* SaaS security configs
+* vendor comms, engagement
 
 
 ### hardware operation
