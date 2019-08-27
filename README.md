@@ -12,6 +12,7 @@ As sections are currently all WIP, please reach out with thoughts.
 * [Ticketing](ticketing-best-practices.md)
 * [Anatomy of Web Apps](web-app-anatomy-best-practices.md)
 * [Anatomy of CMS Apps](cms-anatomy-best-practices.md)
+* [Anatomy of Email Systems](email-engagement-anatomy.md)
 * [Data, Services and Pipelines](data-science.md)
 
 ### Agile Groups
@@ -29,6 +30,9 @@ As sections are currently all WIP, please reach out with thoughts.
 * [Vendor Lifecycle steps](vendor-lifecycle.md)
 * [Notes on Managing Partner Relations](partners-and-accounts.md)
 * [Data Security Guidance](data-security.md)
+* [Data Classification and Management](data-classification.md)
+* [Anatomy of BI Systems](bi-anatomy-best-practices.md)
+* [BC / DR Roadmap](business-continuity-disaster-recovery-roadmap.md)
 
 ### Teams
 * [Onboarding and Ohana](onboarding.md)
