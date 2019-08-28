@@ -127,6 +127,13 @@ when a source is scanned 'natively' for data.  Various data-level labelling is t
 #### compliance action
 the maintenance of a chain of actions taken upon a specific data record that was found.  Kind of a Chain-of-custody concept.
 
+### Compliance Action Types
+
+* Security
+* Redaction
+* Retention
+* Disposition
+
 ### Audit and Policy Concepts
 
 * Health Checks
