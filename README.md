@@ -26,12 +26,12 @@ As sections are currently all WIP, please reach out with thoughts.
 * [IP Agreements](ip-agreements.md)
 
 ### Business Systems
-* [Meditations on Business Continuity](business-continuity.md)
+* [Anatomy of BI Systems](bi-anatomy-best-practices.md)
 * [Vendor Lifecycle steps](vendor-lifecycle.md)
 * [Notes on Managing Partner Relations](partners-and-accounts.md)
 * [Data Security Guidance](data-security.md)
 * [Data Classification and Management](data-classification.md)
-* [Anatomy of BI Systems](bi-anatomy-best-practices.md)
+* [Meditations on Business Continuity](business-continuity.md)
 * [BC / DR Roadmap](business-continuity-disaster-recovery-roadmap.md)
 
 ### Teams
@@ -43,7 +43,7 @@ As sections are currently all WIP, please reach out with thoughts.
 ### Personal Style
 
 * [Meetings](questions-and-answers/personal-inventory.md)
-* [Common Q&A](questions-and-answers/eng-leadership-questions-answers.md)
+* [Common Q&A](xquestions-and-answers/eng-leadership-questions-answers.md)
 
 ## The Roadmap
 
