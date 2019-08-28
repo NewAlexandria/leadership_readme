@@ -43,7 +43,7 @@ As sections are currently all WIP, please reach out with thoughts.
 ### Personal Style
 
 * [Meetings](questions-and-answers/personal-inventory.md)
-
+* [Common Q&A](questions-and-answers/eng-leadership-questions-answers.md)
 
 ## The Roadmap
 
