@@ -82,13 +82,27 @@ We can split data search and monitoring in AWS via Macie, and other in Gsuite vi
 
 ## Implementation
 
-Types of data could be things like
+### Common System Operational Steps
 
-* PII,
-* non-PII lead,
-* ML / 'Anonymized Data',
-* configs,
-* client,
+* Data source Connector
+* Data search query configuation
+* Do Search
+    * Local / Native search
+    * Move / Archive, then search
+* Review Queue
+* Action Policies
+    
+### Types of data 
+
+Could be things like
+
+* PII
+* non-PII lead
+* ML / 'Anonymized Data'
+* configs
+* client
 * financials
-* vendors, clients, or similar sourcing
+* vendors
+* clients
+* contracts
 
