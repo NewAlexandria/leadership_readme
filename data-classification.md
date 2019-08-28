@@ -85,7 +85,7 @@ We can split data search and monitoring in AWS via Macie, and other in Gsuite vi
 ### Common System Operational Steps
 
 * Data source Connector
-* Data search query configuation
+* Data search query configuration
 * Do Search
     * Local / Native search
     * Move / Archive, then search
@@ -113,3 +113,16 @@ Could be things like
 * vendors
 * clients
 * contracts
+
+### Types of Data Actions / Tests
+
+Thus far, it seems that SaaS commonly offers these for data classification / governance.
+
+#### presence, source
+When a Source contains this kind of data at all even without knowing precise information about the records.    The primary reason to think of this as a value is regarding access control, and entitlements auditing.
+
+#### presence, record
+when a source is scanned 'natively' for data.  Various data-level labelling is then attached. Note that the range of these labels/features can vary widely, depending on whether the data classification tool downloads/extracts the information from the source.
+
+#### compliance action
+the maintenance of a chain of actions taken upon a specific data record that was found.  Kind of a Chain-of-custody concept.
