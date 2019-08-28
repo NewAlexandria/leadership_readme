@@ -91,7 +91,15 @@ We can split data search and monitoring in AWS via Macie, and other in Gsuite vi
     * Move / Archive, then search
 * Review Queue
 * Action Policies
-    
+
+### Data Sizes
+
+As you may already see, the patterns of this kind of project are principally oriented in the amount of data that needs to be searched, and the amount to be moved.
+
+For all data stores, inventory the size of data, and the rate of growth.  These will factor into whether you need to search-in-place, and therefore the kind of solution or provider you work with.
+
+In one example, remember that backing up API-sourced data will always incur the cost of the frame of the data.  E.G. if the data is in JSON format, then it the JSON structure and metadata will add to storage and search.  You can compress such data reliably, which also can add complexity to interfacing with the data, potentially with the need to parcel it. 
+
 ### Types of data 
 
 Could be things like
@@ -105,4 +113,3 @@ Could be things like
 * vendors
 * clients
 * contracts
-
