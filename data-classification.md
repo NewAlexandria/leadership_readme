@@ -82,6 +82,7 @@ We can split data search and monitoring in AWS via Macie, and other in Gsuite vi
 
 ## Implementation
 
+
 ### Common System Operational Steps
 
 * Data source Connector
@@ -92,27 +93,22 @@ We can split data search and monitoring in AWS via Macie, and other in Gsuite vi
 * Review Queue
 * Action Policies
 
-### Data Sizes
 
-As you may already see, the patterns of this kind of project are principally oriented in the amount of data that needs to be searched, and the amount to be moved.
+### Audit and Policy Concepts
 
-For all data stores, inventory the size of data, and the rate of growth.  These will factor into whether you need to search-in-place, and therefore the kind of solution or provider you work with.
+* Health Checks
+* Usage Logs
+* Issue Queues
+* Roles
+* Access / ACLs
+* Catalog / Index Management
+* Scheduled Tasks
+* Audit Reports
+* Policy Templates
+* Source configuration
+* Category grammars / matchers
+* Masking
 
-In one example, remember that backing up API-sourced data will always incur the cost of the frame of the data.  E.G. if the data is in JSON format, then it the JSON structure and metadata will add to storage and search.  You can compress such data reliably, which also can add complexity to interfacing with the data, potentially with the need to parcel it. 
-
-### Types of data 
-
-Could be things like
-
-* PII
-* non-PII lead
-* ML / 'Anonymized Data'
-* configs
-* client
-* financials
-* vendors
-* clients
-* contracts
 
 ### Flows of Data
 
@@ -143,17 +139,27 @@ when a source is scanned 'natively' for data.  Various data-level labelling is t
 * Retention
 * Disposition
 
-### Audit and Policy Concepts
 
-* Health Checks
-* Usage Logs
-* Issue Queues
-* Roles
-* Access / ACLs
-* Catalog / Index Management
-* Scheduled Tasks
-* Audit Reports
-* Policy Templates
-* Source configuration
-* Category grammars / matchers
-* Masking
+## Scoping
+
+### Data Sizes
+
+As you may already see, the patterns of this kind of project are principally oriented in the amount of data that needs to be searched, and the amount to be moved.
+
+For all data stores, inventory the size of data, and the rate of growth.  These will factor into whether you need to search-in-place, and therefore the kind of solution or provider you work with.
+
+In one example, remember that backing up API-sourced data will always incur the cost of the frame of the data.  E.G. if the data is in JSON format, then it the JSON structure and metadata will add to storage and search.  You can compress such data reliably, which also can add complexity to interfacing with the data, potentially with the need to parcel it. 
+
+### Types of data 
+
+Could be things like
+
+* PII
+* non-PII lead
+* ML / 'Anonymized Data'
+* configs
+* client
+* financials
+* vendors
+* clients
+* contracts
