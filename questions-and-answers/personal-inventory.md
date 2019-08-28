@@ -6,31 +6,31 @@ The follow outline comes from a 'communications inventory' that loosely bases it
 
 While far from, this inventory has many similarities to what I have already learned about myself.  A decent conversation starter. 
 
-### What comes naturally to Zachary
+### What comes naturally to me
 * Emphasize the importance of quality
 * Highly value accuracy
 * Question inefficient practices
 * Feel annoyed by an exaggeration
 
-### What energizes Zachary
+### What energizes me
 * Finding the best possible solution
 * Accuracy & precision
 * Eliminating waste and inefficiency
 * Being correct
 
-### What drains Zachary
+### What drains me
 * Dealing with emotionally charged issues
 * When others do not follow through on promises
 * Meeting lots of new people at once
 * Unclear goals
 
-### When speaking to Zachary
+### When speaking to me
 * Trust that he will follow specific verbal instructions
 * Set clear expectations for the conversation
 * Start conversations with a problem to solve
 * Stay objective rather than emotional
 
-### In a meeting with Zachary
+### In a meeting with me
 * Schedule your meetings at a precise time
 * Bring documentation and data to support your points
 * Take time to thoroughly explain your idea

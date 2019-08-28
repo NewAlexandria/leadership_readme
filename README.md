@@ -40,6 +40,11 @@ As sections are currently all WIP, please reach out with thoughts.
 * [The Structure of Data Science functions](data-science.md)
 * [Distributed Teams & Remote Work](remote-work.md)
 
+### Personal Style
+
+* [Meetings](questions-and-answers/personal-inventory.md)
+
+
 ## The Roadmap
 
 Not everything on here should ever be practiced at the same time.  Each route represents a course toward quality.  
