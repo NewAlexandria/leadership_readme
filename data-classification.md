@@ -114,21 +114,30 @@ Could be things like
 * clients
 * contracts
 
-### Types of Data Actions / Tests
+### Flows of Data
 
-Thus far, it seems that SaaS commonly offers these for data classification / governance.
+Prevalent models for flowing data by classification include:
 
-#### presence, source
+#### ROT
+The data matches metadata or per-record patterns that identify it as within the ROT scope (Redundant, Obsolete, Trivial), and removal should occur.  Soft or hard delete options. 
+
+#### Manage-In-Place
+The source's metadata, or via a native search, a policy exists that defines the need for the data to remain where in location.  The reasons include for compliance, or for further processing within workflows native to that system.
+
+#### compliance and classification management
+The data falls under the scope  that requires a chain of actions to be taken.  Kind of a Chain-of-custody concept.
+
+#### Sourcing
+##### presence, by source
 When a Source contains this kind of data at all even without knowing precise information about the records.    The primary reason to think of this as a value is regarding access control, and entitlements auditing.
 
-#### presence, record
+##### presence, in record
 when a source is scanned 'natively' for data.  Various data-level labelling is then attached. Note that the range of these labels/features can vary widely, depending on whether the data classification tool downloads/extracts the information from the source.
 
-#### compliance action
-the maintenance of a chain of actions taken upon a specific data record that was found.  Kind of a Chain-of-custody concept.
 
 ### Compliance Action Types
 
+* Redundant, Obsolete, Trivial (ROT)
 * Security
 * Redaction
 * Retention
@@ -147,3 +156,4 @@ the maintenance of a chain of actions taken upon a specific data record that was
 * Policy Templates
 * Source configuration
 * Category grammars / matchers
+* Masking
