@@ -6,20 +6,22 @@ First Party
 
 The addition of these services will require the storage and access of data gathered about an email, external to a lead. This database would facilitate campaign (or another microservice) in being able to manage these in an abstract manner and fork updates to relevant subscribers (like ESPs).
 a) Email lookup table (id, email, hash? )
-b) Events Tables (Sendgrid and Optizmo - add event source to public.events?)
-c) Statuses Table (FA, Optizmo?)
+b) Events Tables (ESP and Suppression-management - add event source to public.events?)
+c) Statuses Table (FA, Suppression-management, etc)
  
 ## Campaign Management
 
 Ongage is an email management tool which sits above ESPs (and SMS) to consolidate information and allow marketing to create transactional, drip, and campaign based email changes without engineering involvement (post setup)
-Eng Tasks:
-a) Integrate SG via API tokens put in Ongage, separate via IP.
-b) Feed new leads into Ongage via their API (dupe info coming from SG)
-c) Add events to fire to ongage
-i) Current TXL trigger (Rate Table Created)
-d) Create webhook receiver to receive ongage events and replicate to DW
-e) Remove TXL and Remarketing Email from current system (handoff to marketing to turn on Ongage version)
-i) Rollout across rest of email ecosystem.
+
+#### Pattern
+
+1. Integrate SG via API tokens put in Ongage, separate via IP.
+1. Feed new leads into Ongage via their API (dupe info coming from SG)
+1. Add events to fire to ongage
+  * Current TXL trigger (Rate Table Created)
+1. Create webhook receiver to receive ongage events and replicate to DW
+1. Remove TXL and Remarketing Email from current system (handoff to marketing to turn on Ongage version)
+1. Rollout across rest of email ecosystem.
  
 ## Social Sourcing
 

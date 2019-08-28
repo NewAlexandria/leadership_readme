@@ -22,17 +22,32 @@ We can probably say that there is a broader goal of understanding when data from
 
 The most ideal solution would handle data from all of the major places that we have it:
 
-* Databases
-* Data Warehouse
-* Data-related Services (caches, ML pipes)
-* Wikis
-* ticket systems
-* Backoffice tools
-* Intranet
-* Email
-* Drives / doc stores
-* Chat
-* Customer Support
+Sourcing
+
+The most ideal solution would handle data from all of the major places that we have it:
+
+* Comms
+    * Slack
+    * Email
+* Data stores
+    * PII DB
+    * regular DB
+    * Data warehouse
+    * Logs
+* File stores
+    * Drives
+    * Cloud Doc stores
+    * S3, and similar
+    * Endpoints, laptops
+* SaaS (e.g.)
+    * Atlassian
+    * Zendesk
+    * Salesforce
+    * ESPs
+    * SSO, secrets & auth
+* Non-official places
+    * other cloud file stores (dropbox, office360, box, etc)
+    * other SaaS (Notion, etc)
 
 It's likely that this list can morph, based on business practices.
 
