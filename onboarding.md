@@ -51,6 +51,7 @@ The sensitivity allows us to relax into norms and remain aware for uncommon thin
 
 * If you need to use the company logo in a slide set or similar, please use only the official logos, slide templates, etc, that the marketing and PR teams provide.
 
+
 🔗 [More details on Departmental onboarding](onboarding/NHO-dept.md).
 
 ### Team
@@ -84,7 +85,7 @@ Never hesitate to reach out with any questions on accounts, tooling, and configu
 
 ## Onboarding Model
 
-SO, having said all that, here is a summary model:
+Having said all that, here is a summary model:
 
 ### Onboarding
 - main HR setup
