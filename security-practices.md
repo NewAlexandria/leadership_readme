@@ -136,6 +136,8 @@ Security monitoring should be treated as a form of QA.  It will live outside of 
   * Data breach response, and SLA (maybe the same as our Incidence Response)
   * adding new infosec practices.
 
+[Atlassian put together a nice collection of pages for the  tech-ops aspects of incident management](https://www.atlassian.com/incident-management).  Many of them can inspire generalizations
+
 ### site security
 
 * entry and access
