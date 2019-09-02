@@ -292,11 +292,16 @@ For eng Charters, the tasks handled by a product manager would be either handled
 
 # Agile Ritual
 
-I find that much of the literature on Agile practices involves [the use of euphemistic phrases](https://www.linkedin.com/pulse/how-scrum-patterns-help-you-become-better-master-karel-smutn%C3%BD-1e/).  You may have seen these in examples like 'pop the happy-bubble', etc.  It appears that all of these are rooted in [the narrative process of mind.](https://en.wikipedia.org/wiki/Bicameralism_(psychology))  Examples of pattern languages underscore this, such as for Product Organization Pattern Language, and Value Stream Pattern Language.  
+I find that much of the literature on Agile practices involves [the use of euphemistic phrases](https://www.linkedin.com/pulse/how-scrum-patterns-help-you-become-better-master-karel-smutn%C3%BD-1e/).  You may have seen these in examples like 'pop the happy-bubble', etc.  It appears that all of these are rooted in [the narrative process of mind.](https://en.wikipedia.org/wiki/Bicameralism_(psychology))  Examples of pattern languages underscore this, such as for 
+
+* [Product Organizations](assets/Scrum-Patterns-Organization.pdf)
+* [Value Streams](assets/Scrum-Patterns-Value-Stream.pdf)
 
 The theoretical roots of this extend from the concept of [Literary Topos](https://en.wikipedia.org/wiki/Literary_topos), which are akin to Jung's archetypes but potentially set in a more rich semantic ecosystem.  Literary Topos may be the granule of character archetypes, in the sense of Joseph Campbell's work.
 
 Such narrative topos certainly evolve with the changes of culture, at the macro level and within professions.  When used skillfully they should lubricate the system of communication.  In contrast, when the macro-org is dysfunctional, narrative topos will be experienced more like _tropes_, and often create the opposite effect. 
+
+
 
 # Open Questions
 
