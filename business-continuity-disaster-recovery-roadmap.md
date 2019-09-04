@@ -103,7 +103,7 @@ An example of 'validating outcomes' includes checks of the recoverability for ba
 
 ## Reference
 
-[ISO 22301](https://en.wikipedia.org/wiki/ISO_22301):
+### [ISO 22301](https://en.wikipedia.org/wiki/ISO_22301)
 
 * Scope
 * Normative references
@@ -115,3 +115,7 @@ An example of 'validating outcomes' includes checks of the recoverability for ba
 * Operation
 * Performance evaluation
 * Improvement
+
+### Articles
+
+* [CotE: Continuity of the economy](https://www.defenseone.com/ideas/2019/08/cyber-continuity-planning/159507/), after a crippling cyber attack
