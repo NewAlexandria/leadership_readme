@@ -15,6 +15,8 @@ These are a [proposed list](https://technology.riotgames.com/news/taxonomy-tech-
 * Foundational Debt
 * Data Debt
 
+[Some related thoughts from SO, here](https://stackoverflow.blog/2019/09/05/they-didnt-teach-us-this-a-crash-course-for-your-first-job-in-software/?cb=1)
+
 ### Analyzing a codebase
 
 * Is there a dependency analyzer in-use already? If not:
