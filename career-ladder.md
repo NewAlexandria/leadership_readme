@@ -69,3 +69,8 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 * Pulling in Help and Collecting Advice
 * Improving a Team's Performance by Reflecting on Outcomes
 * Coaching your Team Members
+
+
+## References
+
+An [interesting article discussing many roles and their function](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c).
