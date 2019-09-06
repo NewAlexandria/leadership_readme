@@ -89,6 +89,9 @@ Occasionally the question arises whether story points have the same meaning for 
 
 Teams should be discouraged from not-estimating cards, or conceiving of inconsistent story point meanings.
 
+* Software Engineering risk types
+* [UX risk types](http://uxmag.com/articles/quantifying-usability)
+
 ### Variations between kinds of work
 
 Card types are an important differentiation to develop on a team. It is common that a team develops its own card types, in accordance with the kind of work that occurs.  It's often best to let these types emerge, rather than forcing them on a team. Until team members see the value of using types, their under-appreciation for the solution may become source of distraction.
