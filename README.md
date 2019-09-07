@@ -15,6 +15,9 @@ As sections are currently all WIP, please reach out with thoughts.
 * [Anatomy of Email Systems](email-engagement-anatomy.md)
 * [Data, Services and Pipelines](data-science.md)
 
+## InfoSec
+* [Data Security](data-security.md)
+
 ### Agile Groups
 * [QA and Testing](qa-test-framework.md)
 * [QA for Event & Distributed Systems](qa-evented-framework.md)
