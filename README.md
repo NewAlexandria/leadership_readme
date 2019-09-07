@@ -26,7 +26,10 @@ As sections are currently all WIP, please reach out with thoughts.
 
 ### Hiring
 * [Interviewing](interviewing.md)
+* [2-Way Questions in an Interview](interviewing-two-way-questions.md)
 * [IP Agreements](ip-agreements.md)
+* [Hiring practices](hiring.md)
+* [Career Growth](career-ladder.md)
 
 ### Business Systems
 * [Anatomy of BI Systems](bi-anatomy-best-practices.md)
