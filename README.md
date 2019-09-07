@@ -23,6 +23,8 @@ As sections are currently all WIP, please reach out with thoughts.
 * [QA for Event & Distributed Systems](qa-evented-framework.md)
 * [Notification](notification-practices.md)
 * [An Agile-practice framework (SAFE-like)](agile-planning-practices.md)
+* [Types of Agile Charters](agile-charter-types.md)
+* [Tooling Configs for Agile Systems](agile-configuration.md)
 
 ### Hiring
 * [Interviewing](interviewing.md)
