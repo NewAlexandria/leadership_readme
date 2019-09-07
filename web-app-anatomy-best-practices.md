@@ -131,6 +131,32 @@ What it does not afford:
 
 Program correctness can have important value for the product and business.  Mindfully validate if this correctness is necessary, and is necessary within the context of the program itself.  Compare/consider if the program need to be internally correct, or if only the data needs to be correct when emitted or consumed.  API correctness and data-store correctness can be handled with other distributed systems design patterns.
 
+## API Health
+
+The metabolism of APIs and their environment.
+
+* Uptime
+* CPU usage
+* Memory usage
+* Request Per Minute (RPM)
+* Latency (Average and Max)
+* Errors Per Minute
+* API usage growth
+* Unique API consumers
+* Top customers by API usage
+* API retention / churn
+* Onboarding Time
+* API Calls per business transaction
+* SDK and version adoption
+
+One of the spanning concepts here is to profile API consumer, to understand who and how. 
+
+Onboarding time probably represents one of the most complicated KPIs to solve, since it involves a rabbit-hole of _prospective API user demographic segments_.  [Some](https://www.moesif.com/blog/technical/api-metrics/API-Metrics-That-Every-Platform-Team-Should-be-Tracking/#) have called this 'time to hello world'.
+
+* synchronization (semantic latency)
+* network segmentation
+
+
 # References
 * https://frontendmasters.com/books/front-end-handbook/2018/practice/skills.html
 * https://medium.com/discovery-engineering/component-level-isomorphic-webpack-code-splitting-b98922382cc1
@@ -139,3 +165,4 @@ Program correctness can have important value for the product and business.  Mind
 * https://frontendmasters.com/books/front-end-handbook/2018/practice/skills.html
 * https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/
 * https://medium.com/airbnb-engineering/whats-next-for-mobile-at-airbnb-5e71618576ab
+* https://www.moesif.com/blog/technical/api-metrics/API-Metrics-That-Every-Platform-Team-Should-be-Tracking
