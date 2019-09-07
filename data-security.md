@@ -10,3 +10,7 @@ I commonly decide to use Keybase Teams because of the  need for a BYOK solution 
 1. TOFU means 'trust on first use' and is reflected int he way that information is inaccessible to a use if they needed to do anything that interrupts the ability to trust their account — such a password reset.  
 
 These together allowed us to use this tool within our data security chain.
+
+## Encryption Methods
+
+![domain map of cryptographic mechanics](assets/crypto-domain-map.png)
