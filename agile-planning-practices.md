@@ -13,6 +13,12 @@ I like to aim for a lightweight workflow for master planning documents (Charters
 * complete visibility into all planning and design work
 * consistent process and cadence moving from gathering requirements to completed Charter
 
+### Non Goal:
+
+* define the actual process of writing a Charter
+* define the contents of a Charter
+
+
 ### Principles
 
 Most of these will have already been implemented.  For more, [see the section on teams and meetings](/remote-work.html#meetings)
@@ -22,12 +28,8 @@ Most of these will have already been implemented.  For more, [see the section on
 * Execute with focus and accountability
 * Measure what worked and what didn’t to iteratively improve
 
-### Non Goal:
 
-* define the actual process of writing a Charter
-* define the contents of a Charter
-
-### Background
+## Background
 
 The idea of reviewing and leaving comments on a completed Charter is well-established in the tech organization, and the subsequent epic process is mostly standardized. However the process of actually developing a Charter has largely been left as exercise for the reader. This worked fine when the vast majority of the work on Charters was done by 2-3 people, but as the Engineering and Product teams grow, we need some process to better coordinate everyone involved.
 
@@ -38,13 +40,20 @@ As well, the Charter process in Engineering generally occurs after some Business
 
 # Stages of Planning, Delivery, and Operationalization
 
+## Product and Engineering
+
 The concise chartering process focuses on Product planning, Engineering, and Release:
 
 ![](assets/agile-stages-product-dev.png)
 
-[Charter Types](agile-charter-types.md) stand as the granular versions of broader phases of work that go on within the lifecycle of corporate planning.  These phases can overlap.  The current consideration of these looks like this:
+
+## Whole-Company
+
+[Charter Types](agile-charter-types.md) stand as the granular versions of broader phases of work that go on within *the whole lifecycle of corporate planning*.  These phases can overlap.  The current consideration of these looks like this:
 
 ![](assets/agile-stages-cross-business.png)
+
+### Glossary
 
 * A dash '-' is minimal involvement, such as gut-checks about scope changes, etc.
 * Release and Rollout is sometime called Launch
@@ -84,6 +93,5 @@ I find that much of the literature on Agile practices involves [the use of euphe
 
 The theoretical roots of this extend from the concept of [Literary Topos](https://en.wikipedia.org/wiki/Literary_topos), which are akin to Jung's archetypes but potentially set in a more rich semantic ecosystem.  Literary Topos may be the granule of character archetypes, in the sense of Joseph Campbell's work.
 
-Such narrative topos certainly evolve with the changes of culture, at the macro level and within professions.  When used skillfully they should lubricate the system of communication.  In contrast, when the macro-org is dysfunctional, narrative topos will be experienced more like _tropes_, and often create the opposite effect. 
-
+Such narrative topoi certainly evolve with the changes of culture, at the macro level and within professions.  When used skillfully they should lubricate the system of communication.  In contrast, when the macro-org is dysfunctional, a narrative topos will be experienced more like _trope_, and often create the opposite effect. 
 
