@@ -91,10 +91,13 @@ I find that much of the literature on Agile practices involves [the use of euphe
 * [Product Organizations](assets/Scrum-Patterns-Organization.pdf)
 * [Value Streams](assets/Scrum-Patterns-Value-Stream.pdf)
 
+![](assets/roadmap/Scrum-Patterns-Organization.jpg)
+
 The theoretical roots of this extend from the concept of [Literary Topos](https://en.wikipedia.org/wiki/Literary_topos), which are akin to Jung's archetypes but potentially set in a more rich semantic ecosystem.  Literary Topos may be the granule of character archetypes, in the sense of Joseph Campbell's work.
 
 Such narrative topoi certainly evolve with the changes of culture, at the macro level and within professions.  When used skillfully they should lubricate the system of communication.  In contrast, when the macro-org is dysfunctional, a narrative topos will be experienced more like _trope_, and often create the opposite effect. 
 
+> In a later article, we can look at how this psychological schema graph intersects with the operational schema.  Indeed, both are roadmaps.  Doubtless that excessive lag between certain elements of each feel like real drag in the experience of team flowstate. 
 
 ### Agile Anti-pattern
 
