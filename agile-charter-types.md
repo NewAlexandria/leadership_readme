@@ -70,7 +70,7 @@ We have seen an emerging need for a Product Charter in the wiki.  This planning 
 * Out of Scope
 * Open Questions
 
-
+![Sample of Storymap construction](assets/Agile-story-mapping.pdf)
 
 ## 🧭 Tech Charters
 ### Workflow

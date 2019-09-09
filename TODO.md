@@ -1,6 +1,7 @@
 # things to add
 
-1. add to https://github.com/liuchong/awesome-roadmaps  ??
+1. regroups Agile Planning topics for prd/eng types.
+2. add to https://github.com/liuchong/awesome-roadmaps  ??
 1. consider switch to other doc generator
   2. Hexo, per https://github.com/NewAlexandria/newalexandria
   3. https://medium.com/@rebeccapeltz/publish-your-book-online-with-gitbook-fc0ce9b7f12
