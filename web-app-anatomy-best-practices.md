@@ -96,6 +96,20 @@ Some of these:
 
 Without a more elaborate dictionary of patterns, we can already consider how the total set of all patterns is the configurations of different resource types defined by the 'metal' of the OS.
 
+### Graphical Rendering
+
+While this file is not the ideal place for it, let's quickly capture an outline of the design pattern of a pipeline for rendering complex visualizations 
+
+1. Raw Data 
+1. Analysis 
+1. Preprocess 
+1. Filtering 
+1. View 
+1. Mapping 
+1. Geometric (data structure) 
+1. Draw 
+1. Graphic
+
 ## Mobile
 
 When do you decide to build native mobile vs. mobile web, and can a multi-platform framework be used? 
