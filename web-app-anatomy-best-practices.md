@@ -107,8 +107,28 @@ While this file is not the ideal place for it, let's quickly capture an outline 
 1. View 
 1. Mapping 
 1. Geometric (data structure) 
-1. Draw 
+1. Draw (or, UI library)
 1. Graphic
+2. Interactivity
+
+#### Analysis
+data cleaning, statistics, data modeling
+
+#### Filter
+basic algorithms, statistical algorithms, common layout algorithms
+
+#### Geometric
+trigonometric function, linear algebra, geometric algorithm
+
+#### Draw
+Canvas, SVG, WebGL, computational graphics, graph theory
+
+#### Graphic
+visual coding, visual analysis, graphical interaction
+
+#### Interactivity
+design principles, aesthetic judgment, color, interaction, cognition
+
 
 ## Mobile
 
