@@ -111,6 +111,9 @@ While this file is not the ideal place for it, let's quickly capture an outline 
 1. Graphic
 2. Interactivity
 
+#### Raw Data
+CPU/GPU hardware, data acquisition, profiling, cleaning, compression
+
 #### Analysis
 data cleaning, statistics, data modeling
 
@@ -121,13 +124,13 @@ basic algorithms, statistical algorithms, common layout algorithms
 trigonometric function, linear algebra, geometric algorithm
 
 #### Draw
-Canvas, SVG, WebGL, computational graphics, graph theory
+Canvas, SVG, WebGL, computational graphics, graph theory, engine design, shaders, 
 
 #### Graphic
-visual coding, visual analysis, graphical interaction
+visual coding, visual analysis, graphical interaction, display hardware/target
 
 #### Interactivity
-design principles, aesthetic judgment, color, interaction, cognition
+design principles, aesthetic judgment, color, perception, cognition, cognitive load, interaction, psychology
 
 
 ## Mobile
