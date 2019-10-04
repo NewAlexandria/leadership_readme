@@ -1,9 +1,23 @@
 # Incident Response Topics
 
+## Semantics
+
+### Types of Incident
+* Data leak
+* Breach / penetration
+* Fraud
+* Platform SLA
+* Partner-specific SLA
+
 ### Timeline elements
 * incident start
 * incident end
 * investigation stage
+  * system scope
+  * product / LOB scope
+  * user scope
+  * partner scope
+  * client scope
 * escalation/decisions/changes stage 
 * Customer impact area(s). Evidences.
 * First client comms
@@ -15,8 +29,9 @@
 * What communications template(s) were used?
 * What medium were the comms sent through? (social media channels, a service desk, a status page, email, etc)
 * Who sent each out?
+* Contact address for where each affected party?
 
-### Post mortems
+## Post mortems
 
 #### Timeline
 * If we did not communicate early and often with customers, why not?
