@@ -25,6 +25,8 @@ As sections are currently all WIP, please reach out with thoughts.
 * [An Agile-practice framework (SAFE-like)](agile-planning-practices.md)
 * [Types of Agile Charters](agile-charter-types.md)
 * [Tooling Configs for Agile Systems](agile-configuration.md)
+* [Responding to Incidents](incident-response.md)
+
 
 ### Hiring
 * [Interviewing](interviewing.md)
