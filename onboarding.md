@@ -17,6 +17,15 @@ The harmony of _achdus_ respects, *and leverages*, the complex interweaving of t
 
 The sensitivity allows us to relax into norms and remain aware for uncommon things that need a measure of attention — as well as when time has shown that we need to adapt and change practices. 
 
+### CAP Theorem in Org Dynamics
+
+A study has shown that, [under time-pressure, people will go against their sense-of-correctness, and socially conform](https://journals.sagepub.com/doi/suppl/10.1177/0956797619867939).
+
+In context, it may mean that speed of workflow can get reduced below a threshold of efficiency that is worse that the ‘wrong answer’.
+
+i.e. if this is a metric toward the way that “IQ is lower in groups”
+if so, it could help toward defining ideal group sizes relative to necessary speed.
+
 ## Map
 
 ![A tree of corporate structure, and you orientation](assets/onboarding/NHO-doc-hierarchy.jpg)
@@ -90,14 +99,18 @@ Having said all that, here is a summary model:
 ### Onboarding
 - main HR setup
 - Team setup
+- Function / Role setup
 - Custom setup
 
 ### Onboarding types
+
+Each of these will have specifications per team and function.
+
 - Accounts, integrations/cals
-- Emails
+- Email lists, groups
 - Trainings
 - Hardware
 - Comms / intros
 
 ### Offboarding
-- Inverse of the processs
+- Inverse of the processes
