@@ -169,3 +169,10 @@ Updates to Even School and other materials used to orient new employees.
   * tech-ops and saleseng, and
   * BI ad-hoc reporting along with
   * related eng. support.
+
+# References
+
+These are evolving lists of other charter formats and templates
+
+* [Lee Nau's PRD from global-linda](https://leenau.bitbucket.io/lynda/product-requirements-document/)
+* [collection of charter templates at useFYI.com](https://usefyi.com/templates/product-requirements-document-templates/)
