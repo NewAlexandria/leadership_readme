@@ -107,6 +107,11 @@ task-specific:
 * Our AWS-specific audit
 * Even Financial Security Posture
 
+##### Scheduling 
+
+Many different things sec/audit things need regular check-up, and also that auditors want to see confirmation of a max-interval when each was performed.  A calendar, e.g. in google cal, called Audits, can act as the central dashboard for all of these.
+
+Each cal item would be named after the control that drives it, with name/category/links/etc in the body of the cal item.  This will also make them searchable.  A new column can go in the audit sheet(s), for whether there is a calendar item set for that control;  maybe a link to the event.
 
 ### audits fulfillment
 
