@@ -83,7 +83,27 @@ Though this is discouraged, it happens sometimes.  We should think about doing t
 1. It reminds others on the team why a card has story points, if they weren't involved
 1. When totaling velocity, these will add up and the velocity will look like `214.17`, which tells you that `17` cards were estimated by only a single person.  This is an error factor in using historical data for projections
 
-### Feature Projects vs. Backlog
+### 📐 Story Points
+
+I argue against estimating *time* for tickets.  After many years, I've seen the teams that estimate time do worse that teams that estimate risk.
+
+💡 Time estimations are a guess, but are treated as commitments.  That is a system that people will 'game'.  Break the bad habits by developed in-house or per-team guesses of complexity.  Complexity 'steps' are much more intuitive and easier to guess.
+
+You will need to choose a counting system, and a socialize a rubric for modeling risk. 
+
+The first is the easiest.  Most seem to choose a fibonacci scale, or a binary scale. The important element seems like the gaps between the numbers.... or at least, the rubric and the gaps need to relate to each other.  'Fibs' make it hard for most people to keep counting higher.   i.e. 3,5,8,13,21,34,55,89 is harder than 8,16,32,64,128, let along 4,5,6,7,8,9.  Let's see what this means, with a complexity-based rubric.
+
+As work specs (tickets) get bigger, the complexity increases.  Complexity implicitly means that the task at focus can be affected by other parts of the system, or even other externalities.  These go so far as the proverbial 'unknown unknowns'.  Most people are bad at guessing these, and the problem only has minor solution given more experience and audit-mindset. 
+
+##### E Pluribus Unum
+
+Most teams begin by considering their **smallest type of change**.  Usually a task that happens often and cannot be automated.  Finding this 'base unit' challenges people in their assumptions about automation, and minimum thresholds for coordinating work tasks.  Over the long-term, you will see backlog grooming and estimation meetings debate if some task is 'too small' to be counted as '1 point'.  My principle here is to avoid having more than a couple of these each week for a typical engineer/developer.  If more than that, something wrong — such as bad QA (too many small bugs being released into production), or developers essentially acting as customer-service or account management.
+
+##### Counting Up
+
+Deciding if a task is the next largest number [of points] is not just about doing "more 1s" but about finding something that is conceptually more complex than the previous number.  In principle, this is based on externalities — like non-stdlib code libraries, code frameworks, APIs, and more, even sometimes when there is enough human comms in the loop of the work.
+
+#### Feature Projects vs. Backlog
 
 Occasionally the question arises whether story points have the same meaning for cards in a feature release project, vs. cards in an unstructured backlog.  In six years of being a core stakeholder in backlogs estimated with a fibonacci risk scale, I have never seen a variance.
 
