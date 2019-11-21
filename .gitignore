@@ -65,3 +65,6 @@ resumes/*.out
 resumes/*.aux
 resumes/*.pdf
 resumes/*.gz
+
+# envs
+.DS_Store
