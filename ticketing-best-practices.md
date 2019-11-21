@@ -103,6 +103,20 @@ Most teams begin by considering their **smallest type of change**.  Usually a ta
 
 Deciding if a task is the next largest number [of points] is not just about doing "more 1s" but about finding something that is conceptually more complex than the previous number.  In principle, this is based on externalities — like non-stdlib code libraries, code frameworks, APIs, and more, even sometimes when there is enough human comms in the loop of the work.
 
+General, people who have worked in a given area (backend, fronend, devop, data eng, data sci, etc) have the experience to guess at when something involves enough complexity that it could be counted as the next higher number.  'Sr' and 'Lead' level staff, especially. 
+
+One way to handle the complexity rubric is to add a point for each kind/type of thing involved, and another for each that is the first time the pattern will be implemented. 
+
+Whatever rubric is chosen, socialize it, and stick to it for several estimation meetings, to give it a chance.  From there, retrospective and decide how to revise it.  
+
+##### Backlog Caps
+
+Aim to have a limit on the largest point-size card that can be put on the backlog.  
+
+This principle comes from the reality that many tasks are dleayed excessibely because they were not sized correctly in the first place.  For many teams using a fib scale, 5 or 8pt cards seem to be the largest.  You will naturally get a sense of the right size, based on what are typical point-sizes for cards at each of the stages: chartering > storymapping > backlog.   
+
+Don't be afraid to break-up a ticket after it's been started, if the team finds it was not well understood.  It can sometimes help to 'push through' and learn from the mistake, but more often than not, the poor scoping will cause delays that will frustrate everyone.  A stitch in time saves nine.
+
 #### Feature Projects vs. Backlog
 
 Occasionally the question arises whether story points have the same meaning for cards in a feature release project, vs. cards in an unstructured backlog.  In six years of being a core stakeholder in backlogs estimated with a fibonacci risk scale, I have never seen a variance.
