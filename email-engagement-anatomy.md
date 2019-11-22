@@ -82,3 +82,14 @@ Get our TXL email in inbox first
 * Audit campaign and make sure we send out the email ASAP
 * [length clipping](https://www.adestra.com/blog/avoid-gmail-clipping-emails/)
 
+
+## Fraud
+
+**Types of Fraud**|**Risk**|**Result of Risk**|**Manual indicators or precautions (Need to work with BI on this)**|**Automatic Proactive Precautions (Need to get 3rd-party Tool)**|**Reactive Precautions**
+-----|-----|-----|-----|-----|-----
+Bot Traffic|Wasted ad budget |Spike in traffic/ conversions|Low Retention|Low Activity|Manual review of traffic in BI deep dive
+Click Fraud|Poor optimization|Wasted budget|Abnormal Click to acquisition ratios.|High Activity, Low/high Retention/acquistion|BI deep dive
+Conversion Fraud|Revenue impact twice over as money for fraudulent conversions can’t be used for legitimate traffic.|High # of acquisitions with low activity|B|B|BI deep dive
+Fraud signups and application |Fake acquisitions resulting in low brand expectations|loss of reputation|Demand side conversion issues|increased signups and decrease or stagnant conversion |BI reviews
+Content Fraud|Fines, loss of reputation|Spike in traffic/ conversions|Low Retention|Low or extremely abnormal high Activity|Performline
+Email Fraud|CANSPAM violations|loss of reputation|low conversions|Low Activity,Complaints|Lashback
