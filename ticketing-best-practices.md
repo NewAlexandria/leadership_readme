@@ -117,6 +117,11 @@ This principle comes from the reality that many tasks are dleayed excessibely be
 
 Don't be afraid to break-up a ticket after it's been started, if the team finds it was not well understood.  It can sometimes help to 'push through' and learn from the mistake, but more often than not, the poor scoping will cause delays that will frustrate everyone.  A stitch in time saves nine.
 
+An example of mapping the story-point sizing to the stage of requirements-building:
+
+![](assets/agile/Agile-Product-Engineering-Process.jpg)
+
+
 #### Feature Projects vs. Backlog
 
 Occasionally the question arises whether story points have the same meaning for cards in a feature release project, vs. cards in an unstructured backlog.  In six years of being a core stakeholder in backlogs estimated with a fibonacci risk scale, I have never seen a variance.
