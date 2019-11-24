@@ -121,6 +121,9 @@ An example of mapping the story-point sizing to the stage of requirements-buildi
 
 ![](assets/agile/Agile-Product-Engineering-Process.jpg)
 
+##### Ideas and Idea Board prioritization
+
+Once your team has been using a consistent estimation point scale, for the work released to production, then you can use the data to infer larger story-point numbers for the broad strokes of something that is at the earliest stage of ideation.  I've accomplished this reliably in a live team environment.
 
 #### Feature Projects vs. Backlog
 
