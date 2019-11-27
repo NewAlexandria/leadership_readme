@@ -125,6 +125,10 @@ An example of mapping the story-point sizing to the stage of requirements-buildi
 
 Once your team has been using a consistent estimation point scale, for the work released to production, then you can use the data to infer larger story-point numbers for the broad strokes of something that is at the earliest stage of ideation.  I've accomplished this reliably in a live team environment.
 
+When you use a complexity-based estimation scale, you start to develop a 'house sense' for bigger and bigger units of complexity.  Eventually, those can used to estimate the big broad strokes of idea stages, and 'business charters' (i.e. preceding product charters/PRDs, storymaps, and the last-mile of smallest-complexity tickets that engineering owns and releases)
+
+For ideation boards, I usually start triaging them by scope of potential return/value.  This naturally migrates most from bizdev / sales / exec to the top, with occasion ideas from other areas.  By luck or by passion, people in other departments usually do not pitch a well-considered idea (bottom-line value).  This is not an insult to people in those areas, but a recognition of what we learn when we learn through entrepreneurship, or MBAs programs.
+
 #### Feature Projects vs. Backlog
 
 Occasionally the question arises whether story points have the same meaning for cards in a feature release project, vs. cards in an unstructured backlog.  In six years of being a core stakeholder in backlogs estimated with a fibonacci risk scale, I have never seen a variance.
