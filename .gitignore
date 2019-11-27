@@ -60,6 +60,10 @@ typings/
 # next.js build output
 .next
 
+# jekyll things
+_site
+.sass-cache
+
 # LaTex tool files
 resumes/*.out
 resumes/*.aux
