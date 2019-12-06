@@ -26,6 +26,41 @@
 * each ongoing client comm
 * client followup comms
 
+### Breach Announcement
+As with all matters related to data breach, research should be kept confidential and shared only with senior leadership involved in the announcing the breach.
+
+#### Time periods
+* Of downstream breach
+* Of overlap
+
+#### Totals
+
+##### People
+* those with PII leaks
+* in each class of data
+
+##### Types of data revealed
+* particularly high-status data
+  * PII, PCI, PHI
+  * specific fields
+
+Accounts, passwords, SSN, address. I think this is probably the data classes that we recently defined in the RFC for data classes.
+
+* Financials, if money stolen.
+* Scope of financial burden for remediation.
+* Special topic.  Not always needed.
+
+* Partners that were involved
+  * Follow executive guidance on Partner types / classification.
+
+#### Degree of certainty 
+about any of these figures, particularly the number of people impacted. 
+
+* No more that
+* between X-Y
+* was exactly
+* likely was less
+
 
 
 ## Incident Scopes
