@@ -2,14 +2,16 @@
 
 ## Semantics
 
-### Types of Incident
+### Types of Incidents
 * Data leak
 * Breach / penetration
+* Leak/Breach from Partner
+* DDOS
 * Fraud
 * Platform SLA
 * Partner-specific SLA
 
-### Timeline elements
+### Timeline elements for Reporting
 * incident start
 * incident end
 * investigation stage
@@ -23,6 +25,8 @@
 * First client comms
 * each ongoing client comm
 * client followup comms
+
+
 
 
 ### Involvements
@@ -49,3 +53,4 @@
 * Were the mediums/channels used easily accessible/visible for customers? How did they know where to find it?
 * What do our customers now know about this incident solely from the comms we sent out during/after the incident?
 
+ 
