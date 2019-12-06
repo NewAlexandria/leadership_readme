@@ -124,7 +124,12 @@ Timetable for (minimum) yearly exercises.
 - Retro / minutes from each exercise
 - New/old staff
 
-
+### Fraud
+- Same as internal, plus:
+- legal review of related insurance policies
+  - operationalize following guidance to enable claims
+- if needed, establish contact with related partners
+- Comms templates, board/investor
 
 ## Per-incident occurrence
 - Incident ‘war room’ 
