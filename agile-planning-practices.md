@@ -1,6 +1,6 @@
 # Chartering
 
-I like to aim for a lightweight workflow for master planning documents (Charters / Charters / etc) as they move from an idea until they're ready to be implemented. Usually this process is managed in an ad hoc fashion, and as a result often lacks visibility and consistency.
+I like to aim for a lightweight workflow for master planning documents (Charters / Charters / etc) as they move from an idea until they're ready to be implemented. Usually this process is managed in an ad hoc fashion, and as a result often lacks visibility and consistency.  [Here is what we are aiming to avoid.](https://www.youtube.com/watch?v=4u5N00ApR_k)
 
 ### Issues:
 
