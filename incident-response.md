@@ -64,6 +64,19 @@ about any of these figures, particularly the number of people impacted.
 
 
 ## Incident Scopes
+
+### Priority Kinds
+#### Priority #1 - Emergency/Urgent:  
+An Incident has caused a complete and immediate work stoppage affecting at least one primary business process or a broad group of End Users. No workaround is available.
+#### Priority #2 - High:  
+An Incident has affected a business process in such a way that business functions (operations) are severely degraded, multiple End Users are impacted or key external customer is affected.  A workaround may be available, but it is not easily sustainable.
+#### Priority #3 - Medium:  
+An Incident has affected a business process in such a way that certain business functions are not available to End Users or external customers, or a system or service is degraded.  A workaround may be available.
+#### Priority #4 - Low:  
+An Incident has little or no effect on business processes or operations and can be handled on a scheduled basis (e.g., preventive maintenance).  A workaround is available.  
+
+Incident will then continue with containment, eradication and post incident analysis. Bi-Yearly tabletops are held to test the program  
+
 ### SLA: definitions 
 - In contracts / ensure standard language
     - impact times
