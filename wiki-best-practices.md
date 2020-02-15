@@ -9,6 +9,10 @@
   * When the information needs to be findable *within context to related info* (e.g. for your department or team).
   * disk or cloud docs have no inherent navigation, like breadcrumbs, and so are often hard to keep track of.
 
+## We are Avoiding This
+
+![](assets/we-are-avoiding-this.png)
+
 ## Core Pages
 
 ### Finding the Home
