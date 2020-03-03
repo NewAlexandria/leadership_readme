@@ -78,6 +78,12 @@ Sometimes you will see any of these service or pipeline concepts organized into 
 
 ## Workflows
 
+* Continuous and extensible data processing
+* The elasticity and agility of the cloud
+* Isolated and independent resources for data processing
+* Democratized data access and self-service management
+* High availability and disaster recovery
+
 ### Models in the Data Pipeline
 
 ![ML pipeline flow example, and roles](assets/data/graph-ml-workflow.png)
