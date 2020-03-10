@@ -18,6 +18,12 @@ While the heading of this section could be 'remote work,' the reality is that it
 
 ### Line of Business teams
 
+1. Generally long-term
+2. Typical daily ops. "BAU"
+3. Baselines vs. incidents.  Trending
+4. Reliability and Quality engineering
+5. Knowledgebase for onboarding & x-boarding
+
 ### Project teams
 
 1. forming a collective identity, 
