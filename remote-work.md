@@ -101,7 +101,8 @@ Some things happen better in live conversations (F2F or video), and some things 
 |  Why | Identify progress, roadblocks, and learning/adaptation touchpoints. | Identify learnings that improve macro performance.              |  Improve the contribution to active team or corporate goals, or culture. |
 
 ### Influencing
-There exists a proposed scale of influencing, within civil and professional environments:
+
+There exists a proposed scale of influencing, within civil and professional environments.  At the core of it: *ensure that those you're speaking with feel the pain of the need*.
 
 #### Most Effective
 
@@ -167,6 +168,7 @@ Use the calendar invite strategically, as a 'micro-document,' to set the meeting
 
 1. Almost without exception, use the calendar invite to bullet-point-outline the scope of the meeting.  **This is very important to setting the context and expectations**.  
 2. When possible, add *links* to shared docs, for anyone who needs to read more for familiarization with the topics that the meeting needs to discuss. 
+3. Follow a minimum-docs principle.  Think of it as the "MVP" of what's needed for the meeting.If you cann't do this with the docs you have, create a list of links that are akin to a slideshow.
 
 Always leave 5 minutes at the end of a meeting, for closure.  Make assignments and other followup tasks.  Set dates, whether specific or rough.  Set a timer, and don't skip this.  Accountability works best when we have involvement in the tasks we need to do.
 
