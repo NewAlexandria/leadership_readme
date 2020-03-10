@@ -151,17 +151,18 @@ An echo to the last point, often people will want to be aware of what's happenin
 
 If in-person attendance of meeting 'auditors' seems important, try to follow these two UX principles:
 
-* Do not type loudly on other work, which disrupts everyone with the awareness you are not paying attention.  Even if this means you must type slower, that is the cost of the courtesy, and support of the team.
+* Do not type loudly on other work, which disrupts everyone with the awareness you are not paying attention.  Even if this means you must type slowely or delicately, that is the cost of the courtesy, and support of the team.
 * Sit at the edges of the room.  Avoid taking a central seat, which will implicitly make you a central member of the meeting.  Aim to be a fly on the wall.
 
 #### Have a Role
-For those that are not auditing, it will help to understand their role in the meeting.  If anyone is unsure, look to what assignment they will get as a result of the meeting.
+For those that are not auditing, it will help to understand their role in the meeting.  If anyone is unsure, look to what assignment they will get as a result of the meeting.  If they won't participate in assignment or prioritization, reconsider 'if' and 'what' the value of them attending.
 
 In an ideal world, each person attending a meeting could have their expected role sketched out in the meeting's agenda.  This generally wouldn't happen for several reasons, but it's a [gedanken](https://en.wikipedia.org/wiki/Thought_experiment) to help refine the efficiency of meetings. 
 
 ----
 
 ### Agenda
+
 Use the calendar invite strategically, as a 'micro-document,' to set the meeting for success.  
 
 1. Almost without exception, use the calendar invite to bullet-point-outline the scope of the meeting.  **This is very important to setting the context and expectations**.  
