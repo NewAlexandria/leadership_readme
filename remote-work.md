@@ -16,22 +16,33 @@ While the heading of this section could be 'remote work,' the reality is that it
 
 ### Guilds, Tribes, and Functional areas
 
+1. Usually a toolset, engineering practice, and including engineering-related.
+2. Share uncommon insights and learnings about the practice area.  'Head off at the pass'.
+3. Birds of a feather.
+4. Healthy exchange between teams at same corp, or within city.
+5. May be an innovation ecosystem.
+
 ### Line of Business teams
 
-1. Generally long-term
-2. Typical daily ops. "BAU"
-3. Baselines vs. incidents.  Trending
-4. Reliability and Quality engineering
-5. Knowledgebase for onboarding & x-boarding
+1. Generally long-term.
+2. Typical daily ops. "BAU".
+3. Baselines vs. incidents.  Trending.
+4. Reliability and Quality engineering.
+5. Knowledgebase for onboarding & x-boarding.
 
 ### Project teams
 
-1. forming a collective identity, 
-1. moving toward
-1. collective action, and engaging in reflexive dialog
+1. Forming a collective purpose-driven identity
+1. Moving toward ____
+1. Collective action, and engaging in reflexive dialog
+2. Maybe be short or medium term.
 
 ### Extreme Development
 
+1. Highly purpose-built (even 'scientifically')
+2. Very short term (problem specific).
+3. Stronger when multi disciplinary / style.
+4. Innovation, critical matters, architecture, etc.
 
 ## Connecting
 
