@@ -11,6 +11,26 @@ While the heading of this section could be 'remote work,' the reality is that it
   * consultation
   * collaboration
 
+## Basic Comms Hygiene
+
+* Set working hours
+
+* Have quick calls to resolve confusions.
+* Assume best intent.
+
+* Dress for the day
+* Have fun.  It's important to release, and spread the mood
+
+* Don’t mix chat apps, ideally
+* Effort on work/life seaparation
+
+### Keep docs as centralized as possible
+* No / low search
+* Team Folders; Findable
+* Consistent; no confusion
+* Make master lists of all the things
+* No local file saves
+
 
 ## Forming teams
 
