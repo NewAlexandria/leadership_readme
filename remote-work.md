@@ -16,10 +16,12 @@ While the heading of this section could be 'remote work,' the reality is that it
 * Set working hours
 
 * Have quick calls to resolve confusions.
-* Assume best intent.
+* Assume positive intent.
+* It's impossible to know everything 
 
 * Dress for the day
-* Have fun.  It's important to release, and spread the mood
+* Have fun.  It's important to release, and spread the mood.
+* Say thanks.
 
 * Don’t mix chat apps, ideally
 * Effort on work/life seaparation
@@ -34,6 +36,7 @@ While the heading of this section could be 'remote work,' the reality is that it
 * Make master lists of all the things
 * No local file saves
 
+Can be structured and formatted to showcase a train of thought
 
 ## Forming teams
 
@@ -73,7 +76,7 @@ Whether in person, or particularly when working as a distributed organization, w
 
 1. #### Active Listening
 
-    It's simple: pay attention.  *Model *what you're hearing, not just listen for instructions. 
+    It's simple: pay attention.  *Model* what you're hearing, not just listen for instructions.  Listen for feedback and be aware of your responses. 
 
 2. #### Focus on Behaviour
 
@@ -82,6 +85,8 @@ Whether in person, or particularly when working as a distributed organization, w
 3. #### Balanced Response
 
     We all have a tone of signals to interpret. The easiest way to avoid misunderstanding is to have a balanced response.  If the basis of a communication is criticism, make sure to point out the strengths that also exist.  If the basis is praise, be sure to offer support for growth, too.
+    
+    When writing in text, it can be structured and formatted to showcase a train of thought.
 
 4. #### Cameras On
 
@@ -90,7 +95,7 @@ Whether in person, or particularly when working as a distributed organization, w
 
 ## Meeting Efficiency
 
-Some things happen better in live conversations (F2F or video), and some things happen better asynchronously.  Know which, and try to pivot meetings that are pulling in the wrong things. 
+Some things happen better in live conversations (F2F or video), and [some things happen better asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/).  Know which, and try to pivot meetings that are pulling in the wrong things. 
 
 ### live
 * Reviews
@@ -104,6 +109,7 @@ Some things happen better in live conversations (F2F or video), and some things 
 * Execution
 * Measurement
 
+Async relies on the right tools.  [Use the right one for the context.](/notification-practices.html#when-to-use-a-given-tool)
 
 ## Meetings
 
@@ -115,6 +121,13 @@ Some things happen better in live conversations (F2F or video), and some things 
 
 * Avoid talking about an idea, and not confirming actions to be taken by specific people.
 * Do not agree upon an action, while omitting a delivery date. (or even a touch-point for review)
+
+#### Critical feedback
+
+* Aim on 1:1, but hold back from starting in text.
+* Frame the context.
+* Contrast this vs. their strong behaviors.
+* There is no easy way, so don't drag it out or meander.
 
 ### Conversation Types
 
