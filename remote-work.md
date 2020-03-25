@@ -25,6 +25,9 @@ While the heading of this section could be 'remote work,' the reality is that it
 * Effort on work/life seaparation
 
 ### Keep docs as centralized as possible
+
+> 🏮 Document your processes and culture. Develop a mentality that "if it's not documented, it's not actionable" to help your team transition from co-located norms to all-remote norms. 
+
 * No / low search
 * Team Folders; Findable
 * Consistent; no confusion
@@ -106,6 +109,7 @@ Some things happen better in live conversations (F2F or video), and some things 
 
 * Don't just talk about ideas.  Talk about specific actions, and who will act.
 * Agree on both an action, and a target delivery date.  Or, groom the card for story-point estimation
+* Break work into 'MVC' pieces - the [Minimum Viable Change](https://about.gitlab.com/handbook/product/#the-minimally-viable-change-mvc) is always easier to validate, debug, rollback, scale, etc.
 
 ### Accountability
 
@@ -147,7 +151,12 @@ There exists a proposed scale of influencing, within civil and professional envi
 *Collaboration* can often be thought of as the most sustainable, trainable, and practicable form of influence for maintaining organizational alignment. 
 
 ----
-### Multitasking
+
+## Teamwork
+
+> 🏮 Create and enforce rules to improve your remote work culture. These can include things like limiting slack conversations to  90 days to ensure projects drive to a close, or requiring everyone to reject meetings without an agenda
+
+#### Multitasking
 
 Multitasking emerges naturally with optimization, and growth of the company.  While it is not ideal, there are a few key mechanisms to understand, talk about, and have clear for all.
 
@@ -176,13 +185,16 @@ If in-person attendance of meeting 'auditors' seems important, try to follow the
 * Sit at the edges of the room.  Avoid taking a central seat, which will implicitly make you a central member of the meeting.  Aim to be a fly on the wall.
 
 #### Have a Role
+
 For those that are not auditing, it will help to understand their role in the meeting.  If anyone is unsure, look to what assignment they will get as a result of the meeting.  If they won't participate in assignment or prioritization, reconsider 'if' and 'what' the value of them attending.
 
 In an ideal world, each person attending a meeting could have their expected role sketched out in the meeting's agenda.  This generally wouldn't happen for several reasons, but it's a [gedanken](https://en.wikipedia.org/wiki/Thought_experiment) to help refine the efficiency of meetings. 
 
+> Create and enforce rules to improve your remote work culture. These can include things like limiting slack conversations to  90 days to ensure projects drive to a close, or requiring everyone to reject meetings without an agenda
+
 ----
 
-### Agenda
+## Agenda
 
 Use the calendar invite strategically, as a 'micro-document,' to set the meeting for success.  
 
