@@ -238,3 +238,9 @@ Smalltalk can be merciless.  Within your corporation, it becomes easier to turn 
 * Input to VPs
 * VP & Director 360s
 * External Research
+
+### Culture
+
+> [Values are behaviors. Behaviors are choices.](https://askalmanac.com/articles/652/guide-how-to-create-company-values)
+
+It's a good idea to formally create [informal communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/).  This can include coffee 1:1s, etc.
