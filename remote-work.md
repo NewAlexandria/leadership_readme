@@ -109,7 +109,7 @@ Some things happen better in live conversations (F2F or video), and [some things
 * Execution
 * Measurement
 
-Async relies on the right tools.  [Use the right one for the context.](/notification-practices.html#when-to-use-a-given-tool)
+Async relies on the right tools.  [Use the right one for the context.](https://newalexandria.github.io/leadership_readme/notification-practices.html#when-to-use-a-given-tool)
 
 ## Meetings
 
