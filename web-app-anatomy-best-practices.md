@@ -10,7 +10,7 @@
 
 * Templates
 * Rendering?
-* display components
+* Display components
 * Charting / visualization
 * Animations/transitions?
 
@@ -47,11 +47,12 @@
 .
 
 * Sessions
-* Flash message 
+* Flash / messaging 
 
 .
 
 * State management
+* State-machine
 * State hooks / lifecycle actions
 
 .
@@ -60,13 +61,13 @@
 * Routing
 * Data model / access / ORM
 * Data schema Versioning (Validation?)
-* Validation
+* Validation (generic)
 * Caching
 
 .
 
 * Streaming
-* event / message bus / workers?
+* Event / message bus / workers?
 * Event logging (app/user)
 * Exceptions handling
 
