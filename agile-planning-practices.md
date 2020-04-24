@@ -28,6 +28,13 @@ Most of these will have already been implemented.  For more, [see the section on
 * Execute with focus and accountability
 * Measure what worked and what didn’t to iteratively improve
 
+----
+⚠️ Only prototype-in-isolation what you are willing to throw away once cross-functional input comes, from Agile Planning. 
+
+*( spikes, and gold spikes )*
+
+----
+
 
 ## Background
 
