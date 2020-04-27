@@ -247,6 +247,18 @@ Then, a log should record that the entitlements were audited
   * list of which audits performed, or
   * name of audit-scheme-version performed
 
+
+# Integrating with Partners and Vendors
+
+### Auth and Roles
+
+* types of systems they use for auth
+* ” ” ” for permissions (e.g. active directory?)
+* hardware keys / 2fa / etc?  (might say more SaaS/integration names)
+* name of roles they have
+* do they use those roles in all cases?  are there edge cases?
+* is he involved in related audits? Does have have ‘ops needs’ that relate to compliance?
+
 # Cyber Kill Chain
 
 The concept of a cyber kill chain involves the identification of E2E attack strategies.  Identification allows teams to devise comprehensive multi-layer strategies for operationalizing cybersecurity.
