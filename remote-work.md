@@ -36,7 +36,7 @@ While the heading of this section could be 'remote work,' the reality is that it
 * Make master lists of all the things
 * No local file saves
 
-Can be structured and formatted to showcase a train of thought
+Can be structured and formatted to showcase a train of thought.   [Remember to write in the tool/app that is best suited for the workflow!](https://newalexandria.github.io/leadership_readme/notification-practices.html)
 
 ## Forming teams
 
@@ -256,4 +256,8 @@ Smalltalk can be merciless.  Within your corporation, it becomes easier to turn 
 
 > [Values are behaviors. Behaviors are choices.](https://askalmanac.com/articles/652/guide-how-to-create-company-values)
 
-It's a good idea to formally create [informal communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/).  This can include coffee 1:1s, etc.
+It's a good idea to formally create [informal communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/).  This can include coffee 1:1s, etc.  
+
+Consider have open video-call times.  These can be happy hours, but can also be unscripted 'drop in' times.  Social contact cannot be forced, but make it fun and people will stop by.  When teams are fully distributed, these times create connections and memories outside of the tasks. 
+
+1:1 times are important, too.  Team members that collaborate with each other (1:1) should expect a small bit of time will go to just being a normal human with each other.  This often appears as 10 (or whatever) of talking before getting down to business.  If you can plan for a little bit of this team each week, no one will be surprised. 
