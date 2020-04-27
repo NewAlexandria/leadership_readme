@@ -62,7 +62,13 @@ An ideal strategy is to generate seed data from sources, using statistical model
 * spectrum-based variance localization
 * and others
 
-These and others form a general class of heuristic analysis that can be used to produce data kernels for seed data.  Besides derived data, it is important to add ‘oracle’ data, such as canary data that was known to cause issues of specific risk.  Product-specified tests are another form of oracle data, and are so common that they are often overlooked as such.
+These and others form a general class of heuristic analysis that can be used to produce data kernels for seed data.  Besides derived data, it is important to add ‘oracle’ data, such as canary data that was known to cause issues of specific risk.  
+
+Product-specified tests are another form of oracle data, and are so common that they are often overlooked as such.  
+
+These can include prototypes of a given model, like "Borrowers without a co-signer that are missing an identity document", or "Contract with 3 parties in jurisdiction X".  Stages of a business workflow can also be overtly represented.  
+
+These prototypes can act as a form of seed. A system can also instantiate them: for *automation checks, exploratory testing, sales demos, local development environments, etc.  Such data can be called mocks, seeds, fixtures, fabrications, profiles, persona, prototpyes, exemplars, canaries, scenario data*, and more.
 
 
 ### I18n
