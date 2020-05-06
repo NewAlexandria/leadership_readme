@@ -8,7 +8,13 @@
 | secondary goal | Master plan development.                                      | Write BDD feature files, structure and develop common language. | Prioritize testing labels for Continuous Delivery. Refine BDD language; improve coherence. | Automation test creation.                                     |
 | schedule dates |                                                               |                                                                |                                                                                           |                                                               |
 
-Our BDD outline, today, is very rough. We have one spreadsheet with many many test cases (and many are effectively duplicate). Then we have some gherkin-style tests written, with ruby-cucumber step definitions behind them. When writing new automation tests, we want to follow the ruby step definitions we have today, so that our in-house engineers have an easier time updating them.
+The BDD outline, usually, starts very rough.  Maybe a wiki or doc with testing conditions that have been though of thus-far. Or maybe one spreadsheet with many many test cases (and many are effectively duplicate). Ideally we have some [gherkin-style tests written](https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/), with cucumber step definitions behind them. 
+
+When writing new automation tests, we want to follow step definitions we may have today, so that our in-house engineers have an easier time updating them.  Then, plan to move existing non-gherkin tests into the pattern of gherkin as it maps onto company and product concepts.
+
+If you're not sure of a good heuristic for breaking up (architecting) tests into layers that are easy to maintain and build, [see the "Kinds of Automated Checks and Tests " section](#kinds-of-automated-checks-and-tests).
+
+## The First formal Test Plan
 
 Our aim with the spreadsheet and BDD files we have today:
 
@@ -34,7 +40,7 @@ developing mobile-specific addenda for each component / section
 1. We will continue the manual evaluation of sections, particularly
 those pages and features related to campaigns, and
 the release of ongoing improvements.
-2. Write and update the tests as gherkin feature files (BDD) develop @labels for appropriate test categories.
+2. Write and update the tests as [gherkin feature files](https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/) (BDD) develop @labels for appropriate test categories.
 develop a common language across feature files.
 
 ### Phase 3
