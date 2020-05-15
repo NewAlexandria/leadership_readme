@@ -29,14 +29,15 @@
 * Dependency injection
 * Plugins/externalizations 
 * Unit tests
-* Debugger
+* Debugger / Profiler
 
 .
 
 * Bootstrapping / configuration
-* Email
 * HTTP server integration
 * Middleware
+* Large Files
+* Email
 
 .
 
@@ -48,6 +49,7 @@
 
 * Sessions
 * Flash / messaging 
+* Caching
 
 .
 
@@ -59,10 +61,13 @@
 
 * SPA routes
 * Routing
+* Breadcrumb / context
+
+.
+
 * Data model / access / ORM
 * Data schema Versioning (Validation?)
 * Validation (generic)
-* Caching
 
 .
 
