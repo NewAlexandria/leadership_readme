@@ -15,7 +15,16 @@ These are a [proposed list](https://technology.riotgames.com/news/taxonomy-tech-
 * Foundational Debt
 * Data Debt
 
-[Some related thoughts from SO, here](https://stackoverflow.blog/2019/09/05/they-didnt-teach-us-this-a-crash-course-for-your-first-job-in-software/?cb=1)
+While these follow a humanistic heuristic, [Fowler's quadtrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html) is worth considering:
+
+|      🎭      	| Reckless                       	| Deliberate                                     	|
+|-------------	|--------------------------------	|------------------------------------------------	|
+| Prudent     	| "We don't have time for design 	| We have to ship now regardless of consequences 	|
+| Inadvertant 	| What's Layering?               	| We now know how we should have done it.        	|
+
+
+
+Some related thoughts [from SO, here](https://stackoverflow.blog/2019/09/05/they-didnt-teach-us-this-a-crash-course-for-your-first-job-in-software/?cb=1), and [an awesome-list](https://github.com/labcodes/awesome-technical-debt).
 
 ### Analyzing a codebase
 
