@@ -9,6 +9,7 @@ As sections are currently all WIP, please reach out with thoughts.
 
 * [Docs](/docs-best-practices.md)
 * [Wiki](wiki-best-practices.md)
+* [Integration patterns](integration-best-practices.md)
 * [Ticketing](ticketing-best-practices.md)
 * [Anatomy of Web Apps](web-app-anatomy-best-practices.md)
 * [Anatomy of CMS Apps](cms-anatomy-best-practices.md)
