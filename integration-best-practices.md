@@ -4,8 +4,9 @@ This list can serve as a guideline to inventory a new integration relationship, 
 
 * API spec, database, or other endpoint
 * data models / data shape
-* sync / push / pull patterns
-* report / validation
+* schema migration / changes
+* sync / push / pull / messaging patterns
+* report / validation 
 * sandboxing
 * RBAC and access, network access
 * GUI or app
