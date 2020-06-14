@@ -1,10 +1,10 @@
 # Career Ladder
 
-Recently there has been more reconsideration of what 'levels' look like for a software engineer.  Where there was formerly more homogeneity across development work, there is recently a huge range of specialization. These many areas of specialty challenge the classical idea of seniority, as a very senior-skilled engineer may lack fluency or capability with a pivotal practice that has been nearly mastered by an otherwise-junior developer. 
+Recently there has been more reconsideration of what 'levels' look like for a software engineer.  Where there was formerly more homogeneity across development work, there is recently a huge range of specialization. These many areas of specialty challenge the classical idea of seniority, as a very senior-skilled engineer may lack fluency or capability with a pivotal practice that has been nearly mastered by an otherwise-junior developer.  Conversely, junior developers may overestimate their their vision under the study of average teachers. 
 
-In an ideal sense, and one that is humanly-impractical, there could be a method of scoring and totaling one's abilities across all of these pivotal practice areas, and  totaling and aggregate that equates to skill level.  That is a trend toward excessive account, or an AD&D-like role-playing schema for one's life.  
+In an ideal sense, and one that is humanly-impractical, there could be a method of scoring and totaling one's abilities across all of these pivotal practice areas, and  totaling and aggregate that equates to skill level.  That is a trend toward excessive accounting, or an AD&D-like role-playing schema for one's life.
 
-Today, at least, that is not our culture.  Yet it is good to remember that Amazon and many other large firms have identified a value with interviewing and reviewing using carefully crafted scoring systems.  'Scout badges' may yet return.
+Today, at least, that is not our culture.  Yet it is good to remember that Amazon and many other large firms have identified a value with interviewing and reviewing using carefully crafted scoring systems.  'Scout badges' may yet return, [if this is a trend](https://www.vegafactor.com).
 
 ## Summary skills
 
@@ -25,6 +25,7 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 * Designing and Implementing the solution to a large software problem
 * Modeling Data for Different Use Cases
 * High Level understanding of the entire technical system/architecture
+* [Architecture of Web Interfaces](https://newalexandria.github.io/leadership_readme/web-app-anatomy-best-practices.html)
 
 ### Code Verification
 
@@ -34,8 +35,9 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 
 ### Problem Solving
 
-* Debugging
+* Debugging, tracing, and reverse engineering
 * Solving a Narrowly Defined Problem
+  * [How to Ask a Good Question](https://stackoverflow.com/help/how-to-ask) by StackOverflow.
 * Cutting Through Complexity
 
 ### Programming
@@ -46,11 +48,12 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 * Object Oriented Programming
 * Understanding Type Systems
 * Understanding Code
-* Web Instrumentation/Performance
+* Observability, Instrumentation, and Performance
 
 ### Tools to Get Stuff Done
 
 * Building and Using Your Work Process
+* The Unix interface
 
 ### Devops
 
@@ -59,8 +62,7 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 
 ### Users
 
-* Building Web Interfaces
-* Considering the User Experience
+* Considering the User Experience (HCI)
 * Designing API for Public Use
 * Behavioral Instrumentation
 
@@ -69,6 +71,7 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 * Pulling in Help and Collecting Advice
 * Improving a Team's Performance by Reflecting on Outcomes
 * Coaching your Team Members
+* [Distributed Teams and remote hygiene](https://newalexandria.github.io/leadership_readme/remote-work.html)
 
 
 ## References
