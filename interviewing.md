@@ -14,13 +14,13 @@ Above all,
   
   > a.k.a. _Bias Toward Action_
   
-  > Don’t implement the bleeding edge unless it provides business value that nothing else can. Don’t over-engineer for a dirt-shoveling task that takes 30 minutes, 5 times per year. 
+  > Don’t implement the bleeding edge unless it provides business value that nothing else can.  Don’t over-engineer for a dirt-shoveling task that takes 30 minutes, 5 times per year.  [Don't wait on others to solve problems for you.](https://newalexandria.github.io/leadership_readme/career-ladder.html#problem-solving).
 
 2. **Our method is science, Our aim is religion**
 
-  > Not that kind of religion. SEO as a religion.  Webperf as a religion.  Code quality as a religion.
+  > Not that kind of religion. SEO as a religion.  Webperf as a religion.  Code quality as a religion.  Shipping as a Religion.
   
-  > This is _Consensify_ made into a science.
+  > This is [_Consensify_](https://consensify.io/) made into a science.
 
 3. **Everything sucks, don’t be pessimistic**
 
@@ -28,11 +28,13 @@ Above all,
 
 4. **Lifelong Learning**
 
-  > This is, and always will be, a collegial environment. Tech will never stop mutating. Keep learning. 
+  > This is, and always will be, a collegial environment. Tech will never stop mutating. Keep learning.  Learn foundations, and then the foundations they're built upon.
 
 1. **Foxhole**
 
   > Choose to work with people who you would trust to have your back. (literally, as the metaphor goes) Remember what it takes to succeed as a team, not just as a person.
+  
+  > Work with doers that 'walk through walls' and bend reality.  
 
 1. **Done Done**
 
@@ -61,7 +63,10 @@ These are not to be considered comprehensive, nor concise.  Assessing behavioral
 
 ## Career Paths
 
-I still sit with the largely-typical career ladder.  Management and executive titles go with people and leadership skills.  Principle, Architect, and similar titles remain in the code — specifically: *measuring* and *teaching*.  SREs are in both main branches. 
+I still sit with the largely-typical career ladder.  
+Management and executive titles go with people and leadership skills.  Principle, Architect, and similar titles remain in the code — specifically: *measuring* and *teaching*.  SREs are in both main branches. 
+
+[How you grow, is another topic](https://newalexandria.github.io/leadership_readme/career-ladder.html).
 
 I still see lots of architect roles being performed like a (TPM) technical project manager.  Doing so skews expectations and the market.  It's not a 'tinker neat things' position.
 

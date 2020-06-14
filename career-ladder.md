@@ -19,6 +19,8 @@ A simplified version of skills assessment usually covers these four areas:
 
 Any organization in a company can reuse these by relating 'tech' quality to any use of tools to speed up workflow and delivery.  All code is essentially tools for automation.
 
+> Above all else, the assessment of career growth should mirror [the assessment during Interviewing](https://newalexandria.github.io/leadership_readme/interviewing.html).
+
 ## Pivotal Practices
 ### Architecture
 
