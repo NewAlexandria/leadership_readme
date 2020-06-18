@@ -38,6 +38,7 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 ### Problem Solving
 
 * Debugging, tracing, and reverse engineering
+  * *"you have logs or shut the fuck up" -SGUG*
 * Solving a Narrowly Defined Problem
   * [How to Ask a Good Question](https://stackoverflow.com/help/how-to-ask) by StackOverflow.
 * Cutting Through Complexity
