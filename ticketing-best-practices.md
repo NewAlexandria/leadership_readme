@@ -52,6 +52,22 @@ This serves a few value purposes
 
 ## Estimation
 
+There is at least one conjecture that [story points are not needed, in place of just counting cards](https://www.youtube.com/watch?v=QVBlnCTu9Ms).  The argument is that if you dont bother with points, then the team will naturally try to optimize ticketing to maximize the number of tickets completed — which implies breaking stuff down.  
+
+
+### Epistemology of Measures
+
+If the tickets were sized in roughly typical sizes, I could imagine being OK with it.  But this is an inductive argument, as it requires consistent practice with breaking-down tickets.
+
+The fact that the linked-video's author shows the use of a storymap, mean that the final tickets have fit into a relative sizing of 1,2,3 or maybe 5.  There woudl be no subtasks that way, either.  Given that consistency, you’ve already solved a huge part of the problem, which agile estimation is designed to solve.
+
+People who are unfamiliar with ‘risk bucketing’ would not have a consistent manner for getting cards into a consistent ‘ticket size’.  Doing that in a way we know is consistent would require people that had a metrical way to know they’d made consistently-sized tickets in the past.
+
+This is an epistemology of measures.  Organically, there's no mans by which to know if you've arrive at a minimum 'unit of risk' — unless you develop a manner to estimate and count points.
+
+> If your team resists agile estimation and story pointing, lead them through the exercise without actually getting to story points (poker, or otherwise).   Try to keep a note card of the ratios between cards they groom — the proportion of 1,2,3,5s for a given timebox. It will give you coefficients for comparing timeboxes and forming a better average of velocity.
+
+
 ### Some Queries
 
 ```
