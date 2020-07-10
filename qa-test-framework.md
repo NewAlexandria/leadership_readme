@@ -4,7 +4,7 @@
 
 |                | phase 1                                                       | phase 2                                                        | phase 3                                                                                   | phase 4                                                       |
 |----------------|---------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| main goal      | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing.  | manual / exploratory testing. | manual / exploratory testing.                             | manual / exploratory testing. | manual / exploratory testing. |
+| main goal      | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing.  |
 | secondary goal | Master plan development.                                      | Write BDD feature files, structure and develop common language. | Prioritize testing labels for Continuous Delivery. Refine BDD language; improve coherence. | Automation test creation.                                     |
 | schedule dates |                                                               |                                                                |                                                                                           |                                                               |
 
