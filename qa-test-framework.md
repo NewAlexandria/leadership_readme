@@ -81,7 +81,7 @@ These names are typical environments in a deployment chain. If we implement a CD
 
 ### Performance Testing
 
-I have ommitted performance and smoketests from this chain because they are not often subsets.  Performance tests are often a specific slice of unit and integration tests, with fixture data that demonstrates the app + infrastructure's ability to handle load.  It is worth mentioning that some companies use a scaled roll-out deployment to handle load testing.  By making the production deploy in-use by more-and-more active users, then one can confirm if it handles load.  'Performance regressions' can halt the further roll-out until a hotfix is applied.
+I have ommitted performance and smoketests from this chain because they are not often subsets.  Performance tests are often a specific slice of unit and integration tests, with [fixture data that demonstrates the app + infrastructure's ability to handle load](https://newalexandria.github.io/leadership_readme/qa-evented-framework.html).  It is worth mentioning that some companies use a scaled roll-out deployment to handle load testing.  By making the production deploy in-use by more-and-more active users, then one can confirm if it handles load.  'Performance regressions' can halt the further roll-out until a hotfix is applied.
 
 ### Smoketest
 
