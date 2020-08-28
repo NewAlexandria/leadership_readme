@@ -11,3 +11,11 @@ This list can serve as a guideline to inventory a new integration relationship, 
 * RBAC and access, network access
 * GUI or app
 
+### Discovery
+
+* identifiers, or function for doing so
+* data schema
+* overlap mappings
+* non-overlap identification and planning
+* business and decision-auditors, vs tech staff
+* 
