@@ -41,9 +41,7 @@ Above all,
   > Work toward the spirit of things, not the letter.  'CYA' is just a lesser form of failure. Remember to be a Good Egg.
 
 
-``` 
-Be Brave, Be Smart, and Give a Shit
-```
+
 
 ### Topics for Behavioral Questions
 
