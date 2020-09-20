@@ -11,6 +11,8 @@ While the heading of this section could be 'remote work,' the reality is that it
   * consultation
   * collaboration
 
+ℹ️ To bootstrap a remote culture, start by [sending everyone home to remote-work for one week with no office time](https://will.koffel.org/post/2020/remote-cultures/).
+
 ## Basic Comms Hygiene
 
 * Set working hours
