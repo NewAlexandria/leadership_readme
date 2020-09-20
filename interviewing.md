@@ -79,6 +79,29 @@ Also, I like to highlight where engineering intersects other departments and tea
 
 These are often overlooked areas, and are viable career paths if a person doesn’t squarely align to Engineering. 
 
+## Code Samples vs Code Tests
+
+The point of the sample is to give something to talk about in at least one of the interviews they’ll have.  This often works better than whiteboarding, as the time it gives to prepare is similar to a normal work environment.  Likewise in allowing for more cogent explanations of the next design directions.
+
+* the sample is about an interactive/convo part of the process, which is also healthy
+* it’s not a “test”, as that doesn't pan out as people gain more experience.
+* "testing" is pedagogical, and we're not in school anymore, nor are most of us curriculum designers.
+* a sample invites many examples that someone may have to share.
+* whiteboarding is often overused in the attempt to measure many things at once.
+
+We want to keep flexible on what someone sends for a sample.  It could be a Project Euler workbook, a good piece of open source code, or a signature piece of code wrote in the past.  Obviously it's not appropriate to share code from a current employer, as it breaks trust for past and futur eemployment.
+
+### Specs for a Code Sample 
+
+If none, a code-sample format (or spec) will ideally ask a minimum of complexity, while covering a range of demonstrable practices.  
+
+Good specs for a code sample will ask for something that is complex to know, but easy to implement.  Often this may involve a design pattern common to a framework, and one similar to that used in the portion of the framework for the role.  e.g. any middleware pattern for fullstack engineer, any frontend framework for FE. 
+
+It should be relevant to the area of industrial practice.  Writing stack, parse, or graph-structure implementations may suit some enterprise environments, but be meaningless for an agency. 
+
+
+
+
 # References
 
 * [#DisruptTechInterviews](https://matt.sh/disrupt-tech-interviews)
