@@ -47,7 +47,7 @@ As sections are currently all WIP, please reach out with thoughts.
 
 ### Teams
 * [Onboarding and Ohana](onboarding.md)
-* [Coach Near and Far](coaching-training.md)
+* [Coach Near and Far](career-coaching-training.md)
 * [The Structure of Data Science functions](data-science.md)
 * [Distributed Teams & Remote Work](remote-work.md)
 

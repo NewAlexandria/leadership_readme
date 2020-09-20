@@ -59,6 +59,10 @@ Above all,
 
 These are not to be considered comprehensive, nor concise.  Assessing behavioral traits is not an exact science, nor is it easy to find agreement on 'norms' among a group.  They can often be modeled to the operational patterns in a business/team.  e.g. Sales teams may have more around the topic of rapport and communications. 
 
+Though this chart can be excessive, most of these pressure exist in people, in the way the react to their job, if not also their life.  While it's important to not over-psychoanalyze anyone, it is important to help them untangle their pressures.  The best professionals will self-manage the differentiation of personal development from work development.
+
+![](assets/career-growth-dimensions.jpg)
+
 ## Career Paths
 
 I still sit with the largely-typical career ladder.  

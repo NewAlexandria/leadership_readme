@@ -40,6 +40,8 @@ Can be structured and formatted to showcase a train of thought.   [Remember to w
 
 ## Forming teams
 
+Remember to consider also [how teams change and scale](career-coaching-training.html).
+
 ### Guilds, Tribes, and Functional areas
 
 1. Usually a toolset, engineering practice, and including engineering-related.
