@@ -47,7 +47,7 @@ As sections are currently all WIP, please reach out with thoughts.
 
 ### Teams
 * [Onboarding and Ohana](onboarding.md)
-* [Coach Near and Far](career-coaching-training.md)
+* [Coaching Near and Far](career-coaching-training.md)
 * [The Structure of Data Science functions](data-science.md)
 * [Distributed Teams & Remote Work](remote-work.md)
 
@@ -55,6 +55,7 @@ As sections are currently all WIP, please reach out with thoughts.
 
 * [Meetings](questions-and-answers/personal-inventory.md)
 * [Common Q&A](xquestions-and-answers/eng-leadership-questions-answers.md)
+* [IDE challenges](ide-anatomy.md)
 
 ## The Roadmap
 

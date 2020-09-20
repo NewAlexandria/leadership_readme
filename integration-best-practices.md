@@ -7,9 +7,12 @@ This list can serve as a guideline to inventory a new integration relationship, 
 * schema migration / changes
 * sync / push / pull / messaging patterns
 * report / validation 
-* sandboxing
+* sandboxing, env, deployment, config
 * RBAC and access, network access
-* GUI or app
+* GUI or app, or framework
+* search
+* queuing
+* cache
 
 ### Discovery
 
