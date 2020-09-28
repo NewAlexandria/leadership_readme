@@ -1,8 +1,6 @@
 # Agile Practices Roadmap
 
-Thoughts on working together, and supporting organizations.  Here is a growing collection of things that have come up regularly.  It is far from complete, even for what comes up regularly — but it's nice to write sometimes. 
-
-As sections are currently all WIP, please reach out with thoughts.
+Thoughts on working together, and supporting organizations.  The growing collection of topics here journals things that come up regularly.  It is far from complete — but it's nice to write sometimes. 
 
 
 ## Practices
@@ -67,6 +65,8 @@ Not everything on here should ever be practiced at the same time.  Each route re
 
 * [Code of Conduct](CODE_OF_CONDUCT.md)
 * [Contributing](CONTRIBUTING.md)
+
+Welcome to reach out with thoughts.
 
 
 Thanks!
