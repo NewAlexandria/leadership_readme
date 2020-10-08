@@ -10,7 +10,7 @@ Whatever we decide, let's choose stages for a process, where even if there is a 
 
 * Motivations
 * Product Value
-* Financial Model / sim
+* Financial Model / simulation
 * Integration Scope
 * Assumptions
 * Stakeholders
