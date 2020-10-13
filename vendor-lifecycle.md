@@ -13,6 +13,10 @@ RFC, RFI, MOU, SOA, etc
 ### Payments
 
 ## Vendor Management
+
+For data-integration vendors/partners, [the following integration-pattern audit](https://newalexandria.github.io/leadership_readme/integration-best-practices.html
+) will serve as an overlay for the material in this section.
+
 ### Relationship Assessments
 CRM notes are not enough.  This is maintaining intelligence on who you work with, and understanding what influences them, or will influence.
 

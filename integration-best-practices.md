@@ -1,4 +1,4 @@
-# Anatomy of web stacks
+# Anatomy of web stack Integrations
 
 This list can serve as a guideline to inventory a new integration relationship, or to guide the internal planning of an API or data-product.
 
