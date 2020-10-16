@@ -5,7 +5,7 @@
 While the heading of this section could be 'remote work,' the reality is that it pertains to all work.  The modern workplace operates remotely for all people.  Most businesses operate with support teams and individuals, whether they are full-time or part-time.  This _distributed team_ environment requires social and technical evolution. 
 
 * teams are inherent distributed. No one should hold the pronoun 'remote', as this makes them a second-class citizen in the company culture. This leads to them be left out of discussions, decisions, and other parts of the business. 
-* The most effective forms of influence 
+* Use the most effective forms of influence for the situation
   * rationale
   * inspirational appeals
   * consultation
@@ -32,11 +32,11 @@ While the heading of this section could be 'remote work,' the reality is that it
 
 > 🏮 Document your processes and culture. Develop a mentality that "if it's not documented, it's not actionable" to help your team transition from co-located norms to all-remote norms. 
 
-* No / low search
-* Team Folders; Findable
-* Consistent; no confusion
-* Make master lists of all the things
-* No local file saves
+* No or low search; consistent with company language/terms.
+* Team Folders; **Findable**.
+* Consistent; no confusion.
+* Make master lists of all the things.
+* No local file saves.
 
 Can be structured and formatted to showcase a train of thought.   [Remember to write in the tool/app that is best suited for the workflow!](https://newalexandria.github.io/leadership_readme/notification-practices.html)
 
