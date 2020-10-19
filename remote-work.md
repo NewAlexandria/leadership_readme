@@ -117,14 +117,12 @@ Async relies on the right tools.  [Use the right one for the context.](https://n
 
 ## Meetings
 
+### Accountability
+
 * Don't just talk about ideas.  Talk about specific actions, and who will act.
 * Agree on both an action, and a target delivery date.  Or, groom the card for story-point estimation
 * Break work into 'MVC' pieces - the [Minimum Viable Change](https://about.gitlab.com/handbook/product/#the-minimally-viable-change-mvc) is always easier to validate, debug, rollback, scale, etc.
 
-### Accountability
-
-* Avoid talking about an idea, and not confirming actions to be taken by specific people.
-* Do not agree upon an action, while omitting a delivery date. (or even a touch-point for review)
 
 #### Critical feedback
 
