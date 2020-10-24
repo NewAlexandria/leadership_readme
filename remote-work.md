@@ -97,25 +97,25 @@ Whether in person, or particularly when working as a distributed organization, w
     Audio is a thin channel.  Maintaining your face on-camera during a call will create trust and bonding. *You will also learn about your facial expressions, which for some people will be an eye-opening lesson.*  There will be some occasions where you cannot have the camera on — in preparation for these times, set your profile's avatar to your face.  This will trigger peoples' memory about who they're speaking with, and still work to reinforce the bonding.  Set the same avatar everywhere, to further reinforce that memory. 
 
 
-## Meeting Efficiency
+## Meetings
+
+### Meeting Efficiency
 
 Some things happen better in live conversations (F2F or video), and [some things happen better asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/).  Know which, and try to pivot meetings that are pulling in the wrong things. 
 
-### live
+#### live
 * Reviews
 * Assignment
 * Prioritization
 * Approvals
 
-### async
+#### async
 * Creating
 * Vetting
 * Execution
 * Measurement
 
 Async relies on the right tools.  [Use the right one for the context.](https://newalexandria.github.io/leadership_readme/notification-practices.html#when-to-use-a-given-tool)
-
-## Meetings
 
 ### Accountability
 
@@ -254,12 +254,25 @@ Smalltalk can be merciless.  Within your corporation, it becomes easier to turn 
 * VP & Director 360s
 * External Research
 
-### Culture
+## Culture
 
 > [Values are behaviors. Behaviors are choices.](https://askalmanac.com/articles/652/guide-how-to-create-company-values)
 
-It's a good idea to formally create [informal communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/).  This can include coffee 1:1s, etc.  
+It's a good idea to formally create [informal communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/).  
 
-Consider have open video-call times.  These can be happy hours, but can also be unscripted 'drop in' times.  Social contact cannot be forced, but make it fun and people will stop by.  When teams are fully distributed, these times create connections and memories outside of the tasks. 
+Coffee 1:1s, open video-call times, happy hours, etc, but can also be unscripted ‘drop in’ times and anyone can state their openness. Social contact cannot be forced, but we can each do our part to make it certain times more enjoyable than others. For fully distributed teams, ensuring these times holds lasting value.
 
-1:1 times are important, too.  Team members that collaborate with each other (1:1) should expect a small bit of time will go to just being a normal human with each other.  This often appears as 10 (or whatever) of talking before getting down to business.  If you can plan for a little bit of this team each week, no one will be surprised. 
+
+
+1:1 times are important, too. Team members that collaborate with each other (1:1) should expect a small bit of time will go to just being a normal human with each other. This often appears as 5 (or whatever) minutes of talking before getting down to business. If you can plan for a little bit of this time each week, no one will be surprised.
+
+### Re-creating the Office
+
+* happy hour gift boxes
+* standing desk options
+* second monitors
+* ergonomics
+* lighting 
+* home-workers vs cafe-workers
+* food-ordering budget
+* listen to people and what they talk about for their space
