@@ -65,7 +65,7 @@ The concise chartering process focuses on Product planning, Engineering, and Rel
 * A dash '-' is minimal involvement, such as gut-checks about scope changes, etc.
 * Release and Rollout is sometime called Launch
 * Analysis can include monitoring existing data, or developing new reports or monitors.  This should be prepared in advance of the release.
-* Live Ops can involve new. response. and messaging templates, whole-team quality, revenue operations ('revops'), and FAQs.    These often get recorded into 'runbooks' that give guidance when situations occur.
+* Live Ops can involve new, response, and messaging templates, whole-team quality, revenue operations ('revops'), and FAQs.  error reporting, and *error codes*, can become the language/symbols by which these teams quickly act, operate, and evolve their practice.  These often get recorded into 'runbooks' that give guidance when situations occur.
 
 [For detailed handling of configuring systems to hold all of these practices](agile-configurations.md), you should maintain docs on how to repeatably do setups.  Eventually, these can be automated.
 
