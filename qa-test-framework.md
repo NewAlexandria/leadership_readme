@@ -123,3 +123,7 @@ Environment-hyphenated tickets can identify which features depend on specific su
 | 7. | End-to-End, role, Security | E2E tool | @security | cucumber |
 
 `*` base set of likely tags, conditional to the specific automated test. Not comprehensive.
+
+----
+
+![](assets/Agile-Underground-devops.png)

@@ -50,7 +50,7 @@ For now, this is quick list of operational practices and skills that relate to d
 
 ### Layers
 
-Sometimes you will see any of these service or pipeline concepts organized into Physical, Logical, Integration, and Application layers.
+Sometimes you will see any of these service or pipeline concepts organized into Physical, Logical, Integration, and Application layers.   [Observability](/data-classification.html#data-observability) becomes implicit in this, as well.
 
 ## Data Services
 
