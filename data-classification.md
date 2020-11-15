@@ -51,7 +51,7 @@ The most ideal solution would handle data from all of the major places that we h
 
 It's likely that this list can morph, based on business practices.
 
-### Classifications Rubric
+### Data Classifications Rubric
 
 When thinking of classification, we must keep in mind the purposes that are served by developing one:
 
@@ -61,6 +61,16 @@ When thinking of classification, we must keep in mind the purposes that are serv
 1. LOB/revenue dependency
 1. cost review
 1. intervals
+
+### Data Observability
+
+Observability can be split into five key pillars:
+
+1. **Freshness**: When was my table last updated? How frequently should my data be updated?
+1. **Distribution**: Is my data within an accepted range?
+1. **Volume**: Is my data complete? Did 2,000 rows suddenly turn into 50?
+1. **Schema**: Who has access to our marketing tables and made changes to them?
+1. **Lineage**: Where did my data break? Which tables or reports were affected?
 
 ## Querying
 
