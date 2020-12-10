@@ -1,5 +1,7 @@
 # Anatomy of web stacks
 
+The reality is that many of these intersect each other in a way that a linear list cannot convey correctly.  As well, the closeness of each group to each other, differs based on the purpose for which the web application serves. 
+
 
 * Asset packing / bundling
 * Above the fold / critical path
@@ -37,13 +39,15 @@
 * HTTP server integration
 * Middleware
 * Large Files
+* Streaming
 * Email
 
 .
 
 * Auth
 * Perms
-* CORS
+* headers
+* security headers
 
 .
 
@@ -59,8 +63,8 @@
 
 .
 
-* SPA routes
 * Routing
+* SPA routes
 * Breadcrumb / context
 
 .
@@ -71,7 +75,6 @@
 
 .
 
-* Streaming
 * Event / message bus / workers?
 * Event logging (app/user)
 * Exceptions handling
