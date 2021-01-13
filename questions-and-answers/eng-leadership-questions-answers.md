@@ -15,15 +15,15 @@ I have extensive experience owning, introducing, guiding, and measuring, agile w
 
 ### What experience do you have as a CTO?
 
-With some qualifiers, as many as 10 years experience.  This comes from being the first and primary engineering leader in several startup operations, and being active in driving the strategic dialogue around the needs, operations, and execution of business health.   So my qualifier regards how large of scale of company I've been shouldered with the CTO role.
+With some qualifiers, as many as 10 years experience.  This comes from being the first and primary engineering leader in several startup operations, and being active in driving the strategic dialogue around the needs, operations, and execution of the health of the business.   So my qualifier regards how large of scale of company I've been shouldered with the CTO role.
 
 ### How many years of experience do you have as a VP of Engineering?
 
-1 formally as that title, though the past 4 years have served that role, or higher. Having started 4 companies and led a capital raise once, I have as many as 8 yr total experience with practices attention related to the VP of Engineering role.
+4 formally as that title, though the past 8 years have served that role, or higher. Having started 4 companies and led a capital raise once, I have as many as 10 yr total experience with practices attention related to the VP of Engineering role.
 
 ### Startup Experience?
 
-I've started 4 companies, and led a raised capital.  I've been an advisor to several startups and stable small-businesses in a paid capacity. I've scaled companies from the 10s to the 60s, and past 150.  I've taken a pivotal role in engineering organizations over 200 headcount. I have ranged from raising capital as a startup founder, running my own biz dev and sales as a consultant, to working at large corporations and leading technology teams.
+I've started 5 companies, and led a raised capital.  I've been an advisor to several startups and stable small-businesses in a paid capacity. I've scaled companies from the 10s to the 60s, and past 150.  I've taken a pivotal role in engineering organizations over 200 headcount. I have ranged from raising capital as a startup founder, running my own biz dev and sales as a consultant, to working at large corporations and leading technology teams.
 
 
 ### How do you scale organizations?

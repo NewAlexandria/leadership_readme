@@ -80,3 +80,5 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 ## References
 
 An [interesting article discussing many roles and their function](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c).
+
+As well a [list of books on communicating at the level of a manager](https://github.com/jesselpalmer/the-engineering-managers-booklist).

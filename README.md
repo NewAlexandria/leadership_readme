@@ -52,7 +52,7 @@ Thoughts on working together, and supporting organizations.  The growing collect
 ### Personal Style
 
 * [Meetings](questions-and-answers/personal-inventory.md)
-* [Common Q&A](xquestions-and-answers/eng-leadership-questions-answers.md)
+* [Common Q&A](questions-and-answers/eng-leadership-questions-answers.md)
 * [IDE challenges](ide-anatomy.md)
 
 ## The Roadmap
