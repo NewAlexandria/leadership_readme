@@ -58,7 +58,7 @@ Refine.
 2. writing more automation tests & checks.
 a. Our existing feature files
 
-## Kinds of Automated Checks and Tests
+## Layers of Automated Checks and Tests
 
 On of the most common anti-patterns occurs when separation-of-concerns does not happen. The following chart presents granular separation levels that help to isolate exactly one kind of thing being tested.
 
@@ -90,6 +90,16 @@ This term still has varied meaning.  In some cases it means the set of services,
 These tests often get placed in 'ping' services, for health and 'heartbeat' confirmations.  Some will run them before any environments' tests, where integration tests run in that scope.
 
 Some use the term 'smoketest' to mean a subset of tests that confirm minimal system availability, but without and specific definition on that.  This document uses the former meaning.
+
+## Kinds of Quality to Test
+
+The following model deals with a topics that range from layers to feature-level test matter.  Many of these can be abstracted into any single implementation layer, such as frontend or middleware.
+
+![](assets/testing-quality-component.png)
+
+📖 *source: ICWE 2008 Workshops, 7th Int. Workshop on Web-Oriented Software Technologies. ISBN 978-80-227-2899-7*
+
+
 
 ### Others
 
