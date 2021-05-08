@@ -121,3 +121,8 @@ Sometimes, fusions and ML extrapolations can be considered part of a company's '
 * Adaptive Segments
 * Cohort and Lookalike
 * Interest Discovery
+
+
+## FOSS Tools
+
+* https://www.datatron.com/
