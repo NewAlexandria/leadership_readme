@@ -6,7 +6,9 @@ In an ideal sense, and one that is humanly-impractical, there could be a method 
 
 Today, at least, that is not our culture.  Yet it is good to remember that Amazon and many other large firms have identified a value with interviewing and reviewing using carefully crafted scoring systems.  'Scout badges' may yet return, [if this is a trend](https://www.vegafactor.com).
 
-## Summary skills
+This page may move to be a reflection of [the structure that @sarah_edo setup here](https://career-ladders.dev/engineering).  My own history with roles and levels will get worked into that.  In order to try for a general format that can guide ladders at any company, here we will unfold some of a rubric.
+
+## Rubric of Skills
 
 Deeply granular assessments are more ideal for differentiating areas of strength, and giving very targeted mentorship and support.  The same can also cause overload.   
 

@@ -103,7 +103,9 @@ Use `monospace` font for indicating a symbolic concept.  Think of a 'symbol' as 
 
 ![](assets/docs/wiki-monospace-text.png)
 
-## Replace many of your emails
+## Replace many of your Slacks
+
+*Or emails, if you are a big email person.* 
 
 * If the conversation is about something that perhaps should go into wiki when you are done talking about it, consider starting it on a wiki page. 
 * Comments and updates to the wiki page will send an email notification. Your workflow is the same, but creates a meaningful business artifact. 
