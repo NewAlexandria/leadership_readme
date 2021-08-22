@@ -52,6 +52,18 @@ For now, this is quick list of operational practices and skills that relate to d
 
 Sometimes you will see any of these service or pipeline concepts organized into Physical, Logical, Integration, and Application layers.   [Observability](/data-classification.html#data-observability) becomes implicit in this, as well.
 
+### Data Science Operation Types
+
+baked within the above list are several core techniques, each which comes with their commensurate set of tools and history of research articles:
+
+* classification, 
+* regression, 
+* time series, 
+* collaborative filtering, 
+* clustering, 
+* feature engineering, 
+* natural language processing
+
 ## Data Services
 
 * Linked Data
