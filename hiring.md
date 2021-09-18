@@ -11,6 +11,10 @@ Some would argue that the core of how to measure hiring efforts include:
 
 These can be thought of as KPIs, or, the metrics behind any OKRs that are framed.
 
+### Out of bounds
+
+If the team runs itself for 6 months while you struggle to source/hire, then you can probably promote instead.
+
 ## Recruiters
 
 Anyone doing recruiting, internal and external, have a sales-oriented role.  It's critical that they understand this, feel armed to do so, and coordinate their piece of the 'pitch' (branding).
