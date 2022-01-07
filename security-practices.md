@@ -100,12 +100,12 @@ task-specific:
 
 * dashboard of work in PM tool (Jira)
 * Entitlements and Services sheet.
-* Even's master list of infosec processes
+* Overarching list of infosec processes
   * Cadence: ongoing logging; rate of human checking; ad-hoc
   * Schedule show last times checks were made
   * 3rd Party audited (Y/N)
 * Our AWS-specific audit
-* Even Financial Security Posture
+* Overarching Security Posture
 
 ##### Scheduling 
 

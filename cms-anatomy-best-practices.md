@@ -45,7 +45,7 @@ The lists below will present an aggregate of content functions across all the ad
 * Query Performance - TODO: specify metrics or alternative
 * API for integrations
   * Metadata labeling services
-  * Reference to Master-records / source-of-truth
+  * Reference to source-of-truth records
 
 ## 3rd Party Service Requirements
 * S3

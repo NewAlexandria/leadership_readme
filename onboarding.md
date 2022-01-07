@@ -32,7 +32,7 @@ if so, it could help toward defining ideal group sizes relative to necessary spe
 
 ### Corporate
 
-* Our company-wide wiki home is the best switchboard to most things, including each of the depts. wiki pages.  The wiki homes are the place to get 'official' information, such as common brand materials from Marketing, specs and execution plans in the Engineering team's wiki home, sending requests to #eng-support, the new idea pitch board, or the master planning board for active projects..  If you have questions about getting onboard, this page is a great place to post them.
+* Our company-wide wiki home is the best switchboard to most things, including each of the depts. wiki pages.  The wiki homes are the place to get 'official' information, such as common brand materials from Marketing, specs and execution plans in the Engineering team's wiki home, sending requests to #eng-support, the new idea pitch board, or the Overarching planning board for active projects..  If you have questions about getting onboard, this page is a great place to post them.
 
 * Glossary
 

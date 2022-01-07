@@ -2,7 +2,7 @@
 
 ## When to Create a Domain Account
 
-Often, setting up SaaS accounts for team access, or a master admin credential, requires a related email. We avoid using personal email for these situations.
+Often, setting up SaaS accounts for team access, or a root admin credential, requires a related email. We avoid using personal email for these situations.
 
 We should also avoid asking for a new email account to be setup for these purposes.
 

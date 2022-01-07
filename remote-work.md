@@ -35,7 +35,7 @@ While the heading of this section could be 'remote work,' the reality is that it
 * No or low search; consistent with company language/terms.
 * Team Folders; **Findable**.
 * Consistent; no confusion.
-* Make master lists of all the things.
+* Make roll-up or summary lists of all the things.
 * No local file saves.
 
 Can be structured and formatted to showcase a train of thought.   [Remember to write in the tool/app that is best suited for the workflow!](https://newalexandria.github.io/leadership_readme/notification-practices.html)
