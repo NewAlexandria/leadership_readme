@@ -5,7 +5,7 @@
 |                | phase 1                                                       | phase 2                                                        | phase 3                                                                                   | phase 4                                                       |
 |----------------|---------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | main goal      | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing. | manual / exploratory testing.  |
-| secondary goal | Master plan development.                                      | Write BDD feature files, structure and develop common language. | Prioritize testing labels for Continuous Delivery. Refine BDD language; improve coherence. | Automation test creation.                                     |
+| secondary goal | Overarching plan development.                                      | Write BDD feature files, structure and develop common language. | Prioritize testing labels for Continuous Delivery. Refine BDD language; improve coherence. | Automation test creation.                                     |
 | schedule dates |                                                               |                                                                |                                                                                           |                                                               |
 
 The BDD outline, usually, starts very rough.  Maybe a wiki or doc with testing conditions that have been though of thus-far. Or maybe one spreadsheet with many many test cases (and many are effectively duplicate). Ideally we have some [gherkin-style tests written](https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/), with cucumber step definitions behind them. 
@@ -62,7 +62,7 @@ a. Our existing feature files
 
 On of the most common anti-patterns occurs when separation-of-concerns does not happen. The following chart presents granular separation levels that help to isolate exactly one kind of thing being tested.
 
-This skeleton of automated test-types matrixes with the product feature 'master plan' and its phased roll-out from manual to automation.  Each element of this matrix can receive prioritization, which guides the planification of the overall roadmap.  
+This skeleton of automated test-types matrixes with the product feature 'Overarching plan' and its phased roll-out from manual to automation.  Each element of this matrix can receive prioritization, which guides the planification of the overall roadmap.  
 
 ![Levels of tests, from backend units, to platform E2E](assets/QA/Agile-test-scopes.jpg)
 
@@ -93,7 +93,9 @@ Some use the term 'smoketest' to mean a subset of tests that confirm minimal sys
 
 ## Kinds of Quality to Test
 
-The following model deals with a topics that range from layers to feature-level test matter.  Many of these can be abstracted into any single implementation layer, such as frontend or middleware.
+The following testing model deals with topics that range from layers, to feature-level test matter.  Many of these can be abstracted into any single implementation layer, such as frontend or middleware.
+
+This serves more as a gedanken to guide thinking about complex or uncertain areas of testing / quality, and how to draw lines regarding where that area sits within the overall test plan.
 
 ![](assets/testing-quality-component.png)
 
