@@ -1,3 +1,5 @@
+> remember to see 'related frameworks', at the end
+
 https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management
 
 There is an approach called "working backwards" that is widely used at Amazon. We try to work backwards from the customer, rather than starting with an idea for a product and trying to bolt customers onto it. While working backwards can be applied to any specific product decision, using this approach is especially important when developing new products or features.
@@ -27,6 +29,7 @@ Once the project moves into development, the press release can be used as a touc
 ## Related Frameworks
 
 
+- [Shape Up](https://basecamp.com/shapeup)
 - Problem statement
 - Screenshots / videos / mockups
 - Experiment idea
