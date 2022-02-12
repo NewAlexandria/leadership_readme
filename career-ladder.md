@@ -24,6 +24,9 @@ Any organization in a company can reuse these by relating 'tech' quality to any 
 > Above all else, the assessment of career growth should mirror [the assessment during Interviewing](https://newalexandria.github.io/leadership_readme/interviewing.html), including personal/psychological makeup.
 
 ## Pivotal Practices
+
+*([compare vs a role like "Principle/Staff Engineer"](https://archive.md/nvvAQ))*
+
 ### Architecture
 
 * Designing and Implementing the solution to a large software problem
