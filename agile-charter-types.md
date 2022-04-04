@@ -43,14 +43,17 @@ We have seen an emerging need for a Product Charter in the wiki.  This planning 
 
 ### 📒 Requirements
 
-1. Motivation
-1. Issues
-1. Goals
+Top Box:
+
+1. Initiative
 1. Owner
 1. Business Sponsor
 1. Epic link
 1. Retrospective
+1. Folders / Docs
+2. Monitoring
 
+Outline:
 
 * Motivation
   * Issues
@@ -63,12 +66,19 @@ We have seen an emerging need for a Product Charter in the wiki.  This planning 
   * 2: Requirement
 * Requirement Header 3
   * 3: Requirement
+* User Guidance
+  * User-flow diagrams
+  * Designs, Mocks
+  * BDD Stories
 * Emails
-* Monitoring & Dashboard
 * Marketing
 * Rollout/Rollback Plan
+* Monitoring & Dashboard
 * Out of Scope
 * Open Questions
+* Dashboards
+  * all tickets
+  * unlabeled
 
 ![Sample of Storymap construction](assets/Agile-story-mapping.pdf)
 
