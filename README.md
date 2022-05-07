@@ -14,9 +14,6 @@ Thoughts on working together, and supporting organizations.  The growing collect
 * [Anatomy of Email Systems](email-engagement-anatomy.md)
 * [Data, Services and Pipelines](data-science.md)
 
-## InfoSec
-* [Data Security](data-security.md)
-
 ### Agile Groups
 * [QA and Testing](qa-test-framework.md)
 * [QA for Event & Distributed Systems](qa-evented-framework.md)
@@ -26,6 +23,25 @@ Thoughts on working together, and supporting organizations.  The growing collect
 * [Tooling Configs for Agile Systems](agile-configuration.md)
 * [Responding to Incidents](incident-response.md)
 
+### Data
+* [Anatomy of BI Systems](bi-anatomy-best-practices.md)
+* [Naming Conventions for Data Warehouses](data-warehouse-naming-conventions.md)
+* [Data Security Guidance](data-security.md)
+* [Data Classification and Management](data-classification.md)
+
+### Business Systems
+* [Vendor Lifecycle steps](vendor-lifecycle.md)
+* [Notes on Managing Partner Relations](partners-and-accounts.md)
+* [Meditations on Business Continuity](business-continuity.md)
+* [BC / DR Roadmap](business-continuity-disaster-recovery-roadmap.md)
+
+
+### Teams
+* [Onboarding and Ohana](onboarding.md)
+* [Coaching Near and Far](career-coaching-training.md)
+* [The Structure of Data Science functions](data-science.md)
+* [Distributed Teams & Remote Work](remote-work.md)
+
 
 ### Hiring
 * [Interviewing](interviewing.md)
@@ -34,20 +50,7 @@ Thoughts on working together, and supporting organizations.  The growing collect
 * [Hiring practices](hiring.md)
 * [Career Growth](career-ladder.md)
 
-### Business Systems
-* [Anatomy of BI Systems](bi-anatomy-best-practices.md)
-* [Vendor Lifecycle steps](vendor-lifecycle.md)
-* [Notes on Managing Partner Relations](partners-and-accounts.md)
-* [Data Security Guidance](data-security.md)
-* [Data Classification and Management](data-classification.md)
-* [Meditations on Business Continuity](business-continuity.md)
-* [BC / DR Roadmap](business-continuity-disaster-recovery-roadmap.md)
 
-### Teams
-* [Onboarding and Ohana](onboarding.md)
-* [Coaching Near and Far](career-coaching-training.md)
-* [The Structure of Data Science functions](data-science.md)
-* [Distributed Teams & Remote Work](remote-work.md)
 
 ### Personal Style
 

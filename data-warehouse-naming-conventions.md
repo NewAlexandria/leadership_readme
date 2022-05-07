@@ -31,12 +31,12 @@ do prefix with just a meaningful part of it - this helps tremendously when writi
 |           | Azure Table storage          | ATBL\_ | LS\_ATBL\_       | DS\_ATBL\_ | LS\_ATBL\_Example |
 |           | Azure DocumentDB             | ADOC\_ | LS\_ADOC\_       | DS\_ADOC\_ | LS\_ADOC\_Example |
 |           | Azure Search Index           | ASER\_ | LS\_ASER\_       | DS\_ASER\_ | LS\_ASER\_Example |
-| Databases | SQL Server*                  | MSQL\_ | LS\_SQL\_        | DS\_SQL\_  | LS\_SQL\_Example  |
+| Databases | SQL Server*                  | MSQL\_ | LS\_MSQL\_       | DS\_MSQL\_  | LS\_SQL\_Example  |
 |           | Oracle*                      | ORAC\_ | LS\_ORAC\_       | DS\_ORAC\_ | LS\_ORAC\_Example |
 |           | MySQL*                       | MYSQ\_ | LS\_MYSQ\_       | DS\_MYSQ\_ | LS\_MYSQ\_Example |
 |           | DB2*                         | DB2\_  | LS\_DB2\_        | DS\_DB2\_  | LS\_DB2\_Example  |
 |           | Teradata*                    | TDAT\_ | LS\_TDAT\_       | DS\_TDAT\_ | LS\_TDAT\_Example |
-|           | PostgreSQL*                  | POST\_ | LS\_POST\_       | DS\_POST\_ | LS\_POST\_Example |
+|           | PostgreSQL*                  | PG\_ | LS\_PG\_       | DS\_PG\_ | LS\_PG\_Example |
 |           | Sybase*                      | SYBA\_ | LS\_SYBA\_       | DS\_SYBA\_ | LS\_SYBA\_Example |
 |           | Cassandra*                   | CASS\_ | LS\_CASS\_       | DS\_CASS\_ | LS\_CASS\_Example |
 |           | MongoDB*                     | MONG\_ | LS\_MONG\_       | DS\_MONG\_ | LS\_MONG\_Example |
