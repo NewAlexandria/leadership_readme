@@ -22,29 +22,44 @@ do prefix with just a meaningful part of it - this helps tremendously when writi
 
 [via](https://adatis.co.uk/azure-data-factory-suggested-naming-conventions-and-best-practices/)
 
-| Type      | Linked Service               | Name  | Linked Service | Dataset  | Full            |
-|-----------|------------------------------|-------|----------------|----------|-----------------|
-| Azure     | Azure Blob storage           | ABLB\_ | LS\_ABLB\_       | DS\_ABLB\_ | LS\_ABLB\_Example |
-|           | Azure Data Lake Store        | ADLS\_ | LS\_ADLS\_       | DS\_ADLS\_ | LS\_ADLS\_Example |
-|           | Azure SQL Database           | ASQL\_ | LS\_ASQL\_       | DS\_ASQL\_ | LS\_ASQL\_Example |
-|           | Azure SQL Data Warehouse     | ASDW\_ | LS\_ASDW\_       | DS\_ASDW\_ | LS\_ASDW\_Example |
-|           | Azure Table storage          | ATBL\_ | LS\_ATBL\_       | DS\_ATBL\_ | LS\_ATBL\_Example |
-|           | Azure DocumentDB             | ADOC\_ | LS\_ADOC\_       | DS\_ADOC\_ | LS\_ADOC\_Example |
-|           | Azure Search Index           | ASER\_ | LS\_ASER\_       | DS\_ASER\_ | LS\_ASER\_Example |
-| Databases | SQL Server*                  | MSQL\_ | LS\_MSQL\_       | DS\_MSQL\_  | LS\_SQL\_Example  |
+| Type      | Linked Service               | Name   | Linked Service | Dataset  | Full            |
+|-----------|------------------------------|--------|----------------|----------|-----------------|
+| Databases | SQL Server*                  | MSQL\_ | LS\_MSQL\_     | DS\_MSQL\_  | LS\_SQL\_Example  |
 |           | Oracle*                      | ORAC\_ | LS\_ORAC\_       | DS\_ORAC\_ | LS\_ORAC\_Example |
 |           | MySQL*                       | MYSQ\_ | LS\_MYSQ\_       | DS\_MYSQ\_ | LS\_MYSQ\_Example |
 |           | DB2*                         | DB2\_  | LS\_DB2\_        | DS\_DB2\_  | LS\_DB2\_Example  |
 |           | Teradata*                    | TDAT\_ | LS\_TDAT\_       | DS\_TDAT\_ | LS\_TDAT\_Example |
-|           | PostgreSQL*                  | PG\_ | LS\_PG\_       | DS\_PG\_ | LS\_PG\_Example |
+|           | PostgreSQL*                  | PG\_   | LS\_PG\_       | DS\_PG\_ | LS\_PG\_Example |
 |           | Sybase*                      | SYBA\_ | LS\_SYBA\_       | DS\_SYBA\_ | LS\_SYBA\_Example |
 |           | Cassandra*                   | CASS\_ | LS\_CASS\_       | DS\_CASS\_ | LS\_CASS\_Example |
 |           | MongoDB*                     | MONG\_ | LS\_MONG\_       | DS\_MONG\_ | LS\_MONG\_Example |
-|           | Amazon Redshift              | ARED\_ | LS\_ARED\_       | DS\_ARED\_ | LS\_ARED\_Example |
+|           | Amazon Redshift              | AMRED\_ | LS\_AMRED\_     | DS\_AMRED\_ | LS\_AMRED\_Example |
 | File      | File System*                 | FILE\_ | LS\_FILE\_       | DS\_FILE\_ | LS\_FILE\_Example |
 |           | HDFS*                        | HDFS\_ | LS\_HDFS\_       | DS\_HDFS\_ | LS\_HDFS\_Example |
 |           | Amazon S3                    | AMS3\_ | LS\_AMS3\_       | DS\_AMS3\_ | LS\_AMS3\_Example |
 |           | FTP                          | FTP\_  | LS\_FTP\_        | DS\_FTP\_  | LS\_FTP\_Example  |
+| Services  | Finale                       | FNLE\_ | LS\_FNLE\_       | DS\_FNLE\_  | LS\_FNLE_Example  |
+|           | Airtable                     | AIRT\_ | LS\_AIRT\_       | DS\_AIRT\_ | LS\_AIRT\_Example |
+|           | Klaviyo                      | AIRT\_ | LS\_AIRT\_       | DS\_AIRT\_ | LS\_AIRT\_Example |
+|           | Northbeam                    | NBM\_  | LS\_NBM\_       | DS\_NBM\_ | LS\_NBM\_Example |
+|           | ShipStation                  | AIRT\_ | LS\_AIRT\_       | DS\_AIRT\_ | LS\_AIRT\_Example |
+|           | SOS Inventory                | SOS\_  | LS\_SOS\_        | DS\_SOS\_ | LS\_SOS\_Example |
+|           | EasyPost                     | AIRT\_ | LS\_AIRT\_       | DS\_AIRT\_ | LS\_AIRT\_Example |
+|           | ZenDesk                      | ZEN\_  | LS\_AIRT\_       | DS\_AIRT\_ | LS\_AIRT\_Example |
+|           | Andlor                       | ANDL\_ | LS\_ANDL\_      | DS\_ANDL\_ | LS\_ANDL\_Example |
+|           | Storage Made Easy            | SME\_  | LS\_SME\_       | DS\_SME\_  | LS\_SME_Example  |
+| Google    | Google Big Table             | GBT\_  | LS\_GBT\_       | DS\_GBT\_ | LS\_GBT\_Example |
+|           | Google Tag Manager           | GTM\_  | LS\_GTM\_       | DS\_GTM\_ | LS\_GTM\_Example |
+|           | Google Analytics             | GA\_   | LS\_GA\_       | DS\_GA\_ | LS\_GA\_Example |
+|           | Google Sheets                | GSHT\_ | LS\_GSHT\_       | DS\_GSHT\_ | LS\_GSHT\_Example |
+|           | Google Docs                  | GDOC\_ | LS\_GDOC\_       | DS\_ GDOC\_ | LS\_ GDOC\_Example |
+| Azure     | Azure Blob storage           | AZBLB\_ | LS\_AZBLB\_       | DS\_AZBLB\_ | LS\_AZBLB\_Example |
+|           | Azure Data Lake Store        | AZDLS\_ | LS\_AZDLS\_       | DS\_AZDLS\_ | LS\_AZDLS\_Example |
+|           | Azure SQL Database           | AZSQL\_ | LS\_AZSQL\_       | DS\_AZSQL\_ | LS\_AZSQL\_Example |
+|           | Azure SQL Data Warehouse     | AZSDW\_ | LS\_AZSDW\_       | DS\_AZSDW\_ | LS\_AZSDW\_Example |
+|           | Azure Table storage          | AZTBL\_ | LS\_AZTBL\_       | DS\_AZTBL\_ | LS\_AZTBL\_Example |
+|           | Azure DocumentDB             | AZDOC\_ | LS\_AZDOC\_       | DS\_AZDOC\_ | LS\_AZDOC\_Example |
+|           | Azure Search Index           | AZSER\_ | LS\_AZSER\_       | DS\_AZSER\_ | LS\_AZSER\_Example |
 | Others    | Salesforce                   | SAFC\_ | LS\_SAFC\_       | DS\_SAFC\_ | LS\_SAFC\_Example |
 |           | Generic ODBC*                | ODBC\_ | LS\_ODBC\_       | DS\_ODBC\_ | LS\_ODBC\_Example |
 |           | Generic OData                | ODAT\_ | LS\_ODAT\_       | DS\_ODAT\_ | LS\_ODAT\_Example |
