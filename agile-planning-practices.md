@@ -97,6 +97,7 @@ I find that much of the literature on Agile practices involves [the use of euphe
 
 * [Product Organizations](assets/Scrum-Patterns-Organization.pdf)
 * [Value Streams](assets/Scrum-Patterns-Value-Stream.pdf)
+* see [more strategies in this awesome-format repo](https://github.com/aleixmorgadas/awesome-engineering-strategy)
 
 ![](assets/roadmap/Scrum-Patterns-Organization.jpg)
 
