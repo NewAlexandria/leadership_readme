@@ -271,3 +271,6 @@ The concept of a cyber kill chain involves the identification of E2E attack stra
 6. Command & Control: sending and receiving of instructions, information
 7. Objectives: performing the intended action, data harvest, etc.
 
+# References
+
+* [awesome-list of IAM tools](https://github.com/kdeldycke/awesome-iam)
