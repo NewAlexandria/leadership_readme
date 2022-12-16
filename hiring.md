@@ -35,3 +35,8 @@ Anyone doing recruiting, internal and external, have a sales-oriented role.  It'
 * code challenge equivalent
 * onsite interview dimensions 
 * rubric iteration
+
+
+## References
+
+* [Awesome Engineering Management list](https://github.com/kdeldycke/awesome-engineering-team-management)
