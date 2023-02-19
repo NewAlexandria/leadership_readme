@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8a51103329f11d79","x":-453,"y":-447,"width":400,"height":400,"type":"file","file":"agile-planning-practices.md"},
+		{"id":"637e55186f12020f","x":63,"y":-247,"width":322,"height":400,"color":"1","type":"file","file":"assets/Agile-story-mapping.jpg"},
+		{"id":"48121365b8c47ed6","x":-369,"y":152,"width":250,"height":60,"type":"text","text":"story map categories"}
+	],
+	"edges":[
+		{"id":"97e35200973fe917","fromNode":"8a51103329f11d79","fromSide":"bottom","toNode":"637e55186f12020f","toSide":"left","label":"test"},
+		{"id":"4556015cef65edeb","fromNode":"637e55186f12020f","fromSide":"left","toNode":"48121365b8c47ed6","toSide":"right"}
+	]
+}
