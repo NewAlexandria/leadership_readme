@@ -54,11 +54,11 @@ As well, the Charter process in Engineering generally occurs after some Business
 
 We will consider a few models for how cross-team interaction can look.  These will expand and build upon one another.  
 
-This doc does not cindlue specific guidance on ratios of types-of-staff within the team, [but for related reading see this article.](https://lethain.com/eng-strategies/?utm_source=techleaddigest&utm_medium&utm_campaign=1528)
+This doc does not include specific guidance on ratios of types-of-staff within the team, [but for related reading see this article.](https://lethain.com/eng-strategies/?utm_source=techleaddigest&utm_medium&utm_campaign=1528) This may fall under the topic of 'org planning', 'scaling teams', and other cost-to-value ratios.  Engineering / Technology leaders will not set these purely on their own, and instead work with financial, ops, or other P&L staff (even if the engineering leader / role fully owns their P&L).
 
 ## Product and Engineering
 
-The concise chartering process focuses on Product planning, Engineering, and Release:
+The concise chartering process focuses on Product p. anning, Engineering, and Release:
 
 ![](assets/agile-stages-product-dev.png)
 

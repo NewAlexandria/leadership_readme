@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "questions-and-answers/principle - judgement call.md",
+                "file": "agile-planning-practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "questions-and-answers/principle - judgement call.md",
+                "file": "agile-planning-practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "questions-and-answers/principle - judgement call.md"
+                "file": "agile-planning-practices.md"
               }
             }
           }
@@ -169,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a23ae4464e8be459",
+  "active": "e6f30c73ce67f266",
   "lastOpenFiles": [
+    "questions-and-answers/principle - judgement call.md",
     "business-continuity-disaster-recovery-roadmap.md",
     "cybernetic-intervention-layers.md",
     "conferences.md",
@@ -179,7 +179,6 @@
     "email-engagement-anatomy.md",
     "data-classification.md",
     "data-science.md",
-    "README.md",
-    "ide-anatomy.md"
+    "README.md"
   ]
 }
