@@ -5,11 +5,9 @@ In the form of a pro/con list, [as derived from @munificent](https://gist.github
 
 ## Platform
 
-* [ ] cloud-hosted 
+* [ ] cloud-hosted / web-based / browser-based 
 * [ ] locally installable 
-* [ ] web-based 
-* [ ] browser-based 
-* [ ] language-agnostic
+* [ ] language-server driven
 * [ ] language-specific IDE. 
 
 Your IDE will not succeed. Here is why it will not succeed.
@@ -28,7 +26,7 @@ Your IDE will not succeed. Here is why it will not succeed.
 * [ ] Scaling up to large software projects will be easy
 * [ ] Convincing programmers to adopt a new IDE will be easy
 * [ ] Convincing programmers to adopt a language-specific IDE will be easy
-* [ ] Programmers love learning new keybindings
+* [ ] Programmers tolerate learning new keybindings
 * [ ] There is only one operating system and it is
     * [ ] OS X  
     * [ ] Windows  

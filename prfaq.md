@@ -11,14 +11,14 @@ If the benefits listed don't sound very interesting or exciting to customers, th
 Here's an example outline for the press release:
 
 1. **Heading** - Name the product in a way the reader (i.e. your target customers) will understand.
-1. **Sub-Heading** - Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-1. **Summary** - Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-1. **Problem** - Describe the problem your product solves.
-1. **Solution** - Describe how your product elegantly solves the problem.
-1. **Quote from You** - A quote from a spokesperson in your company.
-1. **How to Get Started** - Describe how easy it is to get started.
-1. **Customer Quote** - Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-1. **Closing and Call to Action** - Wrap it up and give pointers where the reader should go next.
+2. **Sub-Heading** - Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+3. **Summary** - Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+4. **Problem** - Describe the problem your product solves.
+5. **Solution** - Describe how your product elegantly solves the problem.
+6. **Quote from You** - A quote from a spokesperson in your company.
+7. **How to Get Started** - Describe how easy it is to get started.
+8. **Customer Quote** - Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+9. **Closing and Call to Action** - Wrap it up and give pointers where the reader should go next.
 
 If the press release is more than a page and a half, it is probably too long. Keep it simple. 3-4 sentences for most paragraphs. Cut out the fat. Don't make it into a spec. You can accompany the press release with a FAQ that answers all of the other business or execution questions so the press release can stay focused on what the customer gets. My rule of thumb is that if the press release is hard to write, then the product is probably going to suck. Keep working at it until the outline for each paragraph flows. 
 

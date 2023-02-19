@@ -123,3 +123,7 @@ I think any of my experience since 2015 was principally data-driven.  MyBankTrac
 ### Data as product/service experience?
 
 In the cases above where we segmented traffic, these models would for data-products that we sold to out partners.  At MyBankTracker we also had a sizable web crawling/scraping programme, which was repackaged as a data / API subscription service.  For MyBankTracker, Investopedia/Dotdash, Even Financial, our traffic was organized by the personalization engine, into API calls to our demand-side partners (financial institutions).  This was an API data product that was the backbone of revenue.  At Medidata, one of the 5 product tiers was a data products that collected longitudinal and operational data from across the clinical trial, and this data was the direct product for use in the clients' analytics and planning programmes. At MyBankTracker we were developing a data product for revenue estimation of financial media websites.  
+
+## Demo Exercises
+
+* https://thume.ca/2023/01/02/one-machine-twitter/

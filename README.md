@@ -21,6 +21,7 @@ Thoughts on working together, and supporting organizations.  The growing collect
 * [An Agile-practice framework (SAFE-like)](agile-planning-practices.md)
 * [Types of Agile Charters](agile-charter-types.md)
 * [Tooling Configs for Agile Systems](agile-configuration.md)
+* [Anti-patterns](agile-anti-patterns.md)
 * [Responding to Incidents](incident-response.md)
 
 ### Data
