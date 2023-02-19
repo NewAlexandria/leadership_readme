@@ -18,6 +18,11 @@ I like to aim for a lightweight workflow for Overarching planning documents (Cha
 * define the actual process of writing a Charter
 * define the contents of a Charter
 
+* broad effort level
+* story pointing
+* customer value tags
+* revenue value tags
+* operation value tags
 
 ### Principles
 
@@ -46,6 +51,10 @@ As well, the Charter process in Engineering generally occurs after some Business
 
 
 # Stages of Planning, Delivery, and Operationalization
+
+We will consider a few models for how cross-team interaction can look.  These will expand and build upon one another.  
+
+This doc does not cindlue specific guidance on ratios of types-of-staff within the team, [but for related reading see this article.](https://lethain.com/eng-strategies/?utm_source=techleaddigest&utm_medium&utm_campaign=1528)
 
 ## Product and Engineering
 
