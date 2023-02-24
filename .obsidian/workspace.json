@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agile-planning-practices.md",
+                "file": "hiring.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8adb9b26a9f0422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crm-anatomy-best-practices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agile-planning-practices.md",
+                "file": "crm-anatomy-best-practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "agile-planning-practices.md",
+                "file": "crm-anatomy-best-practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agile-planning-practices.md"
+                "file": "crm-anatomy-best-practices.md"
               }
             }
           }
@@ -168,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6f30c73ce67f266",
+  "active": "d8adb9b26a9f0422",
   "lastOpenFiles": [
+    "README.md",
+    "crm-anatomy-best-practices.md",
+    "cybernetic-intervention-layers.md",
+    "org-change.md",
+    "hiring.md",
+    "onboarding/NHO-corp.md",
+    "agile-planning-practices.md",
     "questions-and-answers/principle - judgement call.md",
     "business-continuity-disaster-recovery-roadmap.md",
-    "cybernetic-intervention-layers.md",
-    "conferences.md",
-    "bi-anatomy-best-practices.md",
-    "functional-programming-anatomy.md",
-    "email-engagement-anatomy.md",
-    "data-classification.md",
-    "data-science.md",
-    "README.md"
+    "conferences.md"
   ]
 }

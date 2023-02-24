@@ -11,6 +11,7 @@ Thoughts on working together, and supporting organizations.  The growing collect
 * [Ticketing](ticketing-best-practices.md)
 * [Anatomy of Web Apps](web-app-anatomy-best-practices.md)
 * [Anatomy of CMS Apps](cms-anatomy-best-practices.md)
+* [Anatomy of CRM and CX](crm-anatomy-best-practices.md)
 * [Anatomy of Email Systems](email-engagement-anatomy.md)
 * [Data, Services and Pipelines](data-science.md)
 
