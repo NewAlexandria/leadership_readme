@@ -36,6 +36,15 @@ Anyone doing recruiting, internal and external, have a sales-oriented role.  It'
 * onsite interview dimensions 
 * rubric iteration
 
+## Inclusivity
+
+Inclusivity just a part of DEI, and it's important to engineer for it. 
+
+1.  Use regular, searchable titles that stick close to industry norms - do that job seekers can find and recognize them.
+2.  Be absolutely clear about the role, the responsibilities, and the requirements.  Give an outline of the process, ask about how they can best engage with each step, and actively listen for where adaptation can help all parties. 
+3.  Authentically represent your company and culture.  Diversity statements are just a promise, but commitment comes from realistic self-awareness that allows for active engagment.  Be clear with benefits/perks, too.
+4.  Use clear, non-biased language that welcomes job seekers of all backgrounds.
+5.  Publish your job ads broadly, job seekers may not have the time or awarness to be looking everywhere.
 
 ## References
 
