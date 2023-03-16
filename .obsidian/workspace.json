@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "00978fead994ccad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agile-planning-practices.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a23ae4464e8be459",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "agile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crm-anatomy-best-practices.md",
+                "file": "agile-planning-practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crm-anatomy-best-practices.md",
+                "file": "agile-planning-practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,16 +175,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crm-anatomy-best-practices.md"
+                "file": "agile-planning-practices.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,17 +196,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8adb9b26a9f0422",
+  "active": "00978fead994ccad",
   "lastOpenFiles": [
-    "README.md",
-    "crm-anatomy-best-practices.md",
-    "cybernetic-intervention-layers.md",
-    "org-change.md",
+    "agile-planning-practices~.md",
+    "agile-configuration.md",
+    "questions-and-answers/eng-leadership-questions-answers.md",
+    "assets/agile/SAFe implementation Roadmap_6.0.png",
+    "chilling-effects.md",
     "hiring.md",
+    "career-coaching-training.md",
+    "questions-and-answers/personal-inventory.md",
+    "_site/coaching-training.md",
     "onboarding/NHO-corp.md",
-    "agile-planning-practices.md",
-    "questions-and-answers/principle - judgement call.md",
-    "business-continuity-disaster-recovery-roadmap.md",
-    "conferences.md"
+    "ux-anatomy-best-practices.md",
+    "crm-anatomy-best-practices.md",
+    "README.md",
+    "cybernetic-intervention-layers.md",
+    "org-change.md"
   ]
 }
