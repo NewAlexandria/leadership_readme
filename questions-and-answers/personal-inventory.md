@@ -16,13 +16,14 @@ While far from, this inventory has many similarities to what I have already lear
 * Finding the best possible solution
 * Accuracy & precision
 * Eliminating waste and inefficiency
-* Being correct
+* Developing a comprehensive picture
 
 ### What drains me
 * Dealing with emotionally charged issues
 * When others do not follow through on promises
-* Meeting lots of new people at once
+* ~~Meeting lots of new people at once~~
 * Unclear goals
+* Other trying to use personality to solve for uncertainty
 
 ### When speaking to me
 * Trust that he will follow specific verbal instructions

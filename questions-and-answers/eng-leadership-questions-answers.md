@@ -8,6 +8,17 @@ I believe in servant-leadership, and have ascribed to this since early in my car
 
 Most of my work has been with startups.  Bootstrap to Seed.  Seed to Series A.  A to B.  B to flip.   I also have worked with two global enterprises.
 
+I've started 5 companies, and led a raised capital.  I've been an advisor to several startups and stable small-businesses in a paid capacity. I've scaled companies from the 10s to the 60s, and past 150.  I've taken a pivotal role in engineering organizations over 200 headcount. I have ranged from raising capital as a startup founder, running my own biz dev and sales as a consultant, to working at large corporations and leading technology teams.
+
+### Critical Thinking and Research Skills?
+
+How do you face and approach a problem?
+
+
+### How do you build a team where everyone stays motivated?
+
+### What are the company's prospects and challenges?
+
 
 ### What exposure do you have to all of the functions in a business?
 
@@ -20,10 +31,6 @@ With some qualifiers, as many as 10 years experience.  This comes from being the
 ### How many years of experience do you have as a VP of Engineering?
 
 4 formally as that title, though the past 8 years have served that role, or higher. Having started 4 companies and led a capital raise once, I have as many as 10 yr total experience with practices attention related to the VP of Engineering role.
-
-### Startup Experience?
-
-I've started 5 companies, and led a raised capital.  I've been an advisor to several startups and stable small-businesses in a paid capacity. I've scaled companies from the 10s to the 60s, and past 150.  I've taken a pivotal role in engineering organizations over 200 headcount. I have ranged from raising capital as a startup founder, running my own biz dev and sales as a consultant, to working at large corporations and leading technology teams.
 
 
 ### How do you scale organizations?
