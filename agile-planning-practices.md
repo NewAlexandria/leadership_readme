@@ -155,3 +155,12 @@ These anti-patterns are a mix of cross-team situations, and inter-team dynamics.
 1. Silver-bullet syndrome
 1. Overestimated savings from new tools or methods
 1. Switching tools in the middle of a project
+
+## Frameworks
+
+* [ShapeUp](https://basecamp.com/shapeup/), from basecamp
+* [Agile](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/), by Wrike
+* [SAFe](https://www.atlassian.com/agile/agile-at-scale/what-is-safe)
+	* [SAFe Principles](https://scaledagileframework.com/train-executives-managers-and-leaders/)
+* [Lean IX](https://www.atlassian.com/agile/agile-at-scale/lean-portfolio-management)
+* 
