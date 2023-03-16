@@ -26,8 +26,26 @@ All of these things cannot be wholly owned by engineering leadership unless  som
 
 Though this chart can be excessive, most of these pressure exist in people, in the way the react to their job, if not also their life.  While it's important to not over-psychoanalyze anyone, it is important to help them untangle their pressures.  The best professionals will self-manage the differentiation of personal development from work development.
 
+
+
 ![](assets/career-growth-dimensions.jpg)
 
+### Some Routines for Team Health
+
+* Coach, 
+* empower and 
+* defined boundaries
+* everyone knows what the expected outcome
+* get out of the way as necessary
+* Create synergy
+* chasing information to do work drains motivation and depletes trust between teams
+* default open” culture of learning and improvements; ideas, information, and feedback, flow freely
+* 
+
+
+#### Trust
+
+Listening.  Really listening to others is the #1 thing that anyone can do to earn trust.  People that are seen, know that their needs are understood.  In the process of being seen, we see others, any know something about how we can trust them.
 
 ## The PIP
 
