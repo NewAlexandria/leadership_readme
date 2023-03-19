@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agile-planning-practices.md",
+                "file": "questions-and-answers/eng-leadership-questions-answers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agile",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agile-planning-practices.md",
+                "file": "questions-and-answers/eng-leadership-questions-answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "agile-planning-practices.md",
+                "file": "questions-and-answers/eng-leadership-questions-answers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agile-planning-practices.md"
+                "file": "questions-and-answers/eng-leadership-questions-answers.md"
               }
             }
           }
@@ -198,6 +197,7 @@
   },
   "active": "00978fead994ccad",
   "lastOpenFiles": [
+    "agile-planning-practices.md",
     "agile-planning-practices~.md",
     "agile-configuration.md",
     "questions-and-answers/eng-leadership-questions-answers.md",

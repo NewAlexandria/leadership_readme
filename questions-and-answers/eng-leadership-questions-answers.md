@@ -69,6 +69,14 @@ I have built internal tools and workflows, for sales, marketing, and strategy te
 
 I have lead strategy and platform product definition in B2B2C environments, and the modernization of numerous legacy internal CMS, CRM, and compliance toolchains.  This includes experience defining projects, collecting requirements, writing detailed functional and test specifications, coordinating efforts to scope, schedule and deploy new features sets, thinking beyond the bounds of the scenario at hand, and creating and environment where everyone can share these same ideas.
 
+### Describe a complex decision you had to navigate where engineering and business leaders had competing priorities
+
+This most commonly happens where business and sales teams over-promise a special partner in order to frame a growth in business that can stepwise move toward securing capital leveraged on a large next-valuation — and then product engineering teams are not fully capable of delivering because the over-promise was a true over-promise.   
+
+It's best to rein this in by establishing chartering and feedback loops as a regular liteweight practice involving a leadership group.  It ensures that forward deployed staff can trust that they'll get feedback at the speed necessary for relations. 
+
+When the problem has already been created, sometimes you can be lucky enough to solve it with staff-aug by consultants, either project based, or increasing hours with existing individuals or agencies. When this isn't possible, find the absolute minimum spike that proves the new feature, validate with the partner, then sprint to a business-POC, feedback, adjust, then launch an MVP, and iterate from there. 
+
 
 ## Domain Knowledge
 
