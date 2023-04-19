@@ -102,6 +102,7 @@ Some of these:
     * Polymorphism
     * Protected variations
     * Pure fabrication
+* [Monolith pros-and-cons](https://github.com/canerbasaran/awesome-monolith#readme)
 
 Without a more elaborate dictionary of patterns, we can already consider how the total set of all patterns is the configurations of different resource types defined by the 'metal' of the OS.
 
@@ -201,6 +202,16 @@ Onboarding time probably represents one of the most complicated KPIs to solve, s
 
 * synchronization (semantic latency)
 * network segmentation
+
+### Microservices
+
+When to microservice?  There are few common principles for making the decision.  Think of these as heuristics for semantics of your domain
+
+1. What is the ratio of feature (external business) endpoints, to integration (internal private) endpoints in a given service?
+2. Are there, business-wise, unrelated endpoints in a service? Can you split them across two or more services without introducing integration-oriented endpoints?
+3. Would merging two services eliminate endpoints that were added to integrate the original services?
+
+Use these heuristics to guide the design of your services’ boundaries and interfaces.
 
 
 # References

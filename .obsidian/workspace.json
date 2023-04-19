@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "questions-and-answers/eng-leadership-questions-answers.md",
+                "file": "web-app-anatomy-best-practices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "questions-and-answers/eng-leadership-questions-answers.md",
+                "file": "web-app-anatomy-best-practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "questions-and-answers/eng-leadership-questions-answers.md",
+                "file": "web-app-anatomy-best-practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "questions-and-answers/eng-leadership-questions-answers.md"
+                "file": "web-app-anatomy-best-practices.md"
               }
             }
           }
@@ -197,10 +197,12 @@
   },
   "active": "00978fead994ccad",
   "lastOpenFiles": [
+    "assets/recession-proof-engineering-leadership.pdf",
+    "integration-best-practices.md",
+    "questions-and-answers/eng-leadership-questions-answers.md",
     "agile-planning-practices.md",
     "agile-planning-practices~.md",
     "agile-configuration.md",
-    "questions-and-answers/eng-leadership-questions-answers.md",
     "assets/agile/SAFe implementation Roadmap_6.0.png",
     "chilling-effects.md",
     "hiring.md",
