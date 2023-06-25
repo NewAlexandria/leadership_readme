@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web-app-anatomy-best-practices.md",
+                "file": "questions-and-answers/principle - judgement call.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +113,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1e45cc2c79dc4d47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-app-anatomy-best-practices.md",
+                "file": "questions-and-answers/principle - judgement call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web-app-anatomy-best-practices.md",
+                "file": "questions-and-answers/principle - judgement call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web-app-anatomy-best-practices.md"
+                "file": "questions-and-answers/principle - judgement call.md"
               }
             }
           }
@@ -197,12 +206,17 @@
   },
   "active": "00978fead994ccad",
   "lastOpenFiles": [
-    "assets/recession-proof-engineering-leadership.pdf",
+    "prfaq.md",
+    "onboarding/NHO-practice-group.md",
     "integration-best-practices.md",
+    "ide-anatomy.md",
+    "agile-charter-types.md",
+    "agile-configuration.md",
+    "web-app-anatomy-best-practices.md",
+    "assets/recession-proof-engineering-leadership.pdf",
     "questions-and-answers/eng-leadership-questions-answers.md",
     "agile-planning-practices.md",
     "agile-planning-practices~.md",
-    "agile-configuration.md",
     "assets/agile/SAFe implementation Roadmap_6.0.png",
     "chilling-effects.md",
     "hiring.md",

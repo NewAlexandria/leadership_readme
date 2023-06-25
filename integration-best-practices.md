@@ -10,6 +10,7 @@ This list can serve as a guideline to inventory a new integration relationship, 
 * sandboxing, env, deployment, config
 * RBAC and access, network access
 * GUI or app, or framework
+	* simple/common domain, or bespoke/complex domain?
 * search, indexing
 * queuing
 * cache

@@ -30,6 +30,7 @@ Some related thoughts [from SO, here](https://stackoverflow.blog/2019/09/05/they
 
 * Is there a dependency analyzer in-use already? If not:
   * What languages and libraries/frameworks are used?
+	  * do the framework(s) [represent the domain concepts](https://glazkov.com/2023/05/29/four-layers/) of the applications and business?
   * What are some commonly used external dependencies?
 * What is the file structure?
 * You’ve picked a file or a module – what does this file or module do and how does it do it?
