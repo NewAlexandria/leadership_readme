@@ -67,6 +67,7 @@ This is an epistemology of measures.  Organically, there's no mans by which to k
 
 > If your team resists agile estimation and story pointing, lead them through the exercise without actually getting to story points (poker, or otherwise).   Try to keep a note card of the ratios between cards they groom — the proportion of 1,2,3,5s for a given timebox. It will give you coefficients for comparing timeboxes and forming a better average of velocity.
 
+Also for clarity, this risk sizing / bucketing is different from '[risk storming](https://riskstorming.com/)' which is an addendum technique to storymapping and strategic-level roadmapping.
 
 ### Some Queries
 

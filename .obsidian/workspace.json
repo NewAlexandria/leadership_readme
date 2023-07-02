@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "questions-and-answers/principle - judgement call.md",
+                "file": "agile-charter-types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "framework",
+                "query": "risk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "questions-and-answers/principle - judgement call.md",
+                "file": "agile-charter-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "questions-and-answers/principle - judgement call.md",
+                "file": "agile-charter-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "questions-and-answers/principle - judgement call.md"
+                "file": "agile-charter-types.md"
               }
             }
           }
@@ -206,6 +205,10 @@
   },
   "active": "00978fead994ccad",
   "lastOpenFiles": [
+    "agile-anti-patterns.md",
+    "ticketing-best-practices.md",
+    "_site/email-engagement-anatomy.md",
+    "questions-and-answers/principle - judgement call.md",
     "prfaq.md",
     "onboarding/NHO-practice-group.md",
     "integration-best-practices.md",

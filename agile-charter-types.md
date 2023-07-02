@@ -179,6 +179,7 @@ Updates to Even School and other materials used to orient new employees.
   * tech-ops and saleseng, and
   * BI ad-hoc reporting along with
   * related eng. support.
+2. when and where to orthogonal planning techniques, like [Risk Storming](https://archive.md/oYwWW) come into play?
 
 # References
 
