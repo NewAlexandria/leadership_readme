@@ -5,9 +5,14 @@
 First Party 
 
 The addition of these services will require the storage and access of data gathered about an email, external to a lead. This database would facilitate campaign (or another microservice) in being able to manage these in an abstract manner and fork updates to relevant subscribers (like ESPs).
-a) Email lookup table (id, email, hash? )
-b) Events Tables (ESP and Suppression-management - add event source to public.events?)
-c) Statuses Table (FA, Suppression-management, etc)
+
+- a) Email lookup table (id, email, hash? )
+- b) Events Tables (ESP and Suppression-management - add event source to public.events?)
+- c) Statuses Table (FA, Suppression-management, etc)
+
+### CDP and CIP repositories
+
+
  
 ## Campaign Management
 

@@ -36,3 +36,10 @@ While far from, this inventory has many similarities to what I have already lear
 * Bring documentation and data to support your points
 * Take time to thoroughly explain your idea
 * Minimize the amount of open-ended questions
+
+
+## Personal Mission 
+
+“I will [action] for [audience] by [skills] to [desired result].”
+
+An outline for reflecting on [what a personal mission statement could be composed of](https://www.indeed.com/career-advice/career-development/personal-mission-statement-examples)
