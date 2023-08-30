@@ -39,9 +39,17 @@ Though this chart can be excessive, most of these pressure exist in people, in t
 * get out of the way as necessary
 * Create synergy
 * chasing information to do work drains motivation and depletes trust between teams
-* default open” culture of learning and improvements; ideas, information, and feedback, flow freely
-* 
+* default open” culture of learning and improvements; ideas, information, and feedback, flow freely 
 
+### Some Routines for Personal-Professional Growth
+*([ref](https://dev.to/inovak/7-habits-to-cultivate-for-becoming-a-better-software-engineer-344o))*
+* Invest in Your Craft Outside of Work
+* Understand the Why, Not Just the How
+* Collaborate Intentionally
+* Architect with the Future in Mind
+* Own Your Code
+* Continuously Improve Through Feedback and Reflection
+* Bring Passion, Curiosity, and Perspective
 
 #### Trust
 

@@ -263,8 +263,20 @@ It's a good idea to formally create [informal communications](https://about.gitl
 Coffee 1:1s, open video-call times, happy hours, etc, but can also be unscripted ‘drop in’ times and anyone can state their openness. Social contact cannot be forced, but we can each do our part to make it certain times more enjoyable than others. For fully distributed teams, ensuring these times holds lasting value.
 
 
-
 1:1 times are important, too. Team members that collaborate with each other (1:1) should expect a small bit of time will go to just being a normal human with each other. This often appears as 5 (or whatever) minutes of talking before getting down to business. If you can plan for a little bit of this time each week, no one will be surprised.
+
+#### Virtual Gathering spaces
+
+It's not everyone's jame, but 'avatar tools' [like Gather.town](https://www.gather.town/) help to create some of the spatial feel of being around others.
+
+You can also do "Shared space" sessions, where everyone joins a video call while doing quiet solo work.  People can split off if a question gets too distracting to others.  Sometimes these are best done in pairs, since the conversation styles can be aligned.  
+
+Regular collaborative sessions, such as mandatory pair and mob programming, are also effective.
+
+In all cases it's more about finding the right tone to get people to try it and realize the value.  It can help to screen for willingness and receptivity during onboarding.  Find how to get people to take risks and experiment with the changing office landscape, but know the chemistry of your team, too.
+
+### Journaling vs Standup
+When time zones and scheduled don't overlap enough, look to use intermittent daily journaling to give value in place of common standup time, and to act a bit like a GTD / pomodoro.
 
 ### Re-creating the Office
 

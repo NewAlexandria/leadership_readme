@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ticketing-best-practices.md",
+                "file": "career-coaching-training.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "groom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ticketing-best-practices.md",
+                "file": "career-coaching-training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ticketing-best-practices.md",
+                "file": "career-coaching-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ticketing-best-practices.md"
+                "file": "career-coaching-training.md"
               }
             }
           }
@@ -190,15 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "690a545b32260114",
+  "active": "d8adb9b26a9f0422",
   "lastOpenFiles": [
+    "career-ladder.md",
+    "onboarding/NHO-team.md",
     "_site/remote-work.md",
-    "ticketing-best-practices.md",
     "remote-work.md",
+    "ticketing-best-practices.md",
+    "agile-anti-patterns.md",
     "agile-planning-practices.md",
     "_site/agile-charter-types.md",
     "agile-charter-types.md",
-    "agile-anti-patterns.md",
     "questions-and-answers/personal-inventory.md",
     "questions-and-answers/eng-leadership-questions-answers.md",
     "_site/agile-planning-practices.md",
@@ -217,8 +219,6 @@
     "agile-planning-practices~.md",
     "assets/agile/SAFe implementation Roadmap_6.0.png",
     "chilling-effects.md",
-    "career-coaching-training.md",
-    "_site/coaching-training.md",
-    "onboarding/NHO-corp.md"
+    "career-coaching-training.md"
   ]
 }
