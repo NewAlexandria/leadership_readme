@@ -104,7 +104,18 @@ Good specs for a code sample will ask for something that is complex to know, but
 It should be relevant to the area of industrial practice.  Writing stack, parse, or graph-structure implementations may suit some enterprise environments, but be meaningless for an agency. 
 
 
+## Questions to look for from Product candidates
 
+- How do you measure this product’s success?
+- Where do ideas come from?
+- What are you excited to work on in the next year?
+- What challenges do you want to solve?
+- What skills or personality traits does someone need to thrive in this role?
+- Product Must Be Essential — how is it so?
+- In what ways is the Product not Intuitive?
+- [Who really experiences delight from the product? ](https://builtin.com/product/product-success-principles)
+
+Then, what do they stand for, and how do they seem themselves aligned?
 
 # References
 
