@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career-coaching-training.md",
+                "file": "interviewing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "career-coaching-training.md",
+                "file": "hiring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "career-coaching-training.md",
+                "file": "hiring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "career-coaching-training.md"
+                "file": "hiring.md"
+              }
+            }
+          },
+          {
+            "id": "b4797259e898a3e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -190,12 +199,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8adb9b26a9f0422",
+  "active": "e6f30c73ce67f266",
   "lastOpenFiles": [
+    "questions-and-answers/principle - judgement call.md",
+    "interviewing.md",
+    "prfaq.md",
+    "remote-work.md",
+    "career-coaching-training.md",
     "career-ladder.md",
     "onboarding/NHO-team.md",
     "_site/remote-work.md",
-    "remote-work.md",
     "ticketing-best-practices.md",
     "agile-anti-patterns.md",
     "agile-planning-practices.md",
@@ -206,10 +219,8 @@
     "_site/agile-planning-practices.md",
     "crm-anatomy-best-practices.md",
     "hiring.md",
-    "questions-and-answers/principle - judgement call.md",
     "email-engagement-anatomy.md",
     "_site/email-engagement-anatomy.md",
-    "prfaq.md",
     "onboarding/NHO-practice-group.md",
     "integration-best-practices.md",
     "ide-anatomy.md",
@@ -217,8 +228,6 @@
     "web-app-anatomy-best-practices.md",
     "assets/recession-proof-engineering-leadership.pdf",
     "agile-planning-practices~.md",
-    "assets/agile/SAFe implementation Roadmap_6.0.png",
-    "chilling-effects.md",
-    "career-coaching-training.md"
+    "assets/agile/SAFe implementation Roadmap_6.0.png"
   ]
 }

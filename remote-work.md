@@ -267,7 +267,7 @@ Coffee 1:1s, open video-call times, happy hours, etc, but can also be unscripted
 
 #### Virtual Gathering spaces
 
-It's not everyone's jame, but 'avatar tools' [like Gather.town](https://www.gather.town/) help to create some of the spatial feel of being around others.
+It's not everyone's jame, but 'avatar tools' [like Gather.town](https://www.gather.town/) , or [Kumospace](https://www.builtinnyc.com/2023/08/16/kumospace-acquires-kosy), help to create some of the spatial feel of being around others.
 
 You can also do "Shared space" sessions, where everyone joins a video call while doing quiet solo work.  People can split off if a question gets too distracting to others.  Sometimes these are best done in pairs, since the conversation styles can be aligned.  
 
