@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hiring.md",
+                "file": "agile-planning-practices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interviewing.md",
+                "file": "qa-test-framework.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "agile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hiring.md",
+                "file": "qa-test-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hiring.md",
+                "file": "qa-test-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hiring.md"
+                "file": "qa-test-framework.md"
               }
             }
           },
@@ -199,10 +201,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6f30c73ce67f266",
+  "active": "d8adb9b26a9f0422",
   "lastOpenFiles": [
-    "questions-and-answers/principle - judgement call.md",
+    "_site/onboarding.md",
+    "onboarding.md",
+    "_site/questions-and-answers/eng-leadership-questions-answers.md",
+    "agile-planning-practices.md",
+    "assets/leadership QR code blank.jpg",
+    "assets/charter-epic-card-fields old.png",
+    "assets/charter-epic-card-fields 2.png",
+    "assets/charter-epic-card-fields copy.png",
+    "assets copy/testing-quality-component.png",
+    "assets copy/enterprise-time-base-comm-tooling.pdf",
+    "assets copy/onboarding/example-jira-workflow.png",
+    "assets copy/onboarding/dev-LOC-metric-retort-called-incel-etc.png",
+    "assets copy/onboarding/NHO-doc-hierarchy.pdf",
+    "assets copy/onboarding/NHO-doc-hierarchy.jpg",
+    "assets copy/onboarding",
+    "assets copy/Agile-story-mapping.graffle",
+    "assets copy/enterprise-time-base-comm-tooling.jpg",
+    "assets copy/distributed-teams/Proactive-Assertive-Direct-and-Tactful.pdf",
+    "assets copy/distributed-teams/Influencing remotely.pdf",
+    "assets copy/distributed-teams/Influencing Remotely Workbook  2015.doc.docx",
+    "assets copy/distributed-teams/Influencing Remotely Workbook  2015.doc",
+    "assets copy/distributed-teams/Conducting Effective V-Meetings Workbook 2015.doc.docx",
+    "assets copy/distributed-teams/Conducting Effective V-Meetings Workbook 2015.doc",
+    "assets copy/data/graph-ml-workflow.png",
     "interviewing.md",
+    "hiring.md",
+    "questions-and-answers/principle - judgement call.md",
     "prfaq.md",
     "remote-work.md",
     "career-coaching-training.md",
@@ -211,23 +238,16 @@
     "_site/remote-work.md",
     "ticketing-best-practices.md",
     "agile-anti-patterns.md",
-    "agile-planning-practices.md",
     "_site/agile-charter-types.md",
     "agile-charter-types.md",
     "questions-and-answers/personal-inventory.md",
     "questions-and-answers/eng-leadership-questions-answers.md",
     "_site/agile-planning-practices.md",
     "crm-anatomy-best-practices.md",
-    "hiring.md",
     "email-engagement-anatomy.md",
     "_site/email-engagement-anatomy.md",
     "onboarding/NHO-practice-group.md",
     "integration-best-practices.md",
-    "ide-anatomy.md",
-    "agile-configuration.md",
-    "web-app-anatomy-best-practices.md",
-    "assets/recession-proof-engineering-leadership.pdf",
-    "agile-planning-practices~.md",
-    "assets/agile/SAFe implementation Roadmap_6.0.png"
+    "ide-anatomy.md"
   ]
 }
