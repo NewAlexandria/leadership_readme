@@ -1,4 +1,4 @@
-# Team Files and Shares
+    # Team Files and Shares
 
 * You want to think of drive files as a complement to wikis and other docs
 * Create online / cloud files first, unless there is a specific need.
