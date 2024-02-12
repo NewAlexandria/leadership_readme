@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qa-test-framework.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qa-test-framework.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qa-test-framework.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qa-test-framework.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,7 +179,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -203,6 +204,11 @@
   },
   "active": "d8adb9b26a9f0422",
   "lastOpenFiles": [
+    "questions-and-answers/Scaling-a-Rails-Platform-Services.md",
+    "questions-and-answers/community-moderation-qna.md",
+    "questions-and-answers/principle - judgement call.md",
+    "qa-test-framework.md",
+    "questions-and-answers/Scaling a Rails Platform Services.md",
     "Writerside/topics/Practices.md",
     "Writerside/topics/Agile-Groups.md",
     "Writerside/topics/Practices.topic",
@@ -231,7 +237,6 @@
     "assets copy/data/graph-ml-workflow.png",
     "interviewing.md",
     "hiring.md",
-    "questions-and-answers/principle - judgement call.md",
     "prfaq.md",
     "remote-work.md",
     "career-coaching-training.md",
@@ -244,10 +249,6 @@
     "agile-charter-types.md",
     "questions-and-answers/personal-inventory.md",
     "questions-and-answers/eng-leadership-questions-answers.md",
-    "_site/agile-planning-practices.md",
-    "crm-anatomy-best-practices.md",
-    "email-engagement-anatomy.md",
-    "_site/email-engagement-anatomy.md",
-    "onboarding/NHO-practice-group.md"
+    "_site/agile-planning-practices.md"
   ]
 }
