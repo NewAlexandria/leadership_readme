@@ -72,3 +72,4 @@ resumes/*.gz
 
 # envs
 .DS_Store
+.idea
